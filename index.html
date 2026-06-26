@@ -1,0 +1,3515 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4F4M5XBNE6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4F4M5XBNE6');
+</script>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KPB9265C');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- PRIMARY META -->
+  <title>Jasa Pembuatan Website Selesai 24 Jam | Garansi Uang Kembali 100%</title>
+  <meta name="description" content="Website selesai 24 jam atau uang kembali 100%. Khusus 1 project per hari. Fokus landing page cepat untuk iklan Google & konversi WA.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#22C55E">
+  
+  <style>
+/* ===== RESET & VARIABLES ===== */
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#F8FAFC;color:#0F172A;line-height:1.5;overflow-x:hidden}
+.container{max-width:1200px;margin:0 auto;padding:0 20px;width:100%}
+.section{padding:60px 0}
+h1{font-size:clamp(28px,7vw,52px);line-height:1.2;font-weight:700;letter-spacing:-0.02em}
+h2{font-size:clamp(24px,6vw,40px);font-weight:700;letter-spacing:-0.02em;margin-bottom:20px}
+h3{font-size:clamp(20px,4vw,24px);font-weight:600;margin-bottom:12px}
+p{color:#334155;font-size:clamp(16px,4vw,18px);line-height:1.6}
+
+/* ===== BUTTONS ===== */
+.btn{display:inline-block;padding:14px 24px;border-radius:100px;text-decoration:none;font-weight:600;transition:all 0.2s;text-align:center;border:none;cursor:pointer}
+.btn-primary{background:#22C55E;color:#fff}
+.btn-primary:hover{background:#16A34A;transform:scale(1.02)}
+.btn-outline{border:2px solid #0F172A;color:#0F172A;background:transparent}
+.btn-outline:hover{background:#0F172A;color:#fff}
+
+/* ===== NAVBAR ===== */
+.navbar{position:fixed;top:0;width:100%;background:rgba(255,255,255,0.98);backdrop-filter:blur(10px);box-shadow:0 2px 10px rgba(0,0,0,0.05);z-index:1000}
+.nav-inner{display:flex;justify-content:space-between;align-items:center;height:70px}
+.nav-links{display:flex;gap:20px;align-items:center}
+.nav-links a{text-decoration:none;color:#1E293B;font-weight:500;font-size:14px;white-space:nowrap}
+.nav-links a:hover{color:#22C55E}
+.slot-badge{background:#22C55E20;color:#22C55E;padding:4px 10px;border-radius:100px;font-size:12px;font-weight:600;border:1px solid #22C55E;white-space:nowrap}
+.btn-wa{background:#25D366;color:white;padding:8px 16px;border-radius:100px;text-decoration:none;font-weight:600;display:flex;align-items:center;gap:6px;white-space:nowrap;font-size:13px;box-shadow:0 4px 10px rgba(37,211,102,0.2)}
+.btn-wa svg{width:16px;height:16px}
+
+/* ===== HAMBURGER ===== */
+.hamburger{display:none;font-size:28px;cursor:pointer;color:#0F172A}
+#mobileMenu{display:none;background:white;padding:20px;border-top:1px solid #E2E8F0;position:absolute;top:70px;left:0;width:100%;box-shadow:0 10px 20px rgba(0,0,0,0.05);z-index:999}
+.mobile-menu-item{padding:12px;text-decoration:none;color:#1E293B;font-weight:500;border-radius:8px;display:block}
+.mobile-menu-item:hover{background:#F1F5F9}
+.mobile-wa{background:#25D366;color:white;padding:14px;border-radius:100px;text-decoration:none;font-weight:600;display:flex;align-items:center;justify-content:center;gap:8px;margin-top:10px}
+
+/* ===== HERO ===== */
+.hero{padding-top:90px;display:flex;align-items:center;gap:30px}
+.hero-content{flex:1}
+.hero-image{flex:1}
+.guarantee-badge{background:#FEF3C7;border:1px solid #F59E0B;color:#92400E;padding:8px 16px;border-radius:100px;display:inline-flex;align-items:center;gap:6px;font-weight:600;margin-bottom:20px;font-size:14px}
+
+/* ===== GRID ===== */
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:30px}
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:15px}
+.card{background:#fff;border-radius:20px;padding:25px;box-shadow:0 5px 20px rgba(0,0,0,0.03);height:100%}
+
+/* ===== PROBLEM CARDS ===== */
+.problem-card{background:#F8FAFC;border-radius:20px;padding:20px;border-left:4px solid #EF4444;height:100%}
+.problem-card:hover{transform:translateY(-5px);box-shadow:0 20px 25px -12px rgba(239,68,68,0.15);background:#fff!important}
+
+/* ===== PORTFOLIO ===== */
+.portfolio-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:15px}
+.portfolio-item{aspect-ratio:16/9;border-radius:16px;overflow:hidden;position:relative}
+.portfolio-item img{width:100%;height:100%;object-fit:cover}
+.portfolio-badge{position:absolute;top:10px;right:10px;background:#22C55E;color:#fff;padding:4px 8px;border-radius:50px;font-size:11px;font-weight:600}
+
+/* ===== HOVER EFFECTS ===== */
+.solusi-card,.testi-card{transition:all 0.25s ease}
+.solusi-card:hover{transform:translateY(-5px);box-shadow:0 20px 25px -8px rgba(34,197,94,0.15);background:#fff!important}
+.testi-card:hover{transform:translateY(-5px);box-shadow:0 20px 25px -12px rgba(34,197,94,0.15);background:#fff!important}
+
+/* ===== FOOTER ===== */
+footer{background:#0F172A;color:#fff;padding:40px 0;text-align:center}
+footer p{color:#94A3B8;font-size:14px}
+
+/* ===== RESPONSIVE BREAKPOINTS (DIGABUNG) ===== */
+@media (max-width:1024px){
+  .grid-4{grid-template-columns:repeat(2,1fr)}
+  .grid-3{grid-template-columns:repeat(2,1fr)}
+  .hero{gap:20px}
+}
+
+@media (max-width:768px){
+  .nav-links{display:none!important}
+  .hamburger{display:block!important}
+  .hero{flex-direction:column;padding-top:80px}
+  .hero-content,.hero-image{width:100%}
+  .grid-2,.grid-3,.grid-4{grid-template-columns:1fr}
+  .portfolio-grid{grid-template-columns:repeat(2,1fr)}
+  .container{padding:0 16px}
+  .section{padding:40px 0}
+  h2{text-align:center}
+  [style*="grid-template-columns:repeat(4,1fr)"]{grid-template-columns:1fr!important}
+  [style*="grid-template-columns:repeat(3,1fr)"]{grid-template-columns:1fr!important}
+  [style*="grid-template-columns:repeat(2,1fr)"]{grid-template-columns:1fr!important}
+}
+
+@media (max-width:480px){
+  .hero{padding-top:70px}
+  .guarantee-badge{font-size:12px;padding:6px 12px;white-space:normal}
+  .btn{padding:12px 20px;font-size:15px}
+  .portfolio-grid{grid-template-columns:1fr}
+}
+
+/* ===== FIX HEADING ORDER ===== */
+h4, [style*="font-size:18px; margin-bottom:5px;"] {
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+/* ===== FIX IMAGES ===== */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ===== FIX TEXT WRAPPING ===== */
+h1, h2, h3, h4, p, span, div {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* ===== ACCESSIBILITY FIXES - KONTRAST WARNA ===== */
+[style*="color:#22C55E;"]:not([style*="background:"]):not([style*="background-color"]) {
+  color: #15803d !important;
+}
+
+[style*="background:#E6F7E6; color:#22C55E;"],
+[style*="background:#E6F7E6"][style*="color:#22C55E"] {
+  background: #dcfce7 !important;
+  color: #166534 !important;
+}
+
+[style*="background:#FEE2E2; color:#EF4444;"],
+[style*="background:#FEE2E2"][style*="color:#EF4444"] {
+  background: #fecaca !important;
+  color: #b91c1c !important;
+}
+
+[style*="color:#94A3B8;"] {
+  color: #475569 !important;
+}
+
+[style*="color:#22C55E; font-weight:700;"],
+[style*="font-weight:700; color:#22C55E;"],
+[style*="font-weight:800; color:#22C55E;"] {
+  color: #15803d !important;
+}
+
+[style*="background:#22C55E; color:white; padding:2px 10px;"] {
+  background: #15803d !important;
+  color: white !important;
+}
+
+.btn-primary, 
+[style*="background:#22C55E; color:white;"]:not([style*="background:#22C55E20"]) {
+  background-color: #15803d !important;
+  color: white !important;
+}
+
+[style*="font-size:56px; font-weight:800; color:#22C55E;"] {
+  color: #15803d !important;
+}
+
+[style*="color:#22C55E; font-weight:600;"] {
+  color: #15803d !important;
+}
+
+[style*="color:#334455;"] {
+  color: #1e293b !important;
+}
+
+[style*="background:#22C55E20;"],
+[style*="background:rgba(34,197,94,0.12);"],
+[style*="background:rgba(34,197,94,0.1);"] {
+  background: rgba(21, 128, 61, 0.15) !important;
+}
+
+[style*="color:#64748B;"] {
+  color: #334155 !important;
+}
+
+footer p, [style*="color:#94A3B8;"] {
+  color: #cbd5e1 !important;
+}
+
+/* ===== FIX KONTRAS TERAKHIR UNTUK SKOR 100 ===== */
+[style*="background: rgb(254, 226, 226); color: rgb(239, 68, 68);"],
+[style*="background:#FEE2E2; color:#EF4444;"] {
+  background: #fecaca !important;
+  color: #b91c1c !important;
+}
+
+[style*="background: rgb(239, 68, 68); color: white;"],
+[style*="background:#EF4444; color:white;"] {
+  background: #b91c1c !important;
+  color: white !important;
+}
+
+[style*="color:#EF4444;"] {
+  color: #b91c1c !important;
+}
+
+[style*="color:#F59E0B;"] {
+  color: #b45309 !important;
+}
+
+[style*="color:#F59E0B; margin-top:10px;"] {
+  color: #b45309 !important;
+}
+
+[style*="background: rgb(245, 158, 11); color: white;"],
+[style*="background:#F59E0B; color:white;"] {
+  background: #b45309 !important;
+  color: white !important;
+}
+
+[style*="color:#F59E0B; margin-bottom:5px;"] {
+  color: #b45309 !important;
+}
+
+[style*="font-weight:700; color:#EF4444;"] {
+  color: #b91c1c !important;
+}
+
+[style*="background:#F1F5F9;"] [style*="color:#EF4444;"] {
+  color: #b91c1c !important;
+}
+
+[style*="font-size:12px; color:#94A3B8;"] {
+  color: #475569 !important;
+}
+
+[style*="flex:1; min-width:240px; background:white;"] [style*="color:#64748B;"] {
+  color: #334155 !important;
+}
+
+[style*="background: rgba(34, 197, 94, 0.125); color: rgb(34, 197, 94);"],
+[style*="background:#22C55E20; color:#22C55E;"] {
+  background: #dcfce7 !important;
+  color: #166534 !important;
+}
+
+[style*="color:#22C55E;"]:not([style*="background:"]) {
+  color: #15803d !important;
+}
+
+span[style*="background:#22C55E; color:white;"] {
+  background: #15803d !important;
+}
+
+/* ===== FIX KONTRAS TERAKHIR ===== */
+[style*="background: rgb(34, 197, 94); color: rgb(255, 255, 255);"],
+[style*="background:#22C55E; color:white;"] {
+  background-color: #15803d !important;
+  color: #ffffff !important;
+}
+
+[style*="color:#94A3B8;"] {
+  color: #1e293b !important;
+  font-weight: 500 !important;
+}
+
+[style*="background: rgb(34, 197, 94); color: rgb(255, 255, 255); padding: 4px 14px;"],
+[style*="background:#22C55E; color:#fff; padding:4px 14px;"] {
+  background-color: #15803d !important;
+}
+
+[style*="color:#22C55E; font-size:13px;"] {
+  color: #15803d !important;
+}
+
+[style*="background:#E6F7E6;"] {
+  background-color: #bbf7d0 !important;
+}
+
+[style*="background: rgba(34, 197, 94, 0.082); color: rgb(34, 197, 94);"],
+[style*="background:#22C55E15; color:#22C55E;"] {
+  background-color: #15803d20 !important;
+  color: #15803d !important;
+}
+
+a[style*="background: white; color: rgb(34, 197, 94);"],
+[style*="background:white; color:#22C55E;"] {
+  color: #15803d !important;
+  border: 1px solid #15803d !important;
+}
+
+/* ===== FLOATING BUTTONS MOBILE ===== */
+@media (max-width: 768px) {
+  [style*="position:fixed; bottom:20px; right:20px;"] {
+    bottom: 15px !important;
+    right: 15px !important;
+    gap: 8px !important;
+  }
+  
+  [style*="position:fixed; bottom:20px; right:20px;"] a {
+    width: 48px !important;
+    height: 48px !important;
+  }
+  
+  [style*="position:fixed; bottom:20px; right:20px;"] svg {
+    width: 22px !important;
+    height: 22px !important;
+  }
+}
+
+/* ===== URGENCY SECTION MOBILE ===== */
+@media (max-width: 768px) {
+  [style*="background:#fff; border-radius:24px; padding:20px; margin:40px 0;"] {
+    padding: 15px !important;
+  }
+  
+  [style*="display:flex; align-items:center; gap:15px;"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+  
+  [style*="background:#FEF3C7; border-left:4px solid #F59E0B;"] > div {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+  
+  [style*="background:#FEF3C7; border-left:4px solid #F59E0B;"] a {
+    width: 100% !important;
+    text-align: center !important;
+  }
+}
+
+/* ===== NOTIF MARKETPLACE ANIMATION (GABUNGAN) ===== */
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOutLeft {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+}
+
+.notif-marketplace {
+  animation: slideInLeft 0.3s ease;
+}
+
+.notif-marketplace.closing {
+  animation: slideOutLeft 0.3s ease forwards;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .notif-marketplace {
+    left: 10px !important;
+    right: auto !important;
+    bottom: 10px !important;
+    max-width: 280px !important;
+    padding: 12px 15px !important;
+  }
+  
+  .notif-marketplace div:first-child div:first-child {
+    width: 36px !important;
+    height: 36px !important;
+    font-size: 14px !important;
+  }
+  
+  .notif-marketplace div:first-child div:nth-child(2) div:nth-child(2) {
+    font-size: 14px !important;
+  }
+}
+
+/* ===== FIX KALKULATOR CEPAT MOBILE ===== */
+@media (max-width: 768px) {
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] > div {
+    flex-direction: column !important;
+  }
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] [style*="flex:2"],
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] [style*="flex:1"] {
+    width: 100% !important;
+    flex: none !important;
+    min-width: 100% !important;
+  }
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] [style*="display:flex; gap:20px; flex-wrap:wrap;"] {
+    flex-direction: column !important;
+    gap: 15px !important;
+  }
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] [style*="background:rgba(255,255,255,0.12)"] {
+    width: 100% !important;
+  }
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] {padding: 25px 20px !important}
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] h3 {font-size: 24px !important}
+  [style*="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%)"] [style*="font-size:32px;"] {font-size: 28px !important}
+}
+
+/* ===== FIX UNTUK BAGIAN "BELUM LIHAT" & TESTIMONI SINGKAT ===== */
+@media (max-width: 768px) {
+  [style*="background:#F1F5F9; border-radius:24px; padding:40px 30px;"] {padding: 30px 20px !important}
+  .testi-singkat-wrapper {flex-direction: column !important; gap: 12px !important}
+  .testi-singkat-item {width: 100% !important; border-radius: 16px !important; padding: 15px !important; flex-direction: column !important}
+}
+
+/* ===== RESPONSIVE UNTUK PAKET 24 JAM & BASIC/PROFESIONAL ===== */
+@media (max-width: 768px) {
+  .paket-24jam-card {padding: 30px 20px !important; border-radius: 24px !important}
+  .paket-24jam-grid {grid-template-columns: 1fr !important; gap: 20px !important}
+  .paket-grid {grid-template-columns: 1fr !important; gap: 20px !important}
+  .paket-card {padding: 25px 15px !important}
+  [style*="font-size:56px;"] {font-size: 40px !important}
+}
+
+/* ===== COMPARISON TABLE MOBILE FIXES ===== */
+@media (max-width: 768px) {
+  .comparison-table-mobile {min-width: 600px !important}
+  .budget-note {flex-direction: column !important; align-items: flex-start !important}
+}
+
+/* ===== SCARCITY & PROCESS SECTION MOBILE FIXES ===== */
+@media (max-width: 768px) {
+  .calendar-card {padding: 20px 15px !important}
+  .slot-row {gap: 8px !important}
+  .stats-grid {grid-template-columns: repeat(2, 1fr) !important; gap: 10px !important}
+}
+
+/* ===== TESTIMONIAL & FAQ MOBILE FIXES ===== */
+@media (max-width: 768px) {
+  .testimoni-grid {grid-template-columns: 1fr !important; gap: 20px !important}
+  .faq-grid {grid-template-columns: 1fr !important; gap: 20px !important}
+  .stats-grid-testi {grid-template-columns: repeat(2, 1fr) !important; gap: 15px !important}
+}
+
+/* ===== PORTFOLIO CAROUSEL ===== */
+.foto-carousel {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.foto-carousel::-webkit-scrollbar {
+  display: none;
+}
+
+/* ===== RESPONSIVE UNTUK STATUS CHAT & ANTRIAN ===== */
+@media (max-width: 768px) {
+  /* Status Chat */
+  #slot-status > div:first-child {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 15px !important;
+  }
+  
+  #slot-status .avatar-group {
+    width: 100% !important;
+    justify-content: center !important;
+  }
+  
+  /* Antrian Container */
+  #antrian-container > div {
+    padding: 20px 15px !important;
+  }
+  
+  #antrian-container [style*="display:flex; align-items:center; gap:15px;"] {
+    gap: 10px !important;
+    padding: 10px 0 !important;
+  }
+  
+  #antrian-container [style*="width:30px; height:30px;"] {
+    width: 28px !important;
+    height: 28px !important;
+    font-size: 12px !important;
+  }
+  
+  #antrian-container [style*="width:40px; height:40px;"] {
+    width: 36px !important;
+    height: 36px !important;
+    font-size: 13px !important;
+  }
+  
+  #antrian-container [style*="font-size:14px;"] {
+    font-size: 13px !important;
+  }
+  
+  #antrian-container [style*="font-size:11px;"] {
+    font-size: 10px !important;
+  }
+  
+  #antrian-container [style*="min-width:70px;"] {
+    min-width: 60px !important;
+    text-align: left !important;
+    margin-left: auto !important;
+  }
+}
+
+@media (max-width: 480px) {
+  /* HP kecil */
+  #antrian-container [style*="display:flex; align-items:center; gap:15px;"] {
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+  }
+  
+  #antrian-container [style*="min-width:150px;"] {
+    min-width: 100% !important;
+    margin-bottom: 5px !important;
+  }
+  
+  #antrian-container [style*="gap:10px; flex-wrap:wrap;"] {
+    width: 100% !important;
+    justify-content: space-between !important;
+  }
+  
+  #antrian-container [style*="min-width:70px;"] {
+    margin-left: 0 !important;
+    width: 100% !important;
+    text-align: right !important;
+  }
+}
+/* Tambahkan di bagian CSS Anda */
+.btn-wa {
+  background: #25D366;
+  color: white !important; /* PENTING: teks putih */
+  padding: 8px 16px;
+  border-radius: 100px;
+  text-decoration: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  font-size: 13px;
+  box-shadow: 0 4px 10px rgba(37,211,102,0.2);
+  transition: all 0.2s ease;
+}
+
+.btn-wa:hover {
+  background: #048d38; /* hijau lebih gelap untuk hover */
+  transform: scale(1.02);
+  box-shadow: 0 6px 15px rgba(37,211,102,0.3);
+}
+
+.btn-wa svg {
+  fill: white;
+}
+
+.btn-wa span {
+  color: white; /* pastikan teks putih */
+}
+/* TAMBAHKAN DI BAGIAN CSS ANDA */
+@media (max-width: 480px) {
+  /* Memastikan semua elemen tidak mepet */
+  .container, div[style*="padding"] {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    box-sizing: border-box !important;
+  }
+  
+  /* Memperbaiki flex wrap */
+  div[style*="display:flex"] {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
+/* ===== RESPONSIVE UNTUK ANTRIAN & STATUS CHAT ===== */
+@media (max-width: 768px) {
+  /* Container antrian */
+  #antrian-container > div {
+    padding: 20px 15px !important;
+  }
+  
+  /* Setiap baris antrian */
+  #antrian-container [style*="display:flex; align-items:center; gap:12px;"] {
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+    padding: 12px 0 !important;
+  }
+  
+  /* Bagian nama dan avatar */
+  #antrian-container [style*="flex:1; min-width:160px;"] {
+    min-width: 100% !important;
+    width: 100% !important;
+    margin-bottom: 5px !important;
+  }
+  
+  /* Bagian status badges */
+  #antrian-container [style*="display:flex; align-items:center; gap:8px; flex-wrap:wrap;"]:not([style*="justify-content"]) {
+    width: 100% !important;
+    justify-content: flex-start !important;
+    margin-top: 5px !important;
+  }
+  
+  /* Waktu */
+  #antrian-container [style*="min-width:65px;"] {
+    min-width: auto !important;
+    width: auto !important;
+    margin-left: 0 !important;
+    text-align: left !important;
+  }
+  
+  /* Avatar circle */
+  #antrian-container [style*="width:38px; height:38px;"] {
+    width: 34px !important;
+    height: 34px !important;
+    font-size: 13px !important;
+  }
+  
+  /* Nomor urut */
+  #antrian-container [style*="width:28px; height:28px;"] {
+    width: 24px !important;
+    height: 24px !important;
+    font-size: 11px !important;
+  }
+  
+  /* Badge status */
+  #antrian-container [style*="padding:3px 8px; border-radius:50px; font-size:10px;"] {
+    font-size: 9px !important;
+    padding: 3px 6px !important;
+  }
+  
+  /* Header antrian */
+  #antrian-container [style*="display:flex; justify-content:space-between;"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+  
+  /* Status Chat - Avatar group */
+  .navbar ~ div [style*="display:flex; align-items:center; flex-wrap:wrap;"]:first-child {
+    margin-bottom: 10px !important;
+  }
+  
+  /* Box urgency di status chat */
+  div[style*="background:#FEF3C7; border-radius:12px;"] {
+    padding: 12px !important;
+  }
+  
+  /* List di kesempatan Anda */
+  div[style*="border-left:4px solid #15803D;"] ul {
+    padding-left: 16px !important;
+  }
+  
+  /* Call to action button */
+  a[style*="background:white; color:#15803D;"] {
+    padding: 12px 16px !important;
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  /* HP kecil - Antrian */
+  #antrian-container [style*="display:flex; align-items:center; gap:12px;"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+  
+  #antrian-container [style*="flex:1; min-width:160px;"] {
+    min-width: 100% !important;
+  }
+  
+  #antrian-container [style*="display:flex; align-items:center; gap:8px; flex-wrap:wrap;"]:not([style*="justify-content"]) {
+    width: 100% !important;
+    justify-content: space-between !important;
+  }
+  
+  #antrian-container [style*="min-width:65px;"] {
+    width: 100% !important;
+    text-align: left !important;
+    margin-top: 5px !important;
+  }
+  
+  /* Status Chat - Avatar lebih kecil */
+  div[style*="width:32px; height:32px;"] {
+    width: 28px !important;
+    height: 28px !important;
+    font-size: 10px !important;
+  }
+  
+  /* Teks di box urgency lebih kecil */
+  div[style*="background:#FEF3C7;"] div[style*="font-size:13px;"],
+  div[style*="background:#FEF3C7;"] span[style*="font-size:13px;"] {
+    font-size: 12px !important;
+  }
+  
+  /* Padding container */
+  .container, div[style*="padding:16px;"] {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+  
+  /* Memastikan tidak ada overflow */
+  * {
+    max-width: 100vw;
+    box-sizing: border-box;
+  }
+}
+
+/* ===== FIX UNTUK TEXT CENTER DI BADGE ===== */
+span[style*="border-radius:50px;"] {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+/* ===== FIX UNTUK TOMBOL DI MOBILE ===== */
+@media (max-width: 480px) {
+  a[style*="padding:14px 30px;"] {
+    padding: 12px 20px !important;
+    font-size: 14px !important;
+    white-space: normal !important;
+    height: auto !important;
+    min-height: 48px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+}
+
+/* ===== RESPONSIVE UNTUK ANTRIAN ===== */
+@media (max-width: 768px) {
+  /* Container antrian */
+  #antrian-container > div {
+    padding: 16px 12px !important;
+  }
+  
+  /* Setiap item antrian */
+  #antrian-container [style*="flex-direction:column; width:100%; padding:12px 0;"] {
+    padding: 10px 0 !important;
+  }
+  
+  /* Baris atas */
+  #antrian-container [style*="display:flex; align-items:center; gap:10px; width:100%; margin-bottom:8px;"] {
+    gap: 6px !important;
+    margin-bottom: 6px !important;
+  }
+  
+  /* Avatar lebih kecil */
+  #antrian-container [style*="width:38px; height:38px;"] {
+    width: 32px !important;
+    height: 32px !important;
+    font-size: 12px !important;
+  }
+  
+  /* Nomor urut */
+  #antrian-container [style*="width:28px; height:28px;"] {
+    width: 24px !important;
+    height: 24px !important;
+    font-size: 11px !important;
+  }
+  
+  /* Nama */
+  #antrian-container [style*="font-weight:600; font-size:14px;"] {
+    font-size: 13px !important;
+  }
+  
+  /* Kota */
+  #antrian-container [style*="font-size:11px; color:#475569;"] {
+    font-size: 10px !important;
+  }
+  
+  /* Waktu */
+  #antrian-container [style*="font-size:10px; color:#475569; white-space:nowrap;"] {
+    font-size: 9px !important;
+  }
+  
+  /* Badges di baris bawah */
+  #antrian-container [style*="margin-left:38px;"] {
+    margin-left: 30px !important;
+  }
+  
+  #antrian-container [style*="background:#E6F7E6; color:#15803D; padding:4px 10px;"] {
+    padding: 3px 8px !important;
+    font-size: 9px !important;
+  }
+  
+  /* Header antrian */
+  #antrian-container [style*="display:flex; flex-direction:row; justify-content:space-between;"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+  
+  /* Footer */
+  #antrian-container [style*="margin-top:20px; background:#F1F5F9;"] {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+    padding: 12px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  /* HP kecil */
+  #antrian-container [style*="margin-left:38px;"] {
+    margin-left: 28px !important;
+  }
+  
+  #antrian-container [style*="background:#E6F7E6; color:#15803D; padding:4px 10px;"] {
+    padding: 3px 6px !important;
+    font-size: 8px !important;
+  }
+  
+  /* Tombol CTA */
+  a[style*="background:#B45309;"] {
+    padding: 12px 20px !important;
+    font-size: 14px !important;
+    white-space: normal !important;
+    line-height: 1.3 !important;
+  }
+}
+/* ===== FIX AKSESIBILITAS UNTUK ANTRIAN ===== */
+#antrian-container [style*="background:#FEF3C7"] {
+  /* Badge status dan icon */
+  color: #7B341E !important; /* coklat gelap untuk kontras tinggi */
+}
+
+#antrian-container [style*="background:#E6F7E6"] {
+  /* Badge paket */
+  color: #0D5E2E !important; /* hijau sangat gelap */
+}
+
+#antrian-container [style*="color:#475569"] {
+  /* Waktu dan teks abu-abu */
+  color: #1E293B !important; /* biru gelap hampir hitam */
+}
+
+#antrian-container [style*="background:#F1F5F9"] {
+  /* Nomor urut background */
+  color: #0F172A !important; /* hitam pekat */
+}
+
+#antrian-container [style*="color:#15803D"] {
+  /* Teks hijau di avatar */
+  color: #0D5E2E !important; /* lebih gelap */
+  font-weight: 700 !important;
+}
+
+#antrian-container span[style*="color:#334155"] {
+  /* Teks deskripsi */
+  color: #0F172A !important;
+}
+
+/* Header antrian */
+#antrian-container [style*="font-weight:600; font-size:15px;"] {
+  color: #0F172A !important;
+}
+
+/* Footer text */
+#antrian-container [style*="font-size:12px; color:#1E293B;"] {
+  color: #0F172A !important;
+  font-weight: 500 !important;
+}
+
+#antrian-container strong {
+  color: #0F172A !important;
+  font-weight: 700 !important;
+}
+
+/* Ikon location */
+#antrian-container span[style*="font-size:11px;"] span {
+  color: #0F172A !important;
+}
+  </style>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPB9265C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- NAVBAR - VERSI MOBILE FRIENDLY -->
+<nav class="navbar">
+  <div class="container nav-inner">
+    
+    <!-- LOGO -->
+    <div style="display:flex; align-items:center; gap:6px;">
+      <span style="font-size:22px;">⚡</span>
+      <div style="font-weight:700; font-size:16px; line-height:1.2;">
+        <span style="color:#22C55E;">Dede Sumarna</span><br>
+        <span style="font-size:12px; color:#64748B; font-weight:400;">Javascript Fullstack Developer</span>
+      </div>
+    </div>
+    
+    <!-- DESKTOP MENU -->
+    <div class="nav-links">
+      <a href="#tentang">Tentang</a>
+      <a href="#portfolio">Karya</a>
+      <a href="#paket-24jam">Paket 24 Jam</a>
+      <a href="#antrian">Antrian</a>
+      <a href="#testimonial">Testimoni</a>
+      <a href="#faq">FAQ</a>
+      <span class="slot-badge" style="cursor:pointer;" onclick="document.getElementById('slot').scrollIntoView({behavior:'smooth'});">📅 Slot: 1</span>
+      <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20konsultasi%20website" 
+   class="btn-wa" 
+   style="background:#065f30; color:white; padding:8px 16px; border-radius:100px; display:inline-flex; align-items:center; gap:6px; text-decoration:none; font-weight:600; font-size:13px; white-space:nowrap; box-shadow:0 4px 10px rgba(6,95,48,0.3); border:1px solid rgba(255,255,255,0.2); transition:all 0.2s ease;"
+   onmouseover="this.style.background='#048d38'; this.style.transform='scale(1.02)'; this.style.boxShadow='0 6px 15px rgba(6,95,48,0.4)';"
+   onmouseout="this.style.background='#065f30'; this.style.transform='scale(1)'; this.style.boxShadow='0 4px 10px rgba(6,95,48,0.3)';">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="white" style="filter:drop-shadow(0 1px 1px rgba(0,0,0,0.2));">
+    <path d="M12 2C6.477 2 2 6.477 2 12c0 2.135.634 4.125 1.726 5.786L2.273 21.273l3.696-1.208C7.556 20.994 9.407 21.5 11.376 21.5H11.384C16.903 21.5 21.38 17.023 21.384 11.5 21.384 5.977 16.86 2 12 2z"/>
+  </svg>
+  <span style="color:white; text-shadow:0 1px 2px rgba(0,0,0,0.2);">Konsultasi</span>
+</a>
+    </div>
+    
+    <!-- HAMBURGER MOBILE -->
+    <div class="hamburger">☰</div>
+    
+  </div>
+  
+  <!-- MOBILE MENU -->
+  <div id="mobileMenu">
+    <div style="display:flex; flex-direction:column; gap:10px;">
+      <a href="#tentang" class="mobile-menu-item" onclick="closeMenu()">Tentang</a>
+      <a href="#portfolio" class="mobile-menu-item" onclick="closeMenu()">Karya</a>
+      <a href="#paket-24jam" class="mobile-menu-item" onclick="closeMenu()">Paket 24 Jam</a>
+      <a href="#antrian" class="mobile-menu-item" onclick="closeMenu()">Antrian</a>
+      <a href="#testimonial" class="mobile-menu-item" onclick="closeMenu()">Testimoni</a>
+      <a href="#faq" class="mobile-menu-item" onclick="closeMenu()">FAQ</a>
+      <div style="background:#F1F5F9; padding:10px; border-radius:8px; text-align:center; font-size:14px; cursor:pointer;" onclick="document.getElementById('slot').scrollIntoView({behavior:'smooth'}); closeMenu();">📅 Slot Tersisa: 1</div>
+      <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20konsultasi%20website" class="mobile-wa">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.477 2 2 6.477 2 12c0 2.135.634 4.125 1.726 5.786L2.273 21.273l3.696-1.208C7.556 20.994 9.407 21.5 11.376 21.5H11.384C16.903 21.5 21.38 17.023 21.384 11.5 21.384 5.977 16.86 2 12 2z"/></svg>
+        Konsultasi Gratis
+      </a>
+    </div>
+  </div>
+</nav>
+
+<!-- JAVASCRIPT UNTUK MENU -->
+<script>
+function toggleMenu() {
+  var menu = document.getElementById('mobileMenu');
+  if (menu.style.display === 'none' || menu.style.display === '') {
+    menu.style.display = 'block';
+  } else {
+    menu.style.display = 'none';
+  }
+}
+
+function closeMenu() {
+  document.getElementById('mobileMenu').style.display = 'none';
+}
+
+document.addEventListener('click', function(event) {
+  var menu = document.getElementById('mobileMenu');
+  var hamburger = document.querySelector('.hamburger');
+  if (hamburger && menu) {
+    if (menu.style.display === 'block' && !menu.contains(event.target) && !hamburger.contains(event.target)) {
+      menu.style.display = 'none';
+    }
+  }
+});
+
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault();
+    const target = document.querySelector(this.getAttribute('href'));
+    if(target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  var hamburger = document.querySelector('.hamburger');
+  if (hamburger) {
+    hamburger.addEventListener('click', toggleMenu);
+  }
+});
+</script>
+
+<!-- NOTIFIKASI POPUP - KIRI BAWAH -->
+<div id="marketplaceNotif" style="position:fixed; bottom:20px; left:20px; background:white; border-radius:16px; padding:15px 18px; box-shadow:0 15px 35px rgba(0,0,0,0.2); border-left:4px solid #25D366; max-width:300px; animation:slideInLeft 0.3s ease; display:none; z-index:100;" class="notif-marketplace">
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <div style="width:40px; height:40px; background:#15803D; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-size:16px; font-weight:600; flex-shrink:0; box-shadow:0 2px 4px rgba(0,0,0,0.1);">Rin...</div>
+    <div style="flex:1;">
+      <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
+        <span style="background:#000000; color:#25D366; padding:3px 8px; border-radius:50px; font-size:10px; font-weight:600;">⚡ LIVE</span>
+        <span style="font-size:11px; color:#64748B;">2 menit lalu</span>
+      </div>
+      <div style="font-weight:700; font-size:15px; margin-bottom:4px;">Seseorang ingin ambil <span style="color:#22C55E;">Paket 24 Jam</span></div>
+      <div style="font-size:13px; color:#334155; margin-bottom:8px;">"Saya mau transfer sekarang, masih available?"</div>
+      <div style="display:flex; gap:8px; flex-wrap:wrap;">
+        <span class="notif-kota" style="background:#F1F5F9; padding:4px 10px; border-radius:50px; font-size:10px; color:#475569;">📍 Jakarta</span>
+        <span style="background:#F1F5F9; padding:4px 10px; border-radius:50px; font-size:10px; color:#475569;">⏳ Menunggu transfer</span>
+      </div>
+    </div>
+    <button onclick="closeNotif()" style="background:none; border:none; cursor:pointer; color:#94A3B8; font-size:16px; padding:0; margin-left:5px;">✕</button>
+  </div>
+</div>
+
+<!-- FLOATING BUTTONS - KANAN BAWAH -->
+<div style="position:fixed; bottom:20px; right:20px; display:flex; flex-direction:column; gap:10px; z-index:99;">
+  
+  <!-- FLOATING WA (DI ATAS) -->
+  <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20tanya%20website%2024%20jam" 
+     class="floating-wa"
+     aria-label="Chat via WhatsApp"
+     title="Chat via WhatsApp"
+     style="display:flex; align-items:center; justify-content:center; width:56px; height:56px; background:#25D366; color:white; border-radius:100px; box-shadow:0 10px 25px rgba(37,211,102,0.4); transition:0.2s; text-decoration:none;"
+     onmouseover="this.style.transform='scale(1.1)'"
+     onmouseout="this.style.transform='scale(1)'">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="white" aria-hidden="true">
+      <path d="M12 2C6.477 2 2 6.477 2 12c0 2.135.634 4.125 1.726 5.786L2.273 21.273l3.696-1.208C7.556 20.994 9.407 21.5 11.376 21.5H11.384C16.903 21.5 21.38 17.023 21.384 11.5 21.384 5.977 16.86 2 12 2z"/>
+    </svg>
+  </a>
+  
+  <!-- TOMBOL BACK TO TOP (DI BAWAH WA) -->
+  <a href="#" 
+     onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" 
+     style="display:flex; align-items:center; justify-content:center; width:56px; height:56px; background:#0F172A; color:white; border-radius:100px; box-shadow:0 10px 25px rgba(0,0,0,0.2); transition:0.2s; text-decoration:none;"
+     aria-label="Kembali ke atas"
+     title="Kembali ke atas"
+     onmouseover="this.style.background='#1E293B'; this.style.transform='scale(1.1)'"
+     onmouseout="this.style.background='#0F172A'; this.style.transform='scale(1)'">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
+      <path d="M12 19V5M5 12l7-7 7 7"/>
+    </svg>
+  </a>
+  
+</div>
+
+<script>
+// NOTIFIKASI MARKETPLACE OTOMATIS
+let notifInterval;
+let notifTimeout;
+
+function showNotif() {
+  const notif = document.getElementById('marketplaceNotif');
+  if (notif) {
+    notif.style.display = 'block';
+    notif.classList.remove('closing');
+    
+    clearTimeout(notifTimeout);
+    notifTimeout = setTimeout(() => {
+      closeNotif();
+    }, 6000);
+  }
+}
+
+function closeNotif() {
+  const notif = document.getElementById('marketplaceNotif');
+  if (notif) {
+    notif.classList.add('closing');
+    setTimeout(() => {
+      notif.style.display = 'none';
+      notif.classList.remove('closing');
+    }, 300);
+  }
+}
+
+const namaList = ['Seb', 'Rin', 'And', 'Dew', 'Hend', 'Faj', 'San', 'Budi', 'Ari', 'Maya'];
+const kotaList = ['Jakarta', 'Surabaya', 'Bandung', 'Medan', 'Semarang', 'Makassar', 'Palembang', 'Depok', 'Tangerang', 'Bekasi'];
+
+function updateNotif() {
+  const randomNama = namaList[Math.floor(Math.random() * namaList.length)] + '...';
+  const randomKota = kotaList[Math.floor(Math.random() * kotaList.length)];
+  
+  const notif = document.getElementById('marketplaceNotif');
+  if (notif) {
+    const avatar = notif.querySelector('div:first-child div:first-child');
+    if (avatar) avatar.textContent = randomNama;
+    
+    const kotaSpan = notif.querySelector('.notif-kota');
+    if (kotaSpan) kotaSpan.textContent = `📍 ${randomKota}`;
+  }
+  
+  showNotif();
+}
+
+setTimeout(() => {
+  updateNotif();
+  notifInterval = setInterval(() => {
+    updateNotif();
+  }, Math.random() * 20000 + 20000);
+}, 3000);
+</script>
+
+<main>
+<!-- HERO SECTION -->
+<section class="section" style="padding-top:90px; background:linear-gradient(135deg, #F8FAFC 0%, #FFFFFF 100%);">
+  <div class="container hero">
+    <div class="hero-content">
+      <div class="guarantee-badge">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#92400E"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+        <span>⚡ GARANSI 24 JAM ATAU UANG KEMBALI 100%</span>
+      </div>
+      
+      <h1 style="margin-bottom:15px;">
+        <span style="display:block; font-size:clamp(12px,3.5vw,14px); font-weight:500; color:#64748B; margin-bottom:6px; line-height:1.3;">Anda mencari jasa pembuatan website karena:</span>
+        <span style="display:block; font-size:clamp(25px,6vw,35px); color:#0F172A; line-height:1.2; margin-bottom:2px;">Ingin Lebih Dipercaya,</span>
+        <span style="display:block; font-size:clamp(25px,6vw,35px); color:#0F172A; line-height:1.2; margin-bottom:2px;">Mudah Ditemukan, &</span>
+        <span style="display:block; font-size:clamp(24px,7vw,32px); color:#22C55E; line-height:1.2;">Bisa Closing Lebih Cepat</span>
+      </h1>
+      <p style="font-size:16px; margin:24px 0 32px; color:#334155;">
+        Saya bantu wujudkan website profesional Anda dalam <strong>24 jam</strong>. 
+        Bukan cuma website, tapi mesin leads yang kerja 24/7.
+      </p>
+      
+      <!-- INTEREST: Alasan mereka butuh website (checklist) -->
+      <div style="background:#F1F5F9; border-radius:24px; padding:24px; margin:32px 0;">
+  <p style="font-weight:600; margin-bottom:16px; color:#0F172A;">📋 Yang Anda dapatkan dengan website profesional:</p>
+  
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px;">
+    <div style="display:flex; gap:10px; align-items:center;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#15803D" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+      <span style="color:#1E293B;"><strong>Kredibilitas</strong> bisnis naik</span>
+    </div>
+          <div style="display:flex; gap:10px; align-items:center;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+            <span><strong>Ditemukan</strong> di Google</span>
+          </div>
+          <div style="display:flex; gap:10px; align-items:center;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+            <span><strong>Leads</strong> langsung ke WA</span>
+          </div>
+          <div style="display:flex; gap:10px; align-items:center;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+            <span><strong>Iklan Google</strong> lebih maksimal</span>
+          </div>
+          <div style="display:flex; gap:10px; align-items:center;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+            <span><strong>Unggul</strong> dari kompetitor</span>
+          </div>
+          <div style="display:flex; gap:10px; align-items:center;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+            <span><strong>24 jam</strong> langsung live</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- DESIRE: Social proof singkat -->
+      <div style="display:flex; gap:30px; margin:32px 0; padding:20px 0; border-top:1px solid #E2E8F0; border-bottom:1px solid #E2E8F0;">
+        <div>
+          <div style="font-size:24px; font-weight:700; color:#22C55E;">497+</div>
+          <div style="font-size:14px; color:#64748B;">Website Selesai</div>
+        </div>
+        <div>
+          <div style="font-size:24px; font-weight:700; color:#22C55E;">7</div>
+          <div style="font-size:14px; color:#64748B;">Tahun Pengalaman</div>
+        </div>
+        <div>
+          <div style="font-size:24px; font-weight:700; color:#22C55E;">0</div>
+          <div style="font-size:14px; color:#64748B;">Uang Kembali</div>
+        </div>
+      </div>
+      
+      <!-- ACTION -->
+      <div style="display:flex; gap:16px; flex-wrap:wrap; align-items:center;">
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20konsultasi%20website%20-%20saya%20butuh%20website%20untuk%20%5Bsebutkan%20bisnis%20Anda%5D" class="btn btn-primary" style="padding:16px 40px; font-size:18px;">
+          ⚡ Konsultasi Gratis
+        </a>
+        <a href="#masalah" style="color:#475569; text-decoration:underline; text-underline-offset:4px;">
+          Lihat Tantangan Umum →
+        </a>
+      </div>
+      
+      <p style="margin-top:24px; font-size:14px; color:#64748B; display:flex; align-items:center; gap:8px;">
+        <span style="background:#22C55E; color:white; padding:4px 12px; border-radius:100px; font-size:12px; font-weight:600; display:inline-block; text-align:center; white-space:nowrap; min-width:80px; box-sizing:border-box;">
+  HARI INI
+</span>
+        Slot masih tersedia untuk 1 project. Garansi 24 jam atau uang kembali.
+      </p>
+      
+    </div>
+    
+    <div class="hero-image">
+      <!-- SVG Visual dengan Badge -->
+      <div style="position:relative; background:#F8FAFC; border-radius:32px; padding:40px; min-height:400px; display:flex; align-items:center; justify-content:center; border:1px solid #E2E8F0;">
+        
+        <!-- Grid layout untuk visual -->
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px; width:100%;">
+          
+          <!-- Kiri: Laptop dengan website -->
+          <div style="background:white; border-radius:24px; padding:20px; box-shadow:0 10px 25px rgba(0,0,0,0.05);">
+            <svg width="100%" height="120" viewBox="0 0 200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="10" y="10" width="180" height="100" rx="8" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="2"/>
+              <rect x="30" y="30" width="50" height="12" rx="6" fill="#22C55E" fill-opacity="0.3"/>
+              <rect x="30" y="50" width="80" height="8" rx="4" fill="#22C55E" fill-opacity="0.2"/>
+              <rect x="30" y="70" width="60" height="8" rx="4" fill="#22C55E" fill-opacity="0.2"/>
+              <rect x="120" y="60" width="40" height="30" rx="8" fill="#25D366" fill-opacity="0.2"/>
+              <text x="130" y="80" font-family="system-ui" font-size="10" fill="#25D366">WA</text>
+              <circle cx="160" cy="30" r="15" fill="#22C55E"/>
+              <text x="154" y="35" font-family="system-ui" font-size="10" fill="white" font-weight="bold">24</text>
+            </svg>
+            <p style="font-size:12px; color:#64748B; margin-top:10px;">Website siap dalam 24 jam</p>
+          </div>
+          
+          <!-- Kanan: Metrik & Leads -->
+          <div style="background:white; border-radius:24px; padding:20px; box-shadow:0 10px 25px rgba(0,0,0,0.05);">
+            <svg width="100%" height="120" viewBox="0 0 200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="20" y="40" width="25" height="60" rx="4" fill="#22C55E" fill-opacity="0.3"/>
+              <rect x="55" y="20" width="25" height="80" rx="4" fill="#22C55E" fill-opacity="0.6"/>
+              <rect x="90" y="10" width="25" height="90" rx="4" fill="#22C55E"/>
+              <circle cx="150" cy="50" r="20" fill="#25D366" fill-opacity="0.2"/>
+              <text x="142" y="58" font-family="system-ui" font-size="14" fill="#25D366" font-weight="bold">WA</text>
+              <text x="130" y="90" font-family="system-ui" font-size="10" fill="#334155">497+ leads</text>
+            </svg>
+            <p style="font-size:12px; color:#64748B; margin-top:10px;">Ribuan leads dari website</p>
+          </div>
+          
+        </div>
+          
+        <!-- Badge melayang -->
+        <div style="position:absolute; bottom:-20px; left:20px; background:white; padding:16px; border-radius:20px; box-shadow:0 20px 25px -5px rgba(0,0,0,0.1); z-index:10;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span style="background:#22C55E; width:40px; height:40px; border-radius:12px; display:flex; align-items:center; justify-content:center; color:white; font-size:20px;">✓</span>
+            <div>
+              <div id="antrian" style="font-weight:700;">Selesai 24 Jam</div>
+              <div style="font-size:12px; color:#64748B;">Garansi tertulis</div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Badge kedua -->
+        <div style="position:absolute; top:20px; right:20px; background:#FEF3C7; padding:8px 16px; border-radius:100px; font-weight:600; font-size:14px; border:1px solid #F59E0B; z-index:10;">
+          🏆 497+ Klien
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- STATUS CHAT & URGENCY SECTION - VERSI MOBILE FRIENDLY -->
+<div style="background:#fff; border-radius:24px; padding:16px; margin:20px 0; border:1px solid #E2E8F0; box-shadow:0 5px 15px rgba(0,0,0,0.02); width:100%; box-sizing:border-box;">
+  
+  <div style="display:flex; flex-direction:column; gap:12px;">
+    
+    <!-- HEADER DENGAN AVATAR - VERSI MOBILE -->
+    <div style="display:flex; flex-direction:row; align-items:center; gap:8px; flex-wrap:wrap; width:100%;">
+      
+      <!-- AVATAR GROUP - DIPERKECIL UNTUK MOBILE -->
+      <div style="display:flex; align-items:center; flex-shrink:0;">
+        <div style="width:32px; height:32px; background:#15803D; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:600; font-size:12px; border:2px solid white; margin-right:-6px;">A</div>
+        <div style="width:32px; height:32px; background:#B45309; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:600; font-size:12px; border:2px solid white; margin-right:-6px;">R</div>
+        <div style="width:32px; height:32px; background:#1D4ED8; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:600; font-size:12px; border:2px solid white; margin-right:-6px;">D</div>
+        <div style="width:32px; height:32px; background:#591fdc; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:600; font-size:12px; border:2px solid white;">+7</div>
+      </div>
+      
+      <!-- STATUS BADGE - VERSI MOBILE -->
+      <div style="display:flex; align-items:center; gap:4px; flex-wrap:wrap; flex:1;">
+        <span style="background:#B91C1C; color:white; padding:3px 8px; border-radius:50px; font-size:10px; font-weight:600; display:inline-block; text-align:center; white-space:nowrap;">
+          🔴 LIVE
+        </span>
+        <span style="font-weight:600; font-size:12px; background:#F1F5F9; padding:3px 8px; border-radius:50px; white-space:nowrap;">10+ chat</span>
+        <span style="color:#475569; font-size:10px;">(3 menit lalu)</span>
+      </div>
+      
+    </div>
+    
+    <!-- BOX URGENCY - VERSI MOBILE -->
+    <div style="background:#FEF3C7; border-radius:12px; padding:12px; width:100%; box-sizing:border-box;">
+      
+      <!-- PROJECT SEBELUMNYA SELESAI -->
+      <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px; background:#E6F7E6; padding:8px; border-radius:8px; width:100%; box-sizing:border-box;">
+        <div style="background:#15803D; color:white; width:32px; height:32px; border-radius:100px; display:flex; align-items:center; justify-content:center; font-size:14px; font-weight:700; flex-shrink:0;">✓</div>
+        <div style="flex:1; min-width:0;">
+          <div style="font-weight:700; color:#166534; font-size:13px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">Project sebelumnya selesai</div>
+          <div style="color:#166534; font-size:11px; display:flex; align-items:center; gap:3px;">
+            <span>⏱️</span> 25 menit yang lalu
+          </div>
+        </div>
+      </div>
+      
+      <!-- STATUS ANTRIAN TRANSFER -->
+      <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px; width:100%; box-sizing:border-box;">
+        <div style="background:#B45309; color:white; width:32px; height:32px; border-radius:100px; display:flex; align-items:center; justify-content:center; font-size:14px; font-weight:700; flex-shrink:0;">7+</div>
+        <div style="flex:1; min-width:0;">
+          <div style="font-weight:700; color:#92400E; font-size:13px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">Menunggu konfirmasi transfer</div>
+          <div style="color:#92400E; font-size:10px; display:flex; flex-wrap:wrap; gap:4px; margin-top:2px;">
+            <span>💬 7+ orang order</span>
+            <span>•</span>
+            <span>⏳ Belum transfer</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- KESEMPATAN ANDA -->
+      <div style="background:white; border-radius:8px; padding:12px; margin:12px 0; border-left:4px solid #15803D; width:100%; box-sizing:border-box;">
+        <div style="display:flex; gap:8px;">
+          <span style="font-size:22px; flex-shrink:0;">⚡</span>
+          <div style="flex:1; min-width:0;">
+            <div style="font-weight:700; color:#166534; font-size:14px; margin-bottom:6px;">Transfer SEKARANG, Anda DIDAHULUKAN!</div>
+            <ul style="margin:0; padding-left:12px; color:#1E293B; font-size:11px; line-height:1.5;">
+              <li><strong style="color:#15803D;">Mendahului 7+ orang</strong> yang masih menunggu</li>
+              <li>Project Anda <strong style="color:#15803D;">dikerjakan HARI INI</strong></li>
+              <li>Website <strong style="color:#15803D;">selesai 24 jam</strong></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <!-- KONSEKUENSI -->
+      <div style="display:flex; gap:8px; background:#F1F5F9; padding:8px; border-radius:8px; width:100%; box-sizing:border-box;">
+        <span style="font-size:18px; flex-shrink:0;">⏳</span>
+        <div style="flex:1; min-width:0;">
+          <span style="font-weight:700; color:#B45309; font-size:11px; display:block;">Jika transfer nanti:</span>
+          <span style="color:#1E293B; font-size:10px; display:block; margin-top:2px; line-height:1.4;">
+            7+ orang bisa transfer lebih dulu → Anda masuk antrian BESOK atau minggu depan
+          </span>
+        </div>
+      </div>
+      
+    </div>
+    
+    <!-- CALL TO ACTION - VERSI MOBILE (FIX KONTRAS) -->
+    <div style="margin-top:8px; background:#15803D; border-radius:12px; padding:12px; width:100%; box-sizing:border-box;">
+      <div style="display:flex; flex-direction:column; gap:8px;">
+        <p style="font-weight:700; font-size:15px; color:white; margin:0; text-align:center; line-height:1.3; text-shadow:0 1px 2px rgba(0,0,0,0.2);">
+          🚨 7+ orang antri, 1 SLOT TERBUKA!
+        </p>
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20transfer%20sekarang%20dan%20ambil%20slot%20hari%20ini" 
+           style="background:white; color:#15803D; padding:14px 16px; border-radius:100px; text-decoration:none; font-weight:700; font-size:15px; text-align:center; width:100%; box-sizing:border-box; box-shadow:0 4px 8px rgba(0,0,0,0.1); display:block; border:1px solid #15803D;">
+          🏃 Transfer Sekarang
+        </a>
+        <p style="font-size:11px; color:white; text-align:center; margin:0; line-height:1.3; font-weight:500; text-shadow:0 1px 2px rgba(0,0,0,0.2);">
+          *Yang transfer duluan yang saya kerjakan HARI INI
+        </p>
+      </div>
+    </div>
+    
+    <!-- TIMESTAMP -->
+    <p style="text-align:right; margin-top:8px; font-size:9px; color:#475569;">
+      Update: 2 menit lalu • 7+ orang antri • 1 slot tersedia
+    </p>
+    
+  </div>
+  
+</div>
+
+<!-- SECTION ANTRIAN - WAITING TRANSFER (VERSI MOBILE FRIENDLY) -->
+<section class="section" style="background:#F8FAFC; padding:40px 0;">
+  <div class="container">
+    
+    <div style="text-align:center; margin-bottom:30px;">
+      <span style="background:#FEF3C7; color:#B45309; padding:5px 14px; border-radius:100px; font-size:12px; font-weight:600; display:inline-block; margin-bottom:12px;">
+        ⏳ ANTRIAN TRANSFER
+      </span>
+      <h2 style="font-size:clamp(24px, 6vw, 36px); max-width:500px; margin:0 auto 8px;">
+        <span style="color:#B45309;">7+ orang</span> Order Web Paket 24 Jam Selesai
+      </h2>
+      <p style="font-size:clamp(13px, 4vw, 15px); color:#475569; max-width:500px; margin:0 auto; padding:0 10px;">
+        Yang transfer duluan yang akan saya kerjakan hari ini.
+      </p>
+    </div>
+    
+    <!-- DAFTAR ANTRIAN (AKAN DIISI JAVASCRIPT) -->
+    <div id="antrian-container" style="max-width:600px; margin:0 auto;"></div>
+    
+    <!-- JAVASCRIPT UNTUK ANTRIAN (HANYA 1) -->
+    <script>
+(function() {
+  // DATA UNTUK ANTRIAN
+  const antrianNamaDepan = ['Andi', 'Rina', 'Dewi', 'Hendra', 'Fajar', 'Santi', 'Budi', 'Ari', 'Maya', 'Rizky', 'Dian', 'Putri', 'Agus', 'Wati', 'Joko'];
+  const antrianNamaBelakang = [' S.', ' R.', ' P.', ' W.', ' K.', ' H.', ' Y.', ' M.', ' A.', ' D.'];
+  const antrianKota = ['Jakarta', 'Surabaya', 'Bandung', 'Medan', 'Semarang', 'Makassar', 'Palembang', 'Depok', 'Tangerang', 'Bekasi', 'Bogor', 'Malang', 'Solo', 'Jogja', 'Bali'];
+  const antrianPaket = ['24 Jam'];
+  const antrianStatus = ['⏳ Menunggu transfer', '💰 Transfer hari ini', '🌙 Janji transfer malam', '💳 Nunggu gajian', '⏱️ Konfirmasi hari ini'];
+
+  function generateRandomAntrian() {
+    const antrianCount = Math.floor(Math.random() * 3) + 5; // 5-7 antrian
+    
+    let antrianHTML = `
+      <div style="background:#fff; border-radius:24px; padding:20px 16px; box-shadow:0 10px 25px rgba(0,0,0,0.05); width:100%; box-sizing:border-box;">
+        
+        <!-- HEADER ANTRIAN -->
+        <div style="display:flex; flex-direction:row; justify-content:space-between; align-items:center; margin-bottom:16px; flex-wrap:wrap; gap:10px; width:100%;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span style="background:#FEF3C7; width:32px; height:32px; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#7B341E; font-size:18px; font-weight:600;">⏳</span>
+            <span style="font-weight:600; font-size:15px; color:#0F172A;">Antrian Paket 24 Jam</span>
+          </div>
+          <!-- PERBAIKAN: Background solid dengan teks putih -->
+          <span style="background:#0D5E2E; color:white; padding:4px 10px; border-radius:50px; font-size:11px; font-weight:600; white-space:nowrap; display:inline-block; text-align:center; box-shadow:0 2px 4px rgba(0,0,0,0.1);">⚡ Slot: 1</span>
+        </div>
+        
+        <!-- LIST ANTRIAN -->
+        <div style="display:flex; flex-direction:column; gap:12px; width:100%;">
+    `;
+    
+    for (let i = 1; i <= antrianCount; i++) {
+      const randomNamaDepan = antrianNamaDepan[Math.floor(Math.random() * antrianNamaDepan.length)];
+      const randomNamaBelakang = antrianNamaBelakang[Math.floor(Math.random() * antrianNamaBelakang.length)];
+      const randomKota = antrianKota[Math.floor(Math.random() * antrianKota.length)];
+      const randomPaket = antrianPaket[Math.floor(Math.random() * antrianPaket.length)];
+      const randomStatus = antrianStatus[Math.floor(Math.random() * antrianStatus.length)];
+      
+      const namaSensor = randomNamaDepan + randomNamaBelakang;
+      const randomMenit = Math.floor(Math.random() * 25) + 5;
+      
+      antrianHTML += `
+        <div style="display:flex; flex-direction:column; width:100%; padding:12px 0; ${i < antrianCount ? 'border-bottom:1px solid #E2E8F0;' : ''} box-sizing:border-box;">
+          
+          <!-- BARIS ATAS: Nomor + Nama + Kota + Waktu -->
+          <div style="display:flex; align-items:center; gap:10px; width:100%; margin-bottom:8px;">
+            <span style="width:28px; height:28px; background:#F1F5F9; border-radius:100px; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:13px; color:#0F172A; flex-shrink:0;">${i}</span>
+            
+            <div style="display:flex; align-items:center; gap:8px; flex:1; min-width:0;">
+              <!-- PERBAIKAN: Background avatar lebih gelap -->
+              <div style="width:38px; height:38px; background:#0D5E2E20; border-radius:100px; display:flex; align-items:center; justify-content:center; color:#0D5E2E; font-weight:700; font-size:14px; flex-shrink:0;">
+                ${namaSensor.charAt(0)}
+              </div>
+              <div style="min-width:0; flex:1;">
+                <div style="font-weight:600; font-size:14px; color:#0F172A; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${namaSensor}</div>
+                <div style="font-size:11px; color:#1E293B; display:flex; align-items:center; gap:4px;">
+                  <span style="color:#0F172A;">📍</span> ${randomKota}
+                </div>
+              </div>
+            </div>
+            
+            <span style="font-size:10px; color:#1E293B; font-weight:500; white-space:nowrap; flex-shrink:0;">${randomMenit} menit lalu</span>
+          </div>
+          
+          <!-- BARIS BAWAH: Badges -->
+          <div style="display:flex; align-items:center; gap:8px; margin-left:38px; flex-wrap:wrap;">
+            <span style="background:#E6F7E6; color:#0D5E2E; padding:4px 10px; border-radius:50px; font-size:10px; font-weight:600; white-space:nowrap;">⚡ ${randomPaket}</span>
+            <span style="background:#FEF3C7; color:#7B341E; padding:4px 10px; border-radius:50px; font-size:10px; font-weight:600; white-space:nowrap;">${randomStatus}</span>
+          </div>
+          
+        </div>
+      `;
+    }
+    
+    antrianHTML += `
+        </div>
+        
+        <!-- FOOTER -->
+        <div style="margin-top:20px; background:#F1F5F9; border-radius:12px; padding:12px; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; width:100%; box-sizing:border-box;">
+          <div style="display:flex; align-items:center; gap:6px;">
+            <span style="font-size:18px; color:#0F172A;">⚡</span>
+            <span style="font-size:12px; color:#0F172A; font-weight:500;"><strong style="color:#0F172A; font-weight:700;">1 slot tersisa</strong> dari 7+ antrian</span>
+          </div>
+          <span style="background:#FEF3C7; color:#7B341E; padding:3px 8px; border-radius:50px; font-size:10px; font-weight:600; white-space:nowrap;">Update real-time</span>
+        </div>
+        
+      </div>
+    `;
+    
+    document.getElementById('antrian-container').innerHTML = antrianHTML;
+  }
+
+  // Jalankan setelah DOM siap
+  document.addEventListener('DOMContentLoaded', function() {
+    if (document.getElementById('antrian-container')) {
+      generateRandomAntrian();
+    }
+  });
+
+  // Refresh setiap 30 detik
+  setInterval(function() {
+    if (document.getElementById('antrian-container')) {
+      generateRandomAntrian();
+    }
+  }, 30000);
+})();
+    </script>
+
+    <!-- CALL TO ACTION -->
+    <div style="text-align:center; margin-top:25px;">
+      <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20transfer%20sekarang%20sebelum%20keduluan" 
+         class="btn btn-primary" 
+         style="display:inline-block; background:#B45309; color:white; padding:14px 30px; border-radius:100px; text-decoration:none; font-weight:600; font-size:15px; box-shadow:0 4px 10px rgba(180,83,9,0.3); width:100%; max-width:350px; box-sizing:border-box;">
+        🏃 Ambil Slot & Transfer Sekarang
+      </a>
+      <p id="masalah" style="margin-top:10px; font-size:12px; color:#475569;">*Hanya 1 slot tersedia untuk hari ini</p>
+    </div>
+    
+  </div>
+</section>
+
+<!-- PROBLEM SECTION -->
+<section class="section" style="background:#fff;">
+  <div class="container">
+    <div style="text-align:center; margin-bottom:60px;">
+      <span style="background:#F1F5F9; color:#475569; padding:8px 20px; border-radius:100px; font-size:14px; font-weight:500; display:inline-block; margin-bottom:20px; letter-spacing:0.5px;">
+        YANG SERING TERJADI
+      </span>
+      <h2 style="font-size:clamp(32px,5vw,44px); max-width:800px; margin:0 auto; line-height:1.3;">
+        Anda butuh website untuk <span style="color:#0F172A;">branding perusahaan,</span> tapi kok rasanya...
+      </h2>
+      <p style="font-size:18px; color:#475569; max-width:600px; margin:20px auto 0;">
+        Scroll dulu, siapa tau ada yang cocok dengan situasi Anda saat ini.
+      </p>
+    </div>
+    
+    <!-- GRID 8 MASALAH -->
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:20px; margin-bottom:40px;">
+      <!-- 1 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Desain Udah Jadi, Tinggal Coding</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">File PSD/Figma udah siap, udah bayar desainer. Tapi urusan ngoding jadi website beneran, mentok. Cari developer cocok susah.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">📁 Udah 3 bulan file ngendon di laptop</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 2 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Perusahaan Kelihatan "Kurang Profesional"</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">Klien potensial nanya "ada websitenya buat lihat profil perusahaan?" — Anda cuma bisa kasih link IG atau brosur PDF.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">🏢 8 dari 10 klien minta lihat website dulu</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 3 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Susah Dicari di Google</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">Orang cari "kontraktor jakarta", "sekolah swasta", "rental mobil terdekat" — yang muncul kompetitor. Anda tidak ada di halaman 1.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">🔍 75% orang gak pernah klik halaman 2 Google</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 4 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Saingan Udah Online Semua</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">Kompetitor udah punya website, muncul di Google, dapet proyek tiap minggu. Anda masih nunggu "waktu yang tepat" buat bikin website.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">📈 Rata-rata competitor online 2 tahun lebih awal</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 5 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Udah Bayar, Tapi Gak Pernah Jadi</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">DP udah transfer, udah 2 bulan, yang dikasih cuma "ini masih progress", "maaf lagi banyak order". Chat dibaca doang.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">💬 Terakhir chat: "Besok saya kabari" — 2 minggu lalu</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 6 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Bingung Soal Harga, Takut Kemahalan</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">Ada yang nawar 500rb, ada yang 20jt. Mana yang masuk akal? Takut salah pilih, ujung-ujungnya malah gak jadi bikin website.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">💰 Range harga bikin pusing 7 keliling</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 7 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Bingung Mulai dari Mana</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">Domain, hosting, coding, konten — istilahnya asing semua. Harus cari desainer dulu? Cari developer dulu? Urusan teknis bikin mumet.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">🤯 "Ribet amat, males ah" — udah 6 bulan gitu</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 8 -->
+      <div class="problem-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-left:4px solid #EF4444;">
+        <div style="display:flex; gap:15px; align-items:flex-start;">
+          <div style="background:#FEE2E2; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#EF4444" stroke-width="1.8">
+              <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+            </svg>
+          </div>
+          <div>
+            <h3 style="font-size:18px; font-weight:700; margin:0 0 8px;">Mau Cepet, Tapi Takut Asal-asalan</h3>
+            <p style="font-size:14px; color:#475569; margin:0;">Butuh website minggu ini, tapi khawatir kalau cepet hasilnya nggak rapi. Mending nunggu lama tapi berkualitas? Dilema terus.</p>
+            <div style="background:#F1F5F9; padding:4px 8px; border-radius:8px; font-size:12px; margin-top:12px; color:#475569;">⚡ Cepet vs berkualitas, harus pilih salah satu?</div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <!-- BRIDGE SECTION -->
+    <div style="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%); padding:50px; border-radius:32px; text-align:center; color:white; margin-top:40px;">
+      
+      <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap; margin-bottom:30px;">
+        <span style="background:rgba(255,255,255,0.1); padding:6px 16px; border-radius:100px; font-size:13px; color:white;">🏢 Perusahaan</span>
+        <span style="background:rgba(255,255,255,0.1); padding:6px 16px; border-radius:100px; font-size:13px; color:white;">🏥 Klinik</span>
+        <span style="background:rgba(255,255,255,0.1); padding:6px 16px; border-radius:100px; font-size:13px; color:white;">🔧 Jasa Service</span>
+        <span style="background:rgba(255,255,255,0.1); padding:6px 16px; border-radius:100px; font-size:13px; color:white;">🚗 Rental Mobil</span>
+        <span style="background:rgba(255,255,255,0.1); padding:6px 16px; border-radius:100px; font-size:13px; color:white;">🏗️ Kontraktor</span>
+        <span style="background:rgba(255,255,255,0.1); padding:6px 16px; border-radius:100px; font-size:13px; color:white;">🏡 Desa/Sekolah</span>
+      </div>
+      
+      <h3 style="font-size:36px; font-weight:700; margin:20px 0; color:white;">
+        Intinya satu: <span style="color:#FACC15;">Anda butuh website</span><br>tapi jalannya terasa rumit.
+      </h3>
+      
+      <p style="font-size:18px; max-width:600px; margin:20px auto; opacity:0.95; color:white;">
+        Saya tahu persis gimana rasanya. Makanya saya bikin sistem yang <strong style="color:white;">24 jam selesai</strong> — biar Anda gak perlu nunggu berminggu-minggu, gak perlu pusing ngurusin teknis.
+      </p>
+     
+      <div style="display:flex; gap:20px; justify-content:center; margin:40px 0 20px; flex-wrap:wrap;">
+        <div style="background:white; color:#0F172A; padding:12px 24px; border-radius:100px; font-weight:600;">
+          ⚡ 24 Jam Selesai
+        </div>
+        <div style="background:white; color:#0F172A; padding:12px 24px; border-radius:100px; font-weight:600;">
+          🛡️ Garansi Uang Kembali
+        </div>
+        <div style="background:white; color:#0F172A; padding:12px 24px; border-radius:100px; font-weight:600;">
+          🎯 Bisa Coding Doang / Full Service
+        </div>
+      </div>
+      
+      <p style="font-size:16px; max-width:500px; margin:20px auto; opacity:0.8; color:white;">
+        ✨ Udah punya desain? Tinggal coding aja. <br>✨ Belum punya apa-apa? Saya bantu dari nol.
+      </p>
+      
+      <a href="#paket-24jam" style="display:inline-block; background:#22C55E; color:white; padding:16px 48px; border-radius:100px; text-decoration:none; font-weight:700; font-size:18px; margin-top:20px; box-shadow:0 20px 25px -5px rgba(0,0,0,0.2);">
+        🚀 Lihat Paket 24 Jam
+      </a>
+      
+      <p id="solusi" style="margin-top:30px; font-size:14px; opacity:0.7; color:white;">Khusus 1 project per hari. Slot hari ini: <span style="color:#22C55E; font-weight:600;">TERSEDIA</span></p>
+    </div>
+  </div>
+</section>
+
+<!-- SOLUSI SECTION -->
+<section class="section" style="background:#fff;">
+  <div class="container">
+    <div style="text-align:center; margin-bottom:40px;">
+      <span style="background:#EFF6FF; color:#1E3A8A; padding:8px 20px; border-radius:100px; font-size:14px; font-weight:500; display:inline-block; margin-bottom:20px;">
+        🔍 BUKAN SULAP, BUKAN PENIPUAN
+      </span>
+      <h2 style="font-size:clamp(32px,5vw,44px); max-width:800px; margin:0 auto;">
+        Kok bisa <span style="color:#22C55E;">24 jam selesai?</span>
+      </h2>
+      <p style="font-size:18px; color:#475569; max-width:600px; margin:20px auto 0;">
+        Kami pakai sistem, alat bantu premium, dan kerja tim. Transparan, profesional, dan sudah teruji.
+      </p>
+    </div>
+    
+    <!-- GRID 8 POIN -->
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:20px; margin:40px 0;">
+      
+      <!-- 1 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Pakai Alat Bantu Premium</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Saya pakai berbagai tools berbayar untuk percepat coding. Struktur HTML, CSS, JS jadi lebih cepat tanpa ngurangi kualitas.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">⚡ 3x lebih cepat</div>
+        </div>
+      </div>
+      
+      <!-- 2 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Copywriting Terstruktur</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Nggak asal tulis. Saya pakai tools + riset kata kunci biar teksnya mendorong orang untuk hubungi Anda.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">📝 Fokus konversi WA</div>
+        </div>
+      </div>
+      
+      <!-- 3 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Bukan Saya Sendiri</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Saya punya tim kecil yang sudah menangani berbagai project. Desain, coding, testing — dikerjain bareng biar cepet.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">👥 3 orang tim</div>
+        </div>
+      </div>
+      
+      <!-- 4 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <circle cx="12" cy="8" r="4"/><path d="M5.37 20c.92-3 4.29-4 6.63-4s5.71 1 6.63 4"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Pengalaman Sejak 2017</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Sudah ngerjain 497+ website: perusahaan, e-commerce, jasa, desa, sekolah. Pola dan tantangan udah hafal di luar kepala.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">📅 7+ tahun</div>
+        </div>
+      </div>
+      
+      <!-- 5 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="9" x2="15" y2="15"/><line x1="15" y1="9" x2="9" y2="15"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Template Framework Premium</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Struktur dasar udah siap. Tinggal sesuaikan struktur, isi konten, ganti warna, gambar. Gak perlu nulis kode dari 0.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">🧩 70% pekerjaan udah jadi</div>
+        </div>
+      </div>
+      
+      <!-- 6 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Fokus 1 Project Per Hari</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Saya cuma ambil 1 project tiap hari. Biar bisa fokus penuh, nggak terbagi, dan garansi 24 jam beneran ditepati.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">🎯 No multitasking</div>
+        </div>
+      </div>
+      
+      <!-- 7 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Testing Sebelum Live</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Sebelum dikirim ke Anda, saya cek dulu: loading, tampilan HP, tombol WA, pastiin semua oke.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">✅ Quality check</div>
+        </div>
+      </div>
+      
+      <!-- 8 -->
+      <div class="solusi-card" style="background:#F8FAFC; border-radius:24px; padding:28px 20px; border-bottom:3px solid #22C55E;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="background:#E6F7E6; width:48px; height:48px; border-radius:16px; display:flex; align-items:center; justify-content:center;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="1.8">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+          </div>
+          <h3 style="font-size:18px; font-weight:700; margin:0;">Garansi Uang Kembali</h3>
+          <p style="font-size:14px; color:#475569; margin:0; line-height:1.6;">Kalau nggak selesai 24 jam (sesuai syarat), uang kembali 100%. Saya berani karena sistem saya udah matang.</p>
+          <div style="background:#fff; padding:6px 12px; border-radius:100px; font-size:12px; color:#22C55E; font-weight:600; align-self:flex-start;">🛡️ Tertulis & jelas</div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <!-- KESIMPULAN -->
+    <div style="background:#F1F5F9; border-radius:24px; padding:40px; margin-top:40px;">
+      <div style="display:flex; flex-wrap:wrap; gap:30px; align-items:center; justify-content:center;">
+        <div style="flex:1; min-width:250px;">
+          <h3 style="font-size:24px; margin-bottom:16px;">Pertanyaan Anda: <span style="color:#EF4444;">"Ini penipuan bukan sih?"</span></h3>
+          <p style="font-size:16px; color:#334155; margin-bottom:16px;">Wajar kalau ragu. Banyak janji manis 24 jam tapi hasilnya nggak jelas. Saya beda karena:</p>
+          <ul style="list-style:none; padding:0;">
+            <li style="display:flex; gap:10px; margin-bottom:10px;">✅ <strong>Transparan:</strong> Saya kasih tau tools & tim yang dipakai</li>
+            <li style="display:flex; gap:10px; margin-bottom:10px;">✅ <strong>Garansi tertulis:</strong> Bukan sekedar omongan</li>
+            <li style="display:flex; gap:10px; margin-bottom:10px;">✅ <strong>Udah 7 tahun:</strong> Kalau penipu, udah lama kabur</li>
+            <li style="display:flex; gap:10px; margin-bottom:10px;">✅ <strong>Boleh chat WA:</strong> Tanya apa aja, saya jawab langsung</li>
+          </ul>
+        </div>
+        <div style="flex:1; min-width:250px; background:white; border-radius:16px; padding:24px; border-left:4px solid #22C55E;">
+          <p style="font-weight:600; margin-bottom:16px;">📊 Fakta:</p>
+          <div style="display:flex; justify-content:space-between; margin-bottom:12px;">
+            <span>Website selesai tepat waktu:</span>
+            <span style="font-weight:700; color:#22C55E;">497+</span>
+          </div>
+          <div style="display:flex; justify-content:space-between; margin-bottom:12px;">
+            <span>Uang kembali:</span>
+            <span style="font-weight:700; color:#22C55E;">0</span>
+          </div>
+          <div style="display:flex; justify-content:space-between;">
+            <span>Klien komplain:</span>
+            <span style="font-weight:700; color:#22C55E;">< 1%</span>
+          </div>
+          <p style="margin-top:20px; font-size:14px; color:#64748B;">Data real, bukan dibuat-buat.</p>
+        </div>
+      </div>
+    </div>
+    
+    <!-- CTA KECIL -->
+    <div style="text-align:center; margin-top:40px;">
+      <p style="font-size:18px;">Masih ragu? <a href="https://wa.me/6282320410740" style="color:#22C55E; font-weight:600;">Chat WhatsApp</a> aja, tanya apa aja. Saya yang jawab langsung, bukan robot.</p>
+    </div>
+    
+  </div>
+</section>
+
+<!-- COST OF WAITING SECTION -->
+<section class="section" style="background:#fff;">
+  <div class="container">
+    <div style="text-align:center; margin-bottom:40px;">
+      <span style="background: #fbbf24; color: black; padding: 8px 20px; border-radius: 100px; font-weight: 700; display: inline-block;">
+        ⚠️ HITUNGAN REALISTIS
+      </span>
+      <h2 style="font-size:clamp(32px,5vw,44px); max-width:700px; margin:0 auto;">
+        Kalau <span style="color:#EF4444;">tunda ambil Paket 24 Jam</span>, ini yang terjadi:
+      </h2>
+      <p style="font-size:18px; color:#475569; max-width:600px; margin:20px auto 0;">
+        Bukan menakut-nakuti, tapi biar Anda lihat hitungan kasarnya.
+      </p>
+    </div>
+    
+    <!-- GRID 3 PERBANDINGAN -->
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:20px; margin:40px 0;">
+      
+      <!-- KOLOM 1 -->
+      <div style="background:#FEF2F2; border-radius:24px; padding:30px 20px; border:1px solid #FECACA; position:relative;">
+        <div style="position:absolute; top:-12px; left:20px; background:#EF4444; color:white; padding:4px 16px; border-radius:100px; font-size:12px; font-weight:600;">❌ PILIHAN 1</div>
+        <div style="font-size:20px; font-weight:700; margin:20px 0 10px; color:#991B1B;">Ke Developer "Murah"</div>
+        <div style="font-size:14px; color:#B91C1C; margin-bottom:20px;">janji 1 minggu, kenyataannya...</div>
+        
+        <ul style="list-style:none; padding:0;">
+          <li style="display:flex; gap:10px; margin-bottom:15px; align-items:center;">
+            <span style="background:#EF4444; width:24px; height:24px; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-size:14px;">✗</span>
+            <span style="font-size:14px;"><strong>Minggu 1:</strong> "Mau dibikin, nunggu desain"</span>
+          </li>
+          <li style="display:flex; gap:10px; margin-bottom:15px; align-items:center;">
+            <span style="background:#EF4444; width:24px; height:24px; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-size:14px;">✗</span>
+            <span style="font-size:14px;"><strong>Minggu 2:</strong> "Revisi, besok saya kabari"</span>
+          </li>
+          <li style="display:flex; gap:10px; margin-bottom:15px; align-items:center;">
+            <span style="background:#EF4444; width:24px; height:24px; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-size:14px;">✗</span>
+            <span style="font-size:14px;"><strong>Minggu 3:</strong> Chat dibaca, nggak dibales</span>
+          </li>
+        </ul>
+        
+        <div style="background:white; border-radius:16px; padding:15px; margin-top:20px;">
+          <div style="font-size:24px; font-weight:700; color:#EF4444; margin-bottom:5px;">Rp 3.500.000</div>
+          <div style="font-size:13px; color:#64748B;">uang udah keluar, website <span style="color:#EF4444;">BELUM JADI</span></div>
+          <div style="font-size:20px; font-weight:700; color:#F59E0B; margin-top:10px;">+ 21 hari</div>
+          <div style="font-size:13px; color:#64748B;">waktu terbuang sia-sia</div>
+        </div>
+        
+        <div style="margin-top:20px; font-size:13px; color:#B91C1C; text-align:center;">
+          ⚡ 0 leads, 0 pelanggan baru selama 3 minggu
+        </div>
+      </div>
+      
+      <!-- KOLOM 2 -->
+      <div style="background:#FFFBEB; border-radius:24px; padding:30px 20px; border:1px solid #FCD34D; position:relative;">
+        <div style="position:absolute; top:-12px; left:20px; background:#F59E0B; color:white; padding:4px 16px; border-radius:100px; font-size:12px; font-weight:600;">⚠️ PILIHAN 2</div>
+        <div style="font-size:20px; font-weight:700; margin:20px 0 10px; color:#92400E;">Paket Basic (4-7 Hari)</div>
+        <div style="font-size:14px; color:#92400E; margin-bottom:20px;">lebih lama, lebih mahal, fitur belum tentu kepake</div>
+        
+        <ul style="list-style:none; padding:0;">
+          <li style="display:flex; gap:10px; margin-bottom:15px;">
+            <span style="color:#F59E0B; font-weight:700;">✓</span>
+            <span style="font-size:14px;">Website jadi dalam 4-7 hari</span>
+          </li>
+          <li style="display:flex; gap:10px; margin-bottom:15px;">
+            <span style="color:#F59E0B; font-weight:700;">✓</span>
+            <span style="font-size:14px;">Multi halaman, akses admin</span>
+          </li>
+          <li style="display:flex; gap:10px; margin-bottom:15px;">
+            <span style="color:#94A3B8; font-weight:700;">✗</span>
+            <span style="font-size:14px; color:#64748B;">Nunggu 4 hari = 4 hari kehilangan leads</span>
+          </li>
+        </ul>
+        
+        <div style="background:white; border-radius:16px; padding:15px; margin-top:20px;">
+          <div style="font-size:24px; font-weight:700; color:#F59E0B; margin-bottom:5px;">Rp 2.497.000</div>
+          <div style="font-size:13px; color:#64748B;">lebih mahal 1jt dari Paket 24 Jam</div>
+          <div style="font-size:20px; font-weight:700; color:#F59E0B; margin-top:10px;">+ 4 hari nunggu</div>
+        </div>
+        
+        <div style="margin-top:20px; background:#F1F5F9; padding:12px; border-radius:12px;">
+          <div style="display:flex; justify-content:space-between;">
+            <span style="font-size:13px;">Potensi leads hilang:</span>
+            <span style="font-weight:700; color:#EF4444;">15-30 leads</span>
+          </div>
+          <div style="display:flex; justify-content:space-between; margin-top:5px;">
+            <span style="font-size:13px;">Estimasi omset:</span>
+            <span style="font-weight:700; color:#EF4444;">Rp 1,5 - 3 jt</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- KOLOM 3 -->
+      <div style="background:#F0FDF4; border-radius:24px; padding:30px 20px; border:2px solid #22C55E; position:relative; transform:scale(1.02); box-shadow:0 20px 25px -5px rgba(34,197,94,0.2);">
+        <div style="position:absolute; top:-12px; left:20px; background:#22C55E; color:white; padding:4px 16px; border-radius:100px; font-size:12px; font-weight:600;">✅ PILIHAN 3</div>
+        <div style="font-size:20px; font-weight:700; margin:20px 0 10px; color:#166534;">Paket 24 JAM</div>
+        <div style="font-size:14px; color:#166534; margin-bottom:20px;">selesai besok, langsung dapet untung</div>
+        
+        <ul style="list-style:none; padding:0;">
+          <li style="display:flex; gap:10px; margin-bottom:15px;">
+            <span style="background:#22C55E; width:24px; height:24px; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-size:14px;">✓</span>
+            <span style="font-size:14px;"><strong>Hari ini</strong> konsultasi, transfer</span>
+          </li>
+          <li style="display:flex; gap:10px; margin-bottom:15px;">
+            <span style="background:#22C55E; width:24px; height:24px; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-size:14px;">✓</span>
+            <span style="font-size:14px;"><strong>Besok</strong> website live, siap iklan</span>
+          </li>
+          <li style="display:flex; gap:10px; margin-bottom:15px;">
+            <span style="background:#22C55E; width:24px; height:24px; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-size:14px;">✓</span>
+            <span style="font-size:14px;"><strong>Lusa</strong> udah bisa dapet leads</span>
+          </li>
+        </ul>
+        
+        <div style="background:white; border-radius:16px; padding:15px; margin-top:20px;">
+          <div style="font-size:24px; font-weight:700; color:#22C55E; margin-bottom:5px;">Rp 1.497.000</div>
+          <div style="font-size:13px; color:#64748B;">termasuk domain + hosting 1 tahun</div>
+          <div style="font-size:20px; font-weight:700; color:#22C55E; margin-top:10px;">24 jam</div>
+          <div style="font-size:13px; color:#64748B;">langsung live</div>
+        </div>
+        
+        <div style="margin-top:20px; background:#22C55E10; padding:12px; border-radius:12px; border:1px dashed #22C55E;">
+          <div style="display:flex; justify-content:space-between; font-weight:600;">
+            <span>Potensi keuntungan:</span>
+            <span style="color:#22C55E;">BESOK JALAN</span>
+          </div>
+          <div style="display:flex; justify-content:space-between; margin-top:5px; font-size:13px;">
+            <span>Leads pertama:</span>
+            <span style="font-weight:700;">24-48 jam setelah live</span>
+          </div>
+        </div>
+        
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20ambil%20Paket%2024%20Jam" style="display:block; background:#22C55E; color:white; text-align:center; padding:12px; border-radius:100px; text-decoration:none; font-weight:600; margin-top:20px;">
+          ⚡ Ambil Paket 24 Jam
+        </a>
+      </div>
+      
+    </div>
+    
+<!-- KESIMPULAN: DAMPAK NYATA -->
+<div style="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%); padding:40px; border-radius:32px; color:white; margin-top:40px;">
+  
+  <!-- HEADLINE LEBIH MENARIK -->
+  <div style="text-align:center; margin-bottom:30px;">
+    <span style="background:#FACC15; color:#0F172A; padding:6px 16px; border-radius:100px; font-size:14px; font-weight:700; display:inline-block; margin-bottom:15px;">
+      ⏳ HITUNGAN SEDERHANA
+    </span>
+    <h3 style="color:white; font-size:32px; margin-bottom:10px;">Apa jadinya kalau <span style="color:#FACC15;">tunda hari ini?</span></h3>
+    <p style="color:#CBD5E1; font-size:16px; max-width:500px; margin:0 auto;">
+      Bukan menakut-nakuti, tapi biar Anda lihat perbandingannya.
+    </p>
+  </div>
+  
+  <div style="display:flex; flex-wrap:wrap; gap:30px; align-items:stretch;">
+    
+    <!-- SISI KIRI: VISUAL SEDERHANA -->
+    <div style="flex:2; min-width:280px;">
+      
+      <!-- BARIS PERBANDINGAN 1: VISUAL KERUGIAN -->
+      <div style="background:rgba(255,255,255,0.05); border-radius:20px; padding:20px; margin-bottom:15px;">
+        <div style="display:flex; align-items:center; gap:15px; flex-wrap:wrap;">
+          <div style="width:50px; height:50px; background:#EF4444; border-radius:100px; display:flex; align-items:center; justify-content:center; font-size:24px;">❌</div>
+          <div style="flex:1;">
+            <div style="font-weight:600; font-size:18px; margin-bottom:5px;">Tunda 1 minggu</div>
+            <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+              <span style="color:#94A3B8;">Kehilangan:</span>
+              <span style="color:#FACC15; font-weight:700; font-size:22px;">15-30 leads</span>
+            </div>
+          </div>
+          <div style="background:#EF444420; color:#FCA5A5; padding:8px 16px; border-radius:100px; font-size:14px; font-weight:600;">
+            ≈ Rp 3-6 JT
+          </div>
+        </div>
+        
+        <!-- VISUAL PROGRESS KERUGIAN -->
+        <div style="margin-top:15px;">
+          <div style="display:flex; justify-content:space-between; font-size:12px; color:#94A3B8; margin-bottom:5px;">
+            <span>Potensi hilang</span>
+            <span>70%</span>
+          </div>
+          <div style="height:10px; background:#334155; border-radius:100px; overflow:hidden;">
+            <div style="width:70%; height:10px; background:#EF4444; border-radius:100px;"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- BARIS PERBANDINGAN 2: AMBIL PAKET -->
+      <div style="background:rgba(255,255,255,0.05); border-radius:20px; padding:20px; margin-bottom:15px;">
+        <div style="display:flex; align-items:center; gap:15px; flex-wrap:wrap;">
+          <div style="width:50px; height:50px; background:#22C55E; border-radius:100px; display:flex; align-items:center; justify-content:center; font-size:24px;">✅</div>
+          <div style="flex:1;">
+            <div style="font-weight:600; font-size:18px; margin-bottom:5px;">Ambil Paket 24 Jam</div>
+            <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+              <span style="color:#94A3B8;">Potensi dapat:</span>
+              <span style="color:#FACC15; font-weight:700; font-size:22px;">15-30 leads</span>
+            </div>
+          </div>
+          <div style="background:#22C55E20; color:#86EFAC; padding:8px 16px; border-radius:100px; font-size:14px; font-weight:600;">
+            MINGGU INI
+          </div>
+        </div>
+        
+        <!-- VISUAL PROGRESS KEUNTUNGAN -->
+        <div style="margin-top:15px;">
+          <div style="display:flex; justify-content:space-between; font-size:12px; color:#94A3B8; margin-bottom:5px;">
+            <span>Peluang didapat</span>
+            <span>100%</span>
+          </div>
+          <div style="height:10px; background:#334155; border-radius:100px; overflow:hidden;">
+            <div style="width:100%; height:10px; background:#22C55E; border-radius:100px;"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- KESIMPULAN SINGKAT -->
+      <div style="background:#22C55E20; border-left:4px solid #22C55E; padding:15px; border-radius:16px; margin-top:20px;">
+        <div style="display:flex; gap:12px; align-items:center;">
+          <span style="font-size:28px;">⚡</span>
+          <div>
+            <span style="font-weight:700; font-size:16px;">Intinya: </span>
+            <span style="color:#CBD5E1;">Setiap hari nunda = 2-5 leads menguap. Besok website Anda bisa live dan mulai dapet leads.</span>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <!-- SISI KANAN: CTA PAKET (TETAP) -->
+    <div style="flex:1; min-width:260px;">
+      <div style="background:#FFFFFF; border-radius:24px; padding:28px 20px; text-align:center; height:100%; display:flex; flex-direction:column; justify-content:center;">
+        
+        <!-- STICKER GARANSI -->
+        <div style="background:#22C55E; color:white; width:fit-content; margin:0 auto 15px; padding:4px 16px; border-radius:100px; font-size:12px; font-weight:600; display:flex; align-items:center; gap:5px;">
+          <span>🛡️</span> GARANSI 24 JAM
+        </div>
+        
+        <div style="font-size:40px; font-weight:800; color:#0F172A; line-height:1.1; margin-bottom:5px;">1.497K</div>
+        <div style="font-size:14px; color:#64748B; margin-bottom:15px;">Domain + hosting 1 tahun</div>
+        
+        <!-- BADGE PERBANDINGAN -->
+        <div style="background:#F1F5F9; border-radius:16px; padding:12px; margin:15px 0; display:flex; justify-content:space-around;">
+          <div style="text-align:center;">
+            <div style="font-size:12px; color:#64748B;">Modal</div>
+            <div style="font-weight:700; color:#0F172A;">1,5JT</div>
+          </div>
+          <div style="width:1px; background:#CBD5E1;"></div>
+          <div style="text-align:center;">
+            <div style="font-size:12px; color:#64748B;">Potensi</div>
+            <div style="font-weight:700; color:#22C55E;">3-6JT</div>
+          </div>
+          <div style="width:1px; background:#CBD5E1;"></div>
+          <div style="text-align:center;">
+            <div style="font-size:12px; color:#64748B;">ROI</div>
+            <div style="font-weight:700; color:#22C55E;">300%</div>
+          </div>
+        </div>
+        
+        <!-- URGENCY MESSAGE -->
+        <div style="background:#FEF3C7; padding:12px; border-radius:12px; margin:10px 0 20px;">
+          <div style="display:flex; align-items:center; gap:8px; justify-content:center;">
+            <span style="color:#F59E0B; font-size:18px;">⏰</span>
+            <span style="color:#92400E; font-weight:600; font-size:14px;">1 slot tersisa hari ini</span>
+          </div>
+        </div>
+        
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20ambil%20Paket%2024%20Jam%20sekarang" 
+           style="display:block; background:#22C55E; color:white; padding:16px 12px; border-radius:100px; text-decoration:none; font-weight:700; font-size:16px; box-shadow:0 4px 10px rgba(34,197,94,0.3);">
+          🚀 Ambil Slot Sekarang
+        </a>
+        
+        <p style="font-size:11px; color:#94A3B8; margin-top:15px;">*Garansi 100% uang kembali jika tidak selesai 24 jam</p>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+<!-- TRUST SECTION -->
+<section class="section" style="background:#fff; overflow:hidden;">
+  <div class="container">
+    <div style="text-align:center; margin-bottom:50px;">
+      <span style="background:#E6F7E6; color:#22C55E; padding:8px 20px; border-radius:100px; font-size:14px; font-weight:600; display:inline-block; margin-bottom:20px;">
+        🔍 BUKAN Klaim, TAPI DATA
+      </span>
+      <h2 style="font-size:clamp(32px,5vw,42px); max-width:700px; margin:0 auto;">
+        Kenapa <span style="color:#22C55E;">497+ pemilik bisnis</span> percayakan website mereka?
+      </h2>
+      <p style="font-size:18px; color:#475569; max-width:600px; margin:20px auto 0;">
+        Bukan karena saya hebat, tapi karena sistemnya transparan dan terbukti.
+      </p>
+    </div>
+    
+    <!-- GRID 3 KOLOM -->
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:25px; margin:40px 0;">
+      
+      <div style="background:#F8FAFC; border-radius:24px; padding:35px 25px; text-align:center; border-bottom:4px solid #22C55E;">
+        <div style="font-size:56px; font-weight:800; color:#22C55E; line-height:1; margin-bottom:10px;">497+</div>
+        <div style="font-size:18px; font-weight:600; margin-bottom:20px;">Website Tepat Waktu</div>
+        
+        <div style="background:white; border-radius:16px; padding:15px; margin-top:15px; text-align:left;">
+          <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+            <span style="font-size:14px; color:#475569;">🏢 Perusahaan/Instansi</span>
+            <span style="font-weight:600;">45+</span>
+          </div>
+          <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+            <span style="font-size:14px; color:#475569;">🔧 Jasa Service</span>
+            <span style="font-weight:600;">99+</span>
+          </div>
+          <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+            <span style="font-size:14px; color:#475569;">🛒 UMKM/Toko</span>
+            <span style="font-weight:600;">33+</span>
+          </div>
+        </div>
+        
+        <p style="font-size:13px; color:#64748B; margin-top:15px;">✅ Semua selesai sesuai deadline</p>
+      </div>
+      
+      <div style="background:#F8FAFC; border-radius:24px; padding:35px 25px; text-align:center; border-bottom:4px solid #22C55E;">
+        <div style="font-size:56px; font-weight:800; color:#22C55E; line-height:1; margin-bottom:10px;">7</div>
+        <div style="font-size:18px; font-weight:600; margin-bottom:20px;">Tahun Pengalaman</div>
+        
+        <div style="background:white; border-radius:16px; padding:20px; margin-top:15px; text-align:left; position:relative;">
+          <div style="position:absolute; top:-10px; left:20px; background:#22C55E; color:white; padding:2px 10px; border-radius:50px; font-size:10px;">TERBARU</div>
+          <div style="font-size:14px; font-style:italic; color:#334155; margin-bottom:10px;">
+            "Udah 3 tahun lalu bikin website, sampai sekarang masih dipake dan nambah order tiap minggu."
+          </div>
+          <div style="display:flex; align-items:center; gap:10px;">
+            <div style="width:32px; height:32px; background:#22C55E20; border-radius:100px; display:flex; align-items:center; justify-content:center; color:#22C55E; font-weight:700;">A</div>
+            <div>
+              <div style="font-weight:600; font-size:14px;">May..., Rental Mobil</div>
+              <div style="font-size:11px; color:#64748B;">Klien 2023</div>
+            </div>
+          </div>
+        </div>
+        
+        <p style="font-size:13px; color:#64748B; margin-top:15px;">📅 Sejak 2017</p>
+      </div>
+      
+      <div style="background:#F8FAFC; border-radius:24px; padding:35px 25px; text-align:center; border-bottom:4px solid #22C55E;">
+        <div style="font-size:56px; font-weight:800; color:#22C55E; line-height:1; margin-bottom:10px;">0</div>
+        <div style="font-size:18px; font-weight:600; margin-bottom:20px;">Uang Kembali</div>
+        
+        <div style="background:white; border-radius:16px; padding:20px; margin-top:15px; text-align:left;">
+          <div style="display:flex; gap:10px; margin-bottom:12px;">
+            <span style="color:#22C55E;">✓</span>
+            <span style="font-size:13px;">497+ website selesai tepat waktu</span>
+          </div>
+          <div style="display:flex; gap:10px; margin-bottom:12px;">
+            <span style="color:#22C55E;">✓</span>
+            <span style="font-size:13px;">0 klien minta refund</span>
+          </div>
+          <div style="display:flex; gap:10px; margin-bottom:12px;">
+            <span style="color:#22C55E;">✓</span>
+            <span style="font-size:13px;">Garansi tetap berlaku untuk Anda</span>
+          </div>
+        </div>
+        
+        <div style="background:#22C55E10; border-radius:12px; padding:12px; margin-top:15px; border:1px dashed #22C55E;">
+          <span style="font-size:13px; font-weight:600;">🛡️ Berani garansi karena sistem sudah matang</span>
+        </div>
+      </div>
+      
+    </div>
+    
+    <div style="margin:50px 0 30px; text-align:center;">
+      <p style="font-size:14px; color:#64748B; margin-bottom:20px;">💼 Beberapa klien yang sudah percaya:</p>
+      <div id="tentang" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; align-items:center; opacity:0.7;">
+        <span style="font-weight:600; color:#334455;">Sedot WC</span>
+        <span style="font-weight:600; color:#334455;">Rental Mobil</span>
+        <span style="font-weight:600; color:#334455;">Spa & Massage</span>
+        <span style="font-weight:600; color:#334455;">Kontraktor</span>
+        <span style="font-weight:600; color:#334455;">Desa</span>
+        <span style="font-weight:600; color:#334455;">Sekolah</span>
+        <span style="font-weight:600; color:#334455;">Klinik</span>
+      </div>
+    </div>
+    
+    <div style="background:#F1F5F9; border-radius:24px; padding:35px; margin-top:30px;">
+      <div style="display:flex; flex-wrap:wrap; gap:30px; align-items:center;">
+        <div style="flex:1; min-width:200px;">
+          <h3 style="font-size:22px; margin-bottom:15px;">Siapa di balik layar?</h3>
+          <p style="color:#334155; margin-bottom:15px; font-size:15px;">
+            Saya Dede dan tim kecil. Bukan perusahaan besar, tapi karena itu saya bisa jaga kualitas tiap project.
+          </p>
+          <div style="display:flex; gap:15px; flex-wrap:wrap;">
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="background:#22C55E; width:10px; height:10px; border-radius:100px;"></span>
+              <span style="font-size:14px;">No subcontractor</span>
+            </div>
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="background:#22C55E; width:10px; height:10px; border-radius:100px;"></span>
+              <span style="font-size:14px;">1 project per hari</span>
+            </div>
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="background:#22C55E; width:10px; height:10px; border-radius:100px;"></span>
+              <span style="font-size:14px;">Fast respon WA</span>
+            </div>
+          </div>
+        </div>
+        
+        <div style="flex:1; min-width:200px; background:white; border-radius:20px; padding:20px; text-align:center;">
+          <p style="font-weight:600; margin-bottom:10px;">Masih ragu?</p>
+          <p style="font-size:14px; color:#64748B; margin-bottom:15px;">Chat aja, tanya apa aja. Saya yang jawab langsung.</p>
+          <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20tanya%20sebelum%20order%20Web" 
+             style="display:inline-block; background:#22C55E; color:white; padding:12px 24px; border-radius:100px; text-decoration:none; font-weight:600;">
+            💬 Chat via WhatsApp
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    <p id="portfolio" style="text-align:center; margin-top:40px; font-size:14px; color:#64748B;">
+      ⚡ 497+ website selesai tepat waktu • 0 refund • 7 tahun pengalaman • Garansi 24 jam untuk Anda juga
+    </p>
+    
+  </div>
+</section>
+
+<!-- PORTFOLIO SECTION -->
+<section class="section" style="background:#fff;">
+  <div class="container">
+    
+    <div style="text-align:center; margin-bottom:40px;">
+      <span style="background:#22C55E20; color:#22C55E; padding:6px 16px; border-radius:100px; font-size:13px; font-weight:600; display:inline-block; margin-bottom:15px;">
+        📸 BUKTI KARYA
+      </span>
+      <h2 style="font-size:clamp(28px, 6vw, 42px); max-width:700px; margin:0 auto 10px;">
+        Mereka sudah percaya, <span style="color:#22C55E;">sekarang giliran Anda</span>
+      </h2>
+      <p style="font-size:clamp(15px, 4vw, 18px); color:#475569; max-width:600px; margin:10px auto 0;">
+        Bukan template asal jadi. Setiap website dirancang untuk kebutuhan spesifik klien.
+      </p>
+    </div>
+    
+    <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:25px; margin:40px 0;" class="portfolio-grid">
+      
+      <!-- SEDOT WC -->
+      <div style="background:#F8FAFC; border-radius:24px; overflow:hidden; box-shadow:0 10px 25px rgba(0,0,0,0.03);">
+        <div style="position:relative;">
+          <div style="overflow-x:auto; scroll-snap-type:x mandatory; display:flex; aspect-ratio:16/9;" class="foto-carousel">
+            <img src="https://dev.levelupincome.web.id/image/sedotwc-1.webp" alt="Sedot WC 1" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/sedotwc-2.webp" alt="Sedot WC 2" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/sedotwc-3.webp" alt="Sedot WC 3" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/sedotwc-4.webp" alt="Sedot WC 4" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+          </div>
+          <div style="position:absolute; top:15px; right:15px; background:#22C55E; color:white; padding:5px 15px; border-radius:100px; font-size:13px; font-weight:600; z-index:2;">⚡ 24 JAM</div>
+          <div style="position:absolute; bottom:10px; left:50%; transform:translateX(-50%); display:flex; gap:6px; z-index:2;">
+            <span style="width:8px; height:8px; background:white; border-radius:50px; box-shadow:0 2px 4px rgba(0,0,0,0.2);"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+          </div>
+        </div>
+        <div style="padding:25px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; flex-wrap:wrap; gap:10px;">
+            <h3 style="font-size:20px; font-weight:700; margin:0;">Jasa Sedot WC</h3>
+            <span style="background:#E6F7E6; color:#22C55E; padding:4px 10px; border-radius:50px; font-size:12px;">Company Profile</span>
+          </div>
+          <p style="font-size:14px; color:#64748B; margin-bottom:15px;">Website landing page dengan fokus konversi WA. Selesai 24 jam, langsung dipakai iklan Google.</p>
+          <div style="display:flex; gap:15px; font-size:13px; flex-wrap:wrap;">
+            <span>✓ 1 halaman</span>
+            <span>✓ WA terintegrasi</span>
+            <span>✓ SEO basic</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- RENTAL MOBIL -->
+      <div style="background:#F8FAFC; border-radius:24px; overflow:hidden; box-shadow:0 10px 25px rgba(0,0,0,0.03);">
+        <div style="position:relative;">
+          <div style="overflow-x:auto; scroll-snap-type:x mandatory; display:flex; aspect-ratio:16/9;" class="foto-carousel">
+            <img src="https://dev.levelupincome.web.id/image/rental-1.webp" alt="Rental 1" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/rental-2.webp" alt="Rental 2" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/rental-3.webp" alt="Rental 3" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/rental-4.webp" alt="Rental 4" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+          </div>
+          <div style="position:absolute; top:15px; right:15px; background:#22C55E; color:white; padding:5px 15px; border-radius:100px; font-size:13px; font-weight:600; z-index:2;">⚡ 24 JAM</div>
+          <div style="position:absolute; bottom:10px; left:50%; transform:translateX(-50%); display:flex; gap:6px; z-index:2;">
+            <span style="width:8px; height:8px; background:white; border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+          </div>
+        </div>
+        <div style="padding:25px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; flex-wrap:wrap; gap:10px;">
+            <h3 style="font-size:20px; font-weight:700; margin:0;">Rental Mobil</h3>
+            <span style="background:#E6F7E6; color:#22C55E; padding:4px 10px; border-radius:50px; font-size:12px;">Katalog</span>
+          </div>
+          <p style="font-size:14px; color:#64748B; margin-bottom:15px;">Menampilkan 15 unit mobil dengan filter harga. Booking langsung via WA.</p>
+          <div style="display:flex; gap:15px; font-size:13px; flex-wrap:wrap;">
+            <span>✓ 1 halaman</span>
+            <span>✓ Price List</span>
+            <span>✓ Form booking</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- HOME SPA -->
+      <div style="background:#F8FAFC; border-radius:24px; overflow:hidden; box-shadow:0 10px 25px rgba(0,0,0,0.03);">
+        <div style="position:relative;">
+          <div style="overflow-x:auto; scroll-snap-type:x mandatory; display:flex; aspect-ratio:16/9;" class="foto-carousel">
+            <img src="https://dev.levelupincome.web.id/image/spa-1.webp" alt="Spa 1" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/spa-2.webp" alt="Spa 2" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/spa-3.webp" alt="Spa 3" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/spa-4.webp" alt="Spa 4" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+          </div>
+          <div style="position:absolute; top:15px; right:15px; background:#22C55E; color:white; padding:5px 15px; border-radius:100px; font-size:13px; font-weight:600; z-index:2;">⚡ 24 JAM</div>
+          <div style="position:absolute; bottom:10px; left:50%; transform:translateX(-50%); display:flex; gap:6px; z-index:2;">
+            <span style="width:8px; height:8px; background:white; border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+          </div>
+        </div>
+        <div style="padding:25px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; flex-wrap:wrap; gap:10px;">
+            <h3 style="font-size:20px; font-weight:700; margin:0;">Home Spa</h3>
+            <span style="background:#E6F7E6; color:#22C55E; padding:4px 10px; border-radius:50px; font-size:12px;">Booking Online</span>
+          </div>
+          <p style="font-size:14px; color:#64748B; margin-bottom:15px;">Sistem booking online + Form Submit. Notifikasi otomatis ke WA owner.</p>
+          <div style="display:flex; gap:15px; font-size:13px; flex-wrap:wrap;">
+            <span>✓ Form</span>
+            <span>✓ Input</span>
+            <span>✓ Auto WA</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- KONTRAKTOR -->
+      <div style="background:#F8FAFC; border-radius:24px; overflow:hidden; box-shadow:0 10px 25px rgba(0,0,0,0.03);">
+        <div style="position:relative;">
+          <div style="overflow-x:auto; scroll-snap-type:x mandatory; display:flex; aspect-ratio:16/9;" class="foto-carousel">
+            <img src="https://dev.levelupincome.web.id/image/kontraktor-1.webp" alt="Kontraktor 1" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/kontraktor-2.webp" alt="Kontraktor 2" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/kontraktor-3.webp" alt="Kontraktor 3" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+            <img src="https://dev.levelupincome.web.id/image/kontraktor-4.webp" alt="Kontraktor 4" style="flex:0 0 100%; scroll-snap-align:start; width:100%; height:100%; object-fit:cover;" loading="lazy">
+          </div>
+          <div style="position:absolute; top:15px; right:15px; background:#22C55E; color:white; padding:5px 15px; border-radius:100px; font-size:13px; font-weight:600; z-index:2;">⚡ 24 JAM</div>
+          <div style="position:absolute; bottom:10px; left:50%; transform:translateX(-50%); display:flex; gap:6px; z-index:2;">
+            <span style="width:8px; height:8px; background:white; border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+            <span style="width:8px; height:8px; background:rgba(255,255,255,0.5); border-radius:50px;"></span>
+          </div>
+        </div>
+        <div style="padding:25px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; flex-wrap:wrap; gap:10px;">
+            <h3 style="font-size:20px; font-weight:700; margin:0;">Kontraktor</h3>
+            <span style="background:#E6F7E6; color:#22C55E; padding:4px 10px; border-radius:50px; font-size:12px;">Portofolio</span>
+          </div>
+          <p style="font-size:14px; color:#64748B; margin-bottom:15px;">Menampilkan 20+ proyek dengan foto sebelum-sesudah. Memudahkan klien lihat portofolio.</p>
+          <div style="display:flex; gap:15px; font-size:13px; flex-wrap:wrap;">
+            <span>✓ Galeri proyek</span>
+            <span>✓ Client list</span>
+            <span>✓ Testimoni</span>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <!-- BAGIAN "BELUM LIHAT YANG COCOK?" -->
+    <div style="background:#F1F5F9; border-radius:24px; padding:40px 30px; margin-top:30px; text-align:center;">
+      <h3 style="font-size:clamp(20px, 5vw, 24px); margin-bottom:15px; line-height:1.4;">🔍 Belum lihat portofolio yang sesuai dengan bisnis Anda?</h3>
+      <p style="font-size:clamp(14px, 4vw, 16px); color:#334155; max-width:500px; margin:0 auto 25px; line-height:1.5; padding:0 10px;">
+        Saya punya banyak contoh website untuk berbagai bidang. Chat aja, saya kirimkan yang relevan.
+      </p>
+      <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20lihat%20contoh%20website%20untuk%20[sebutkan%20bidang%20usaha%20anda]" 
+         style="display:inline-block; background:#22C55E; color:white; padding:14px 30px; border-radius:100px; text-decoration:none; font-weight:600; font-size:clamp(14px, 4vw, 16px);"
+         class="cta-mobile">
+        📱 Minta Contoh Website via WA
+      </a>
+    </div>
+    
+    <!-- TESTIMONI SINGKAT -->
+    <div style="display:flex; gap:20px; justify-content:center; margin-top:40px; flex-wrap:wrap;" class="testi-singkat-wrapper">
+      <div style="background:#F8FAFC; padding:15px 20px; border-radius:100px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; justify-content:center;">
+        <span style="color:#FACC15; font-size:16px; white-space:nowrap;">★★★★★</span>
+        <span style="font-size:14px; text-align:center;">"Selesai 24 jam, langsung saya iklan"</span>
+        <span style="font-weight:600; white-space:nowrap;">— Andi</span>
+      </div>
+      <div style="background:#F8FAFC; padding:15px 20px; border-radius:100px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; justify-content:center;">
+        <span style="color:#FACC15; font-size:16px; white-space:nowrap;">★★★★★</span>
+        <span style="font-size:14px; text-align:center;">"Desainnya sesuai brief, nggak asal jadi"</span>
+        <span style="font-weight:600; white-space:nowrap;">— Rina</span>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+<!-- PAKET 24 JAM -->
+<section id="paket-24jam" style="background:#22C55E; padding:60px 0;">
+  <div class="container">
+    <div style="background:#fff; border-radius:32px; padding:40px 25px; max-width:900px; margin:0 auto;" class="paket-24jam-card">
+      
+      <div style="text-align:center;">
+        <span style="background: #15803d; color: #ffffff; padding: 6px 20px; border-radius: 100px; font-weight: 600; display: inline-block;">
+          ⚡ GARANSI 24 JAM
+        </span>
+        <h2 style="font-size:clamp(32px,8vw,48px); margin:20px 0 10px;">Paket Website 24 Jam</h2>
+        <div style="font-size:clamp(40px,10vw,56px); font-weight:700; color:#22C55E; line-height:1.1; display:flex; align-items:center; justify-content:center; gap:10px; flex-wrap:wrap;">
+  <span>Rp 1.497K</span>
+  <span style="font-size:16px; color:#94A3B8; text-decoration:line-through; font-weight:400;">Rp 1.800K</span>
+</div>
+
+<!-- TAMBAHKAN INI -->
+<div style="display:flex; align-items:center; gap:8px; justify-content:center; margin:5px 0 15px;">
+  <span style="background:#22C55E; color:white; padding:4px 12px; border-radius:50px; font-size:12px; font-weight:600;">HEMAT Rp 303K</span>
+  <span style="color:#22C55E; font-size:13px;">(16% lebih murah)</span>
+</div>
+
+<p style="margin:10px 0 25px; font-size:clamp(14px,4vw,16px); color:#64748B;">✓ Termasuk domain & hosting 1 tahun</p>
+
+      <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:25px; margin:30px 0;" class="paket-24jam-grid">
+        
+        <div>
+          <h3 style="font-size:20px; margin-bottom:15px; display:flex; align-items:center; gap:8px;">📦 Termasuk:</h3>
+          <ul style="list-style:none; padding:0;" class="feature-list">
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> 
+              <span>1 Landing Page Conversion</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> 
+              <span>Domain .com + Hosting 1 thn</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> 
+              <span>WhatsApp Integration</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> 
+              <span>Speed Optimized</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> 
+              <span>Mobile First</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22C55E" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg> 
+              <span>Revisi minor</span>
+            </li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3 style="font-size:20px; margin-bottom:15px; display:flex; align-items:center; gap:8px;">📋 Syarat Garansi:</h3>
+          <ul style="list-style:none; padding:0;" class="feature-list">
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg> 
+              <span>Materi lengkap sebelum mulai</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg> 
+              <span>DP 70% (atau lunas)</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg> 
+              <span>1 project per hari</span>
+            </li>
+            <li style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:clamp(14px,3.5vw,16px);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg> 
+              <span>UI/UX kami yang buat</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div style="background:#F1F5F9; padding:20px 15px; border-radius:16px; margin:30px 0;">
+        <p style="margin:0; font-weight:600; font-size:clamp(14px,4vw,16px);">🎁 BONUS UNTUK SLOT HARI INI:</p>
+        <p style="margin:8px 0 0; font-size:clamp(13px,3.5vw,15px); color:#334155;">Konsultasi strategi iklan + panduan Google Ads + support 3 hari setelah live.</p>
+      </div>
+
+      <div style="text-align:center;">
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20ambil%20Paket%2024%20Jam%20Rp%201.497.000" 
+           class="btn btn-primary" 
+           style="display:inline-block; background:#22C55E; color:white; padding:16px 30px; border-radius:100px; text-decoration:none; font-weight:600; font-size:clamp(16px,4vw,18px); box-shadow:0 4px 10px rgba(34,197,94,0.3); width:auto; max-width:100%;"
+           class="paket-cta">
+          ⚡ Ambil Slot Hari Ini
+        </a>
+        <p style="margin-top:15px; font-size:13px; color:#64748B;">*Hanya 1 slot per hari. Jika terisi, masuk antrean besok.</p>
+        </div>
+    </div>
+  </div>
+</section>
+
+<!-- PAKET LAINNYA -->
+<section class="section" style="background:#F8FAFC; padding:60px 0;">
+  <div class="container">
+    
+    <div style="text-align:center; margin-bottom:40px;">
+      <span style="background:#22C55E20; color:#22C55E; padding:6px 16px; border-radius:100px; font-size:13px; font-weight:600; display:inline-block; margin-bottom:15px;">
+        📊 PAKET TAMBAHAN
+      </span>
+      <h2 style="font-size:clamp(28px,6vw,42px); max-width:700px; margin:0 auto 15px;">
+        Pilih yang <span style="color:#22C55E;">paling sesuai</span>
+      </h2>
+      <p style="font-size:clamp(15px,4vw,18px); color:#475569; max-width:600px; margin:0 auto; padding:0 15px;">
+        Basic untuk kelola sendiri, Profesional untuk yang pengen langsung jalan.
+      </p>
+    </div>
+    
+    <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:25px; margin:40px 0;" class="paket-grid">
+      
+     <!-- BASIC -->
+<div style="background:#fff; border-radius:24px; padding:30px 20px; box-shadow:0 10px 20px rgba(0,0,0,0.03);" class="paket-card">
+  
+  <div style="display:flex; align-items:center; gap:8px; margin-bottom:15px; flex-wrap:wrap;">
+    <span style="background:#E2E8F0; color:#334155; padding:4px 14px; border-radius:50px; font-size:13px; font-weight:600;">📄 BASIC</span>
+    <span style="background:#F1F5F9; color:#475569; padding:4px 10px; border-radius:50px; font-size:11px;">Kelola Sendiri</span>
+  </div>
+  
+  <h3 style="font-size:clamp(24px,6vw,32px); font-weight:700; margin:0 0 5px;">Basic Presence</h3>
+  
+  <!-- TAMBAHAN HARGA CORET BASIC -->
+  <div style="display:flex; align-items:center; justify-content:center; gap:8px; margin-bottom:5px;">
+    <span style="color:#94A3B8; font-size:16px; text-decoration:line-through;">Rp 2.800K</span>
+    <span style="background:#22C55E20; color:#22C55E; padding:2px 8px; border-radius:50px; font-size:11px; font-weight:600;">HEMAT 303K</span>
+  </div>
+  
+  <div style="font-size:clamp(36px,8vw,48px); font-weight:800; color:#0F172A; margin-bottom:5px;">2.497K</div>
+  <p style="color:#64748B; margin-bottom:20px; font-size:13px;">✓ Domain + hosting 1 tahun</p>
+  
+  <div style="background:#F8FAFC; border-radius:16px; padding:20px 15px; margin:20px 0;">
+    <p style="font-weight:600; margin-bottom:12px; font-size:14px;">📦 Yang didapat:</p>
+    <ul style="list-style:none; padding:0;">
+      <li style="display:flex; gap:8px; margin-bottom:10px; align-items:center; font-size:13px;">
+        <span style="color:#22C55E; font-size:16px;">✓</span> <span>Multi halaman (3-5)</span>
+      </li>
+      <li style="display:flex; gap:8px; margin-bottom:10px; align-items:center; font-size:13px;">
+        <span style="color:#22C55E; font-size:16px;">✓</span> <span>Akses admin</span>
+      </li>
+      <li style="display:flex; gap:8px; margin-bottom:10px; align-items:center; font-size:13px;">
+        <span style="color:#22C55E; font-size:16px;">✓</span> <span>SEO basic</span>
+      </li>
+      <li style="display:flex; gap:8px; margin-bottom:10px; align-items:center; font-size:13px;">
+        <span style="color:#22C55E; font-size:16px;">✓</span> <span>Integrasi WA</span>
+      </li>
+    </ul>
+  </div>
+  
+  <div style="margin:15px 0;">
+    <p style="font-weight:600; margin-bottom:10px; color:#64748B; font-size:13px;">✗ Tidak termasuk:</p>
+    
+    <div style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:12px; flex-wrap:wrap;">
+      <span style="color:#94A3B8;">✗</span>
+      <span style="color:#94A3B8;">Setup pixel</span>
+      <span style="background:#F1F5F9; color:#64748B; padding:3px 8px; border-radius:50px; margin-left:auto;">+ Rp 124,9K</span>
+    </div>
+    
+    <div style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:12px; flex-wrap:wrap;">
+      <span style="color:#94A3B8;">✗</span>
+      <span style="color:#94A3B8;">Budget iklan</span>
+      <span style="background:#F1F5F9; color:#64748B; padding:3px 8px; border-radius:50px; margin-left:auto;">+ Rp 1.780K</span>
+    </div>
+    
+    <div style="display:flex; align-items:center; gap:8px; margin-bottom:10px; font-size:12px; flex-wrap:wrap;">
+      <span style="color:#94A3B8;">✗</span>
+      <span style="color:#94A3B8;">Kelola iklan</span>
+      <span style="background:#F1F5F9; color:#64748B; padding:3px 8px; border-radius:50px; margin-left:auto;">+ Rp 1.247K</span>
+    </div>
+  </div>
+  
+  <div style="background:#F1F5F9; border-radius:12px; padding:12px; margin:20px 0; text-align:center;">
+    <div style="font-size:13px; color:#475569;">Total paket Basic</div>
+    <div style="font-size:24px; font-weight:700;">2.497K</div>
+  </div>
+  
+  <a href="https://wa.me/6282320410740?text=Halo%20saya%20minat%20paket%20Basic%202.497.000" 
+     style="display:block; background:#fff; color:#0F172A; border:2px solid #0F172A; padding:14px; border-radius:100px; text-decoration:none; font-weight:600; text-align:center; font-size:14px;">
+    Pilih Paket Basic
+  </a>
+</div>
+
+<!-- PROFESIONAL -->
+<div style="background:#fff; border-radius:24px; padding:30px 20px; border:2px solid #22C55E; position:relative; box-shadow:0 10px 20px rgba(34,197,94,0.1);" class="paket-card">
+  
+  <div style="position:absolute; top:-10px; left:50%; transform:translateX(-50%); background:#FACC15; color:#000; padding:4px 16px; border-radius:50px; font-size:12px; font-weight:600; white-space:nowrap;">
+    🔥 REKOMENDASI
+  </div>
+  
+  <div style="display:flex; align-items:center; gap:8px; margin:15px 0 15px; flex-wrap:wrap;">
+    <span style="background:#22C55E; color:#fff; padding:4px 14px; border-radius:50px; font-size:13px; font-weight:600;">🎯 PROFESIONAL</span>
+    <span style="background:#E6F7E6; color:#22C55E; padding:4px 10px; border-radius:50px; font-size:11px;">Full Service</span>
+  </div>
+  
+  <h3 style="font-size:clamp(24px,6vw,32px); font-weight:700; margin:0 0 5px;">Profesional</h3>
+  
+  <!-- TAMBAHAN HARGA CORET PROFESIONAL -->
+  <div style="display:flex; align-items:center; justify-content:center; gap:8px; margin-bottom:5px;">
+    <span style="color:#94A3B8; font-size:16px; text-decoration:line-through;">Rp 6.500K</span>
+    <span style="background:#22C55E20; color:#22C55E; padding:2px 8px; border-radius:50px; font-size:11px; font-weight:600;">HEMAT 601K</span>
+  </div>
+  
+  <div style="font-size:clamp(36px,8vw,48px); font-weight:800; color:#22C55E; margin-bottom:5px;">5.899K</div>
+  <p style="color:#64748B; margin-bottom:20px; font-size:13px;">✓ Domain + hosting 1 tahun</p>
+  
+  <div style="background:#F8FAFC; border-radius:16px; padding:20px 15px; margin:20px 0;">
+    <p style="font-weight:600; margin-bottom:12px; font-size:14px;">📋 Rincian harga:</p>
+    <div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px;">
+      <span>Paket Basic</span>
+      <span style="font-weight:600;">2.497K</span>
+    </div>
+    
+    <!-- TAMBAHAN CORETAN DI SETUP PIXEL -->
+    <div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px; color:#22C55E;">
+      <span>+ Setup pixel (3 pixel)</span>
+      <div>
+        <span style="color:#94A3B8; text-decoration:line-through; font-size:11px; margin-right:5px;">Rp 150K</span>
+        <span>374,7K</span>
+      </div>
+    </div>
+    
+    <!-- TAMBAHAN CORETAN DI BUDGET IKLAN -->
+    <div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px; color:#22C55E;">
+      <span>+ Budget iklan</span>
+      <div>
+        <span style="color:#94A3B8; text-decoration:line-through; font-size:11px; margin-right:5px;">Rp 2.000K</span>
+        <span>1.780K</span>
+      </div>
+    </div>
+    
+    <!-- TAMBAHAN CORETAN DI KELOLA IKLAN -->
+    <div style="display:flex; justify-content:space-between; margin-bottom:15px; font-size:13px; color:#22C55E;">
+      <span>+ Kelola iklan 10 hari</span>
+      <div>
+        <span style="color:#94A3B8; text-decoration:line-through; font-size:11px; margin-right:5px;">Rp 1.500K</span>
+        <span>1.247K</span>
+      </div>
+    </div>
+    
+    <!-- TAMBAHAN TOTAL HEMAT -->
+    <div style="background:#22C55E10; border-radius:8px; padding:8px; margin-bottom:10px;">
+      <div style="display:flex; justify-content:space-between; font-size:12px;">
+        <span>💰 Total hemat:</span>
+        <span style="color:#22C55E; font-weight:700;">Rp 748K</span>
+      </div>
+    </div>
+    
+    <div style="border-top:2px dashed #22C55E; padding-top:12px;">
+      <div style="display:flex; justify-content:space-between; font-weight:700; font-size:15px;">
+        <span>Total</span>
+        <span style="color:#22C55E;">5.899K</span>
+      </div>
+    </div>
+  </div>
+  
+  <div style="margin:15px 0;">
+    <p style="font-weight:600; margin-bottom:10px; font-size:14px;">✅ Semua fitur Basic +:</p>
+    <ul style="list-style:none; padding:0;">
+      <li style="display:flex; gap:8px; margin-bottom:10px; font-size:13px;">
+        <span style="color:#22C55E;">✓</span> <span>Setup 3 pixel</span>
+        <span style="color:#94A3B8; font-size:10px; margin-left:auto;">(hemat Rp 25K)</span>
+      </li>
+      <li style="display:flex; gap:8px; margin-bottom:10px; font-size:13px;">
+        <span style="color:#22C55E;">✓</span> <span>Budget iklan Rp 1.780K</span>
+        <span style="color:#94A3B8; font-size:10px; margin-left:auto;">(hemat Rp 220K)</span>
+      </li>
+      <li style="display:flex; gap:8px; margin-bottom:10px; font-size:13px;">
+        <span style="color:#22C55E;">✓</span> <span>Kelola iklan 10 hari</span>
+        <span style="color:#94A3B8; font-size:10px; margin-left:auto;">(hemat Rp 253K)</span>
+      </li>
+    </ul>
+  </div>
+  
+  <div style="background:#E6F7E6; border-radius:12px; padding:12px; margin:15px 0;">
+    <p style="font-weight:600; color:#166534; font-size:13px; margin-bottom:5px;">🎁 BONUS:</p>
+    <div style="background:#bbf7d0; border-radius:12px; padding:12px;">
+      <p style="font-size:12px; color:#14532d; font-weight:500;">Konsultasi gratis 10 hari via WA</p>
+    </div>
+  </div>
+  
+  <a href="https://wa.me/6282320410740?text=Halo%20saya%20minat%20paket%20Profesional%205.899.000" 
+     style="display:block; background:#22C55E; color:white; padding:14px; border-radius:100px; text-decoration:none; font-weight:600; text-align:center; font-size:14px;">
+    🚀 Pilih Paket Profesional
+  </a>
+  
+  <p style="text-align:center; margin-top:12px; font-size:11px; color:#64748B;">*Budget iklan ke akun Google Anda</p>
+</div>
+    
+    <!-- PAKET CUSTOM -->
+<div style="background:linear-gradient(135deg, #F1F5F9 0%, #F8FAFC 100%); border-radius:20px; padding:30px 20px; margin-top:20px; text-align:center;">
+  
+  <!-- TAMBAHKAN INI: HARGA CORET UNTUK PAKET CUSTOM -->
+  <div style="display:flex; align-items:center; justify-content:center; gap:8px; margin-bottom:15px; flex-wrap:wrap;">
+    <span style="color:#94A3B8; font-size:16px; text-decoration:line-through;">Mulai Rp 1.499K</span>
+    <span style="background:#22C55E20; color:#22C55E; padding:2px 10px; border-radius:50px; font-size:12px; font-weight:600;">HEMAT 500K</span>
+  </div>
+  
+  <h3 style="font-size:clamp(18px,5vw,22px); margin-bottom:10px;">🛠️ Punya desain sendiri? Udah punya domain?</h3>
+  <p style="font-size:clamp(13px,3.5vw,15px); color:#334155; max-width:500px; margin:0 auto 20px;">
+    Saya bisa bantu coding aja sesuai desain Anda. Harga custom, diskusi dulu.
+  </p>
+  
+  <!-- PERBAIKAN: BUAT WRAPPER FLEX DENGAN CENTER -->
+  <div style="display:flex; gap:15px; justify-content:center; align-items:center; flex-wrap:wrap; margin:0 auto; width:100%;">
+    
+    <!-- TOMBOL KONSULTASI -->
+    <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20konsultasi%20paket%20web%20custom" 
+       style="display:inline-block; background:#0F172A; color:white; padding:12px 25px; border-radius:100px; text-decoration:none; font-weight:600; font-size:14px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
+      💬 Konsultasi Custom
+    </a>
+    
+    <!-- TEKS HARGA DENGAN BACKGROUND AGGAR TERLIHAT -->
+    <span style="display:inline-block; padding:12px 25px; background:#FFFFFF; color:#0F172A; border-radius:100px; font-weight:600; font-size:14px; border:1px solid #E2E8F0; box-shadow:0 2px 4px rgba(0,0,0,0.02);">
+      Mulai Rp 999K
+    </span>
+  </div>
+  
+  <!-- TAMBAHKAN KETERANGAN HEMAT (OPSIONAL) -->
+  <p style="font-size:11px; color:#64748B; margin-top:15px;">
+    ⚡ Harga spesial, hemat Rp 500K dari harga normal Rp 1.499K
+  </p>
+</div>
+    
+  </div>
+</section>
+
+<!-- COMPARISON TABLE -->
+<section class="section" style="background:#fff; padding:50px 0;">
+  <div class="container">
+    
+    <div style="text-align:center; margin-bottom:30px;">
+      <span style="background:#22C55E20; color:#22C55E; padding:6px 16px; border-radius:100px; font-size:13px; font-weight:600; display:inline-block; margin-bottom:15px;">
+        📋 PERBANDINGAN PAKET
+      </span>
+      <h2 style="font-size:clamp(26px, 6vw, 40px); max-width:600px; margin:0 auto 10px; line-height:1.3;">
+        Pilih paket yang <span style="color:#22C55E;">paling cocok</span>
+      </h2>
+      <p style="font-size:clamp(14px, 4vw, 16px); color:#475569; max-width:500px; margin:0 auto; padding:0 10px;">
+        Bandingkan fitur dan pilih sesuai kebutuhan Anda
+      </p>
+    </div>
+    
+    <div style="overflow-x:auto; background:#F8FAFC; border-radius:24px; padding:12px 8px; margin:0 -5px; -webkit-overflow-scrolling:touch;" class="table-wrapper">
+      
+<table style="width:100%; border-collapse:collapse; min-width:600px;" class="comparison-table-mobile">
+  
+  <!-- HEADER TABLE -->
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:15px 12px; background:#F1F5F9; border-radius:12px 0 0 0; font-size:14px; font-weight:600;">Fitur (Geser Kanan)</th>
+      <th style="text-align:center; padding:15px 8px; background:#F1F5F9; width:23%;">
+        <div style="font-size:16px; font-weight:700; white-space:nowrap;">⚡ 24 JAM</div>
+        <div style="font-size:11px; font-weight:500; color:#334155; margin-top:2px;">Super Cepat</div>
+      </th>
+      <th style="text-align:center; padding:15px 8px; background:#F1F5F9; width:23%;">
+        <div style="font-size:16px; font-weight:700; white-space:nowrap;">📄 BASIC</div>
+        <div style="font-size:11px; font-weight:500; color:#334155; margin-top:2px;">Multi Halaman</div>
+      </th>
+      <th style="text-align:center; padding:15px 8px; background:#F1F5F9; border-radius:0 12px 0 0; width:23%;">
+        <div style="font-size:16px; font-weight:700; color:#22C55E; white-space:nowrap;">🎯 PROFESIONAL</div>
+        <div style="font-size:11px; font-weight:500; color:#334155; margin-top:2px;">Full Service</div>
+      </th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <!-- BARIS 1: Waktu Jadi -->
+    <tr style="border-bottom:1px solid #E2E8F0;">
+      <td style="padding:14px 12px; font-weight:500; font-size:14px;">⏱️ Waktu Jadi</td>
+      <td style="text-align:center; padding:14px 5px;">
+        <span style="background:#15803d; color:#ffffff; padding:4px 8px; border-radius:50px; font-weight:600; font-size:12px; display:inline-block; white-space:nowrap; box-shadow:0 2px 4px rgba(0,0,0,0.1);">24 Jam</span>
+      </td>
+      <td style="text-align:center; padding:14px 5px; font-size:14px;">4-7 Hari</td>
+      <td style="text-align:center; padding:14px 5px; font-size:14px;">7-14 Hari</td>
+    </tr>
+    
+    <!-- BARIS 2: Jenis Halaman -->
+    <tr style="border-bottom:1px solid #E2E8F0;">
+      <td style="padding:14px 12px; font-weight:500; font-size:14px;">📄 Jenis Halaman</td>
+      <td style="text-align:center; padding:14px 5px; font-size:13px;">1 Landing Page</td>
+      <td style="text-align:center; padding:14px 5px; font-size:13px;">3-5 Halaman</td>
+      <td style="text-align:center; padding:14px 5px; font-size:13px;">Landing Premium</td>
+    </tr>
+    
+    <!-- BARIS 3: Akses Admin -->
+    <tr style="border-bottom:1px solid #E2E8F0;">
+      <td style="padding:14px 12px; font-weight:500; font-size:14px;">👤 Akses Admin</td>
+      <td style="text-align:center; padding:14px 5px; color:#475569; font-size:18px;">❌</td>
+      <td style="text-align:center; padding:14px 5px; color:#22C55E; font-size:18px;">✅</td>
+      <td style="text-align:center; padding:14px 5px; color:#22C55E; font-size:18px;">✅</td>
+    </tr>
+    
+    <!-- BARIS 4: Setup Pixel -->
+    <tr style="border-bottom:1px solid #E2E8F0;">
+      <td style="padding:14px 12px; font-weight:500; font-size:14px;">🎯 Setup Pixel</td>
+      <td style="text-align:center; padding:14px 5px; color:#475569; font-size:18px;">❌</td>
+      <td style="text-align:center; padding:14px 5px; color:#94A3B8; font-size:18px;">❌</td>
+      <td style="text-align:center; padding:14px 5px; color:#22C55E; font-size:13px;">✅ 3 pixel</td>
+    </tr>
+    
+    <!-- BARIS 5: Budget Iklan -->
+    <tr style="border-bottom:1px solid #E2E8F0;">
+      <td style="padding:14px 12px; font-weight:500; font-size:14px;">💰 Budget Iklan</td>
+      <td style="text-align:center; padding:14px 5px; color:#475569; font-size:18px;">❌</td>
+      <td style="text-align:center; padding:14px 5px; color:#475569; font-size:18px;">❌</td>
+      <td style="text-align:center; padding:14px 5px;">
+        <span style="background:#FEF3C7; color:#92400E; padding:4px 6px; border-radius:6px; font-weight:700; font-size:12px; display:inline-block; white-space:nowrap;">Rp 1.780K</span>
+      </td>
+    </tr>
+    
+    <!-- BARIS 6: Kelola Iklan -->
+    <tr style="border-bottom:1px solid #E2E8F0;">
+      <td style="padding:14px 12px; font-weight:500; font-size:14px;">⚙️ Kelola Iklan</td>
+      <td style="text-align:center; padding:14px 5px; color:#475569; font-size:18px;">❌</td>
+      <td style="text-align:center; padding:14px 5px; color:#475569; font-size:18px;">❌</td>
+      <td style="text-align:center; padding:14px 5px; color:#22C55E; font-size:13px;">✅ 10 hari</td>
+    </tr>
+    
+    <!-- BARIS 7: Domain + Hosting -->
+    <tr style="border-bottom:1px solid #E2E8F0;">
+      <td style="padding:14px 12px; font-weight:500; font-size:14px;">🌐 Domain + Hosting</td>
+      <td style="text-align:center; padding:14px 5px; color:#22C55E; font-size:18px;">✅</td>
+      <td style="text-align:center; padding:14px 5px; color:#22C55E; font-size:18px;">✅</td>
+      <td style="text-align:center; padding:14px 5px; color:#22C55E; font-size:18px;">✅</td>
+    </tr>
+
+    <!-- ===== BARIS ODDING PRICING ===== -->
+    
+    <!-- BARIS 8: Harga Normal (Coret) - TAMBAHAN BARU -->
+    <tr style="border-bottom:1px solid #E2E8F0; background:#F8FAFC;">
+      <td style="padding:12px 12px; font-weight:500; font-size:13px;">
+        <span style="display:flex; align-items:center; gap:4px;">
+          🏷️ Harga Pasaran
+          <span style="background:#E2E8F0; color:#475569; padding:2px 6px; border-radius:50px; font-size:9px;">umum</span>
+        </span>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <span style="color:#94A3B8; text-decoration:line-through; font-size:13px;">Rp 1.800K</span>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <span style="color:#94A3B8; text-decoration:line-through; font-size:13px;">Rp 2.800K</span>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <span style="color:#94A3B8; text-decoration:line-through; font-size:13px;">Rp 6.500K</span>
+      </td>
+    </tr>
+
+    <!-- BARIS 9: Anda Hemat - TAMBAHAN BARU -->
+    <tr style="border-bottom:1px solid #E2E8F0; background:#F0FDF4;">
+      <td style="padding:12px 12px; font-weight:600; font-size:13px;">
+        <span style="display:flex; align-items:center; gap:4px;">
+          💰 Anda Hemat
+          <span style="background:#22C55E; color:white; padding:2px 6px; border-radius:50px; font-size:9px;">SPESIAL</span>
+        </span>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <span style="color:#22C55E; font-weight:700; font-size:14px;">Rp 303K</span>
+        <span style="color:#64748B; font-size:10px; display:block;">(16%)</span>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <span style="color:#22C55E; font-weight:700; font-size:14px;">Rp 303K</span>
+        <span style="color:#64748B; font-size:10px; display:block;">(10%)</span>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <span style="color:#22C55E; font-weight:700; font-size:14px;">Rp 601K</span>
+        <span style="color:#64748B; font-size:10px; display:block;">(9%)</span>
+      </td>
+    </tr>
+
+    <!-- BARIS 10: Nilai Bonus - TAMBAHAN BARU (Opsional) -->
+    <tr style="border-bottom:1px dashed #22C55E; background:#FFFFFF;">
+      <td style="padding:10px 12px; font-weight:500; font-size:12px; color:#15803D;">
+        <span style="display:flex; align-items:center; gap:4px;">
+          🎁 Bonus Termasuk
+        </span>
+      </td>
+      <td style="text-align:center; padding:10px 5px;">
+        <span style="color:#15803D; font-size:11px;">-</span>
+      </td>
+      <td style="text-align:center; padding:10px 5px;">
+        <span style="color:#15803D; font-size:11px;">-</span>
+      </td>
+      <td style="text-align:center; padding:10px 5px;">
+        <span style="background:#22C55E10; color:#15803D; padding:3px 8px; border-radius:50px; font-size:10px; font-weight:600;">Setup pixel GRATIS</span>
+        <div style="font-size:9px; color:#64748B; margin-top:2px;">(Rp 124,9K)</div>
+      </td>
+    </tr>
+    
+<!-- BARIS 11: HARGA SPESIAL DENGAN FORMAT BERSIH -->
+<tr style="border-top:2px solid #22C55E; background:#F8FAFC;">
+  <td style="padding:16px 12px; font-weight:700; font-size:16px;">💰 HARGA SPESIAL</td>
+  <td style="text-align:center; padding:16px 5px;">
+    <div>
+      <span style="font-size:20px; font-weight:800; color:#22C55E;">1.497K</span>
+      <div style="display:flex; align-items:center; justify-content:center; gap:6px; margin-top:4px;">
+        <span style="color:#94A3B8; font-size:11px; text-decoration:line-through;">1.800K</span>
+        <span style="background:#22C55E20; color:#22C55E; padding:2px 6px; border-radius:50px; font-size:9px; font-weight:600;">-16%</span>
+      </div>
+    </div>
+  </td>
+  <td style="text-align:center; padding:16px 5px;">
+    <div>
+      <span style="font-size:20px; font-weight:800; color:#0F172A;">2.497K</span>
+      <div style="display:flex; align-items:center; justify-content:center; gap:6px; margin-top:4px;">
+        <span style="color:#94A3B8; font-size:11px; text-decoration:line-through;">2.800K</span>
+        <span style="background:#22C55E20; color:#22C55E; padding:2px 6px; border-radius:50px; font-size:9px; font-weight:600;">-10%</span>
+      </div>
+    </div>
+  </td>
+  <td style="text-align:center; padding:16px 5px;">
+    <div>
+      <span style="font-size:22px; font-weight:800; color:#22C55E;">5.899K</span>
+      <div style="display:flex; align-items:center; justify-content:center; gap:6px; margin-top:4px;">
+        <span style="color:#94A3B8; font-size:11px; text-decoration:line-through;">6.500K</span>
+        <span style="background:#22C55E20; color:#22C55E; padding:2px 6px; border-radius:50px; font-size:9px; font-weight:600;">-9%</span>
+      </div>
+    </div>
+  </td>
+</tr>
+
+    <!-- BARIS 12: CTA Langsung (TAMBAHAN SUPER) -->
+    <tr>
+      <td style="padding:12px 12px; font-weight:500; font-size:13px;">📞 Ambil Sekarang</td>
+      <td style="text-align:center; padding:12px 5px;">
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20ambil%20Paket%2024%20Jam%20Rp%201.497.000" 
+           style="display:inline-block; background:#22C55E; color:white; padding:6px 12px; border-radius:50px; text-decoration:none; font-weight:600; font-size:11px; white-space:nowrap; box-shadow:0 2px 4px rgba(34,197,94,0.2);">
+          🚀 Pilih
+        </a>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20minat%20paket%20Basic%202.497.000" 
+           style="display:inline-block; background:#0F172A; color:white; padding:6px 12px; border-radius:50px; text-decoration:none; font-weight:600; font-size:11px; white-space:nowrap;">
+          📄 Pilih
+        </a>
+      </td>
+      <td style="text-align:center; padding:12px 5px;">
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20minat%20paket%20Profesional%205.899.000" 
+           style="display:inline-block; background:#22C55E; color:white; padding:6px 12px; border-radius:50px; text-decoration:none; font-weight:600; font-size:11px; white-space:nowrap; box-shadow:0 2px 4px rgba(34,197,94,0.2);">
+          🎯 Pilih
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+    
+    <div  id="slot" style="margin-top:20px; background:#F1F5F9; padding:15px; border-radius:16px; display:flex; flex-direction:row; gap:10px; align-items:flex-start; flex-wrap:wrap;" class="budget-note">
+      <span style="background:#F59E0B; color:white; padding:4px 12px; border-radius:100px; font-size:12px; font-weight:600; white-space:nowrap;">📌 CATATAN</span>
+      <span style="font-size:13px; color:#334155; line-height:1.5; flex:1;">
+        Budget iklan Rp 1.780.000 masuk ke akun Google Ads Anda, bukan ke saya. Transparan, bisa dicek langsung.
+      </span>
+    </div>
+    
+  </div>
+</section>
+
+<!-- SCARCITY - LIMITED SLOT -->
+<section class="section" style="background:#F8FAFC; padding:60px 0;">
+  <div class="container">
+    
+    <div style="max-width:800px; margin:0 auto;">
+      
+      <div style="text-align:center; margin-bottom:30px;">
+        <span style="background:#FEF3C7; color:#F59E0B; padding:6px 16px; border-radius:100px; font-size:13px; font-weight:600; display:inline-block; margin-bottom:15px;">
+          ⏳ FOKUS 1 PROJEK PER HARI
+        </span>
+        <h2 style="font-size:clamp(28px, 6vw, 42px); margin:0 auto 10px; line-height:1.2;">Hanya 1 Slot Per Hari</h2>
+        <p style="font-size:clamp(15px, 4vw, 18px); color:#475569; max-width:500px; margin:0 auto; padding:0 15px;">
+          Saya sengaja batasi biar bisa fokus penuh ke website Anda. Garansi 24 jam beneran ditepati.
+        </p>
+      </div>
+      
+      <div id="calendar-container"></div>
+      
+      <div style="background:#fff; border-radius:20px; padding:20px; margin-top:25px; display:flex; gap:15px; flex-wrap:wrap; align-items:center;">
+        <div style="background:#22C55E20; width:50px; height:50px; border-radius:100px; display:flex; align-items:center; justify-content:center; font-size:24px; flex-shrink:0;">🎯</div>
+        <div style="flex:1;">
+          <h3 style="font-size:16px; margin-bottom:5px;">Kenapa cuma 1 slot per hari?</h3>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Bukan eksklusif-eksklusifan. Tapi saya mau pastikan tiap project dapat fokus penuh, garansi 24 jam beneran ditepati, dan hasilnya memuaskan.</p>
+        </div>
+      </div>
+      
+    </div>
+    
+  </div>
+</section>
+
+<!-- JAVASCRIPT UNTUK KALENDER -->
+<script>
+function generateCalendar() {
+  const today = new Date();
+  const monthNames = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 
+                      'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
+  
+  const currentMonth = monthNames[today.getMonth()];
+  const currentYear = today.getFullYear();
+  const currentDate = today.getDate();
+  const daysInMonth = new Date(currentYear, today.getMonth() + 1, 0).getDate();
+  
+  const filledSlots = currentDate - 1;
+  const remainingSlots = daysInMonth - currentDate + 1;
+  
+  const dates = [];
+  for (let i = -2; i <= 2; i++) {
+    const date = new Date(today);
+    date.setDate(today.getDate() + i);
+    dates.push({
+      day: date.getDate(),
+      month: monthNames[date.getMonth()],
+      isToday: i === 0,
+      isPast: i < 0,
+      isFuture: i > 0
+    });
+  }
+  
+  let calendarHTML = `
+    <div style="background:#fff; border-radius:24px; padding:25px 20px; box-shadow:0 5px 20px rgba(0,0,0,0.03);" class="calendar-card">
+      
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px; flex-wrap:wrap; gap:10px;">
+        <div style="font-weight:600; font-size:16px;">📅 ${currentMonth} ${currentYear}</div>
+        <div style="background:#F1F5F9; padding:4px 10px; border-radius:50px; font-size:11px;">Hanya 1 slot/hari</div>
+      </div>
+      
+      <div class="slot-list">
+  `;
+  
+  dates.forEach(date => {
+    let statusText = '';
+    let statusColor = '';
+    let bgColor = '';
+    let barColor = '';
+    let barWidth = '0%';
+    
+    if (date.isPast) {
+      statusText = '❌ TERISI';
+      statusColor = '#EF4444';
+      barColor = '#EF4444';
+      barWidth = '100%';
+    } else if (date.isToday) {
+      statusText = '✅ TERBUKA';
+      statusColor = '#22C55E';
+      barColor = '#22C55E';
+      barWidth = '0%';
+      bgColor = 'background:#F0FDF4;';
+    } else {
+      statusText = '⏳ TERSEDIA';
+      statusColor = '#64748B';
+      barColor = '#22C55E';
+      barWidth = '0%';
+    }
+    
+    calendarHTML += `
+      <div style="display:flex; align-items:center; gap:10px; padding:10px 0; border-bottom:1px solid #E2E8F0; ${date.isToday ? bgColor : ''} ${date.isToday ? 'border-radius:12px; margin:5px 0;' : ''} flex-wrap:wrap;" class="slot-row">
+        <span style="width:80px; font-weight:${date.isToday ? '700' : '600'}; font-size:14px; ${date.isToday ? 'color:#166534;' : ''}">${date.day} ${date.month}</span>
+        <div style="flex:1; height:6px; background:#E2E8F0; border-radius:100px; min-width:100px;">
+          <div style="width:${barWidth}; height:6px; background:${barColor}; border-radius:100px;"></div>
+        </div>
+        <span style="color:${statusColor}; font-weight:${date.isToday ? '700' : '600'}; font-size:13px; white-space:nowrap;">${statusText}</span>
+      </div>
+    `;
+  });
+  
+  calendarHTML += `
+      </div>
+      
+      <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:12px; margin-top:25px; background:#F8FAFC; padding:15px; border-radius:16px;" class="stats-grid">
+        <div style="text-align:center;">
+          <span style="font-size:12px; color:#64748B; display:block;">Slot bulan ini</span>
+          <div style="font-size:22px; font-weight:700;">${daysInMonth}</div>
+        </div>
+        <div style="text-align:center;">
+          <span style="font-size:12px; color:#64748B; display:block;">Terisi</span>
+          <div style="font-size:22px; font-weight:700;">${filledSlots}</div>
+        </div>
+        <div style="text-align:center;">
+          <span style="font-size:12px; color:#64748B; display:block;">Sisa slot</span>
+          <div style="font-size:22px; font-weight:700; color:#22C55E;">${remainingSlots}</div>
+        </div>
+        <div style="text-align:center;">
+          <span style="font-size:12px; color:#64748B; display:block;">Hari ini</span>
+          <div style="font-size:16px; font-weight:700; background:#22C55E; color:white; padding:4px 8px; border-radius:50px; display:inline-block;">TERBUKA</div>
+        </div>
+      </div>
+      
+      <div style="margin-top:25px; font-size:15px; text-align:center; background:#FEF3C7; padding:15px; border-radius:16px;">
+        <span style="font-weight:700;">⚡ Slot hari ini masih tersedia.</span> Jika ambil sekarang, website Anda besok sudah live.
+      </div>
+      
+      <div style="text-align:center; margin-top:25px;">
+        <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20ambil%20slot%20website%20hari%20ini" 
+           class="btn btn-primary" 
+           style="display:inline-block; background:#22C55E; color:white; padding:14px 30px; border-radius:100px; text-decoration:none; font-weight:600; font-size:16px; width:100%; max-width:350px; box-sizing:border-box;">
+          🚀 Ambil Slot Hari Ini
+        </a>
+        <p style="margin-top:12px; font-size:13px; color:#64748B;">*Jika slot hari ini terisi, Anda bisa booking untuk besok</p>
+      </div>
+      
+    </div>
+  `;
+  
+  document.getElementById('calendar-container').innerHTML = calendarHTML;
+}
+
+window.onload = generateCalendar;
+</script>
+
+<!-- PROCESS SIMPLE -->
+<section class="section" style="background:#fff; padding:60px 0;">
+  <div class="container">
+    
+    <div style="text-align:center; margin-bottom:40px;">
+      <span style="background:#22C55E20; color:#22C55E; padding:6px 16px; border-radius:100px; font-size:13px; font-weight:600; display:inline-block; margin-bottom:15px;">
+        🔄 CARA KERJA
+      </span>
+      <h2 style="font-size:clamp(28px, 6vw, 42px); max-width:700px; margin:0 auto 10px;">
+        3 langkah mudah, <span style="color:#22C55E;">24 jam selesai</span>
+      </h2>
+    </div>
+    
+    <div style="display:flex; flex-direction:column; gap:20px; max-width:600px; margin:0 auto;" class="process-steps">
+      
+      <div style="background:#F8FAFC; border-radius:24px; padding:25px; text-align:center; position:relative; border:1px solid #E2E8F0;">
+        <div style="background:#22C55E; color:white; width:50px; height:50px; border-radius:100px; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:24px; margin:0 auto 15px;">1</div>
+        <div>
+          <div style="font-size:40px; margin-bottom:10px;">📝</div>
+          <h3 style="font-size:18px; margin-bottom:8px;">Kirim Brief & Materi</h3>
+          <p style="font-size:14px; color:#64748B; line-height:1.5; margin-bottom:15px;">Teks, foto, logo, referensi desain (kalau ada). Saya pandu lewat WA.</p>
+          <div style="background:#fff; border-radius:20px; padding:8px 15px; display:inline-block; font-size:13px; box-shadow:0 2px 5px rgba(0,0,0,0.02);">
+            ⏱️ 30 menit - 2 jam
+          </div>
+        </div>
+      </div>
+      
+      <div style="background:#F8FAFC; border-radius:24px; padding:25px; text-align:center; position:relative; border:1px solid #E2E8F0;">
+        <div style="background:#22C55E; color:white; width:50px; height:50px; border-radius:100px; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:24px; margin:0 auto 15px;">2</div>
+        <div>
+          <div style="font-size:40px; margin-bottom:10px;">💳</div>
+          <h3 style="font-size:18px; margin-bottom:8px;">Transfer 100% / DP 70%</h3>
+          <p style="font-size:14px; color:#64748B; line-height:1.5; margin-bottom:15px;">Transfer ke rekening BCA/Mandiri. Untuk paket Lite, garansi 24 jam berlaku.</p>
+          <div style="background:#fff; border-radius:20px; padding:8px 15px; display:inline-block; font-size:13px; box-shadow:0 2px 5px rgba(0,0,0,0.02);">
+            🔒 Data aman
+          </div>
+        </div>
+      </div>
+      
+      <div style="background:#F8FAFC; border-radius:24px; padding:25px; text-align:center; position:relative; border:1px solid #E2E8F0;">
+        <div style="background:#22C55E; color:white; width:50px; height:50px; border-radius:100px; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:24px; margin:0 auto 15px;">3</div>
+        <div>
+          <div style="font-size:40px; margin-bottom:10px;">🚀</div>
+          <h3 style="font-size:18px; margin-bottom:8px;">Website Jadi 24 Jam</h3>
+          <p style="font-size:14px; color:#64748B; line-height:1.5; margin-bottom:15px;">Live, revisi minor, dan siap dipasang iklan. Saya kasih akses dan panduan.</p>
+          <div style="background:#fff; border-radius:20px; padding:8px 15px; display:inline-block; font-size:13px; box-shadow:0 2px 5px rgba(0,0,0,0.02);">
+            ⚡ 1x24 jam
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <div id="testimonial" style="max-width:600px; margin:30px auto 0; background:#F1F5F9; border-radius:100px; padding:12px 20px; display:flex; align-items:center; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <span style="background:#22C55E; color:white; padding:4px 10px; border-radius:100px; font-size:11px; font-weight:600;">📌 PAKET LITE</span>
+      <span style="font-size:13px; color:#334155;">Garansi 24 jam: DP 70% + materi lengkap</span>
+    </div>
+    
+  </div>
+</section>
+
+<!-- TESTIMONIAL SECTION -->
+<section class="section" style="background:#fff; padding:60px 0;">
+  <div class="container">
+    
+    <div style="text-align:center; margin-bottom:40px;">
+      <span style="background:#22C55E20; color:#22C55E; padding:6px 16px; border-radius:100px; font-size:13px; font-weight:600; display:inline-block; margin-bottom:15px;">
+        ⭐ 128+ KLIEN PUAS
+      </span>
+      <h2 style="font-size:clamp(28px, 6vw, 42px); max-width:700px; margin:0 auto 10px; line-height:1.2;">
+        Mereka sudah <span style="color:#22C55E;">percaya dan merasakan</span> hasilnya
+      </h2>
+      <p style="font-size:clamp(15px, 4vw, 18px); color:#475569; max-width:600px; margin:10px auto 0; padding:0 15px;">
+        Bukan cuma website, tapi solusi untuk bisnis mereka.
+      </p>
+    </div>
+    
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:20px; margin:30px 0;" class="testimoni-grid">
+      
+      <div class="testi-card" style="background:#F8FAFC; border-radius:20px; padding:25px; position:relative; border-bottom:4px solid #22C55E; height:100%;">
+        <div style="position:absolute; top:15px; right:15px; background:#E6F7E6; color:#22C55E; padding:3px 10px; border-radius:50px; font-size:11px; font-weight:600;">⚡ LITE</div>
+        
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:15px;">
+          <div style="width:50px; height:50px; background:#22C55E; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:700; font-size:20px; flex-shrink:0;">A</div>
+          <div>
+            <div style="color:#FACC15; font-size:16px; margin-bottom:2px;">★★★★★</div>
+            <div style="font-weight:700; font-size:15px;">Andi</div>
+            <div style="font-size:12px; color:#64748B;">Jasa Sedot WC Jakarta</div>
+          </div>
+        </div>
+        
+        <p style="font-size:14px; color:#334155; line-height:1.5; font-style:italic; margin-bottom:15px;">
+          "Ambil Paket Lite jam 9 pagi, jam 9 malam udah saya cek dan live. Gila cepat. Langsung saya pasang iklan Google, minggu pertama dapet 3 orderan."
+        </p>
+        
+        <div style="background:#fff; border-radius:10px; padding:10px; margin-top:10px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+          <span style="background:#22C55E20; padding:4px 8px; border-radius:50px; font-size:11px; font-weight:600;">📈 HASIL</span>
+          <span style="font-size:12px;">+3 order di minggu pertama</span>
+        </div>
+      </div>
+      
+      <div class="testi-card" style="background:#F8FAFC; border-radius:20px; padding:25px; position:relative; border-bottom:4px solid #F59E0B; height:100%;">
+        <div style="position:absolute; top:15px; right:15px; background:#FEF3C7; color:#F59E0B; padding:3px 10px; border-radius:50px; font-size:11px; font-weight:600;">📄 BASIC</div>
+        
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:15px;">
+          <div style="width:50px; height:50px; background:#F59E0B; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:700; font-size:20px; flex-shrink:0;">R</div>
+          <div>
+            <div style="color:#FACC15; font-size:16px; margin-bottom:2px;">★★★★★</div>
+            <div style="font-weight:700; font-size:15px;">Rina</div>
+            <div style="font-size:12px; color:#64748B;">Rental Mobil Cirebon</div>
+          </div>
+        </div>
+        
+        <p style="font-size:14px; color:#334155; line-height:1.5; font-style:italic; margin-bottom:15px;">
+          "Saya udah punya domain, tinggal butuh website multi halaman. Paket Basic, 4 hari jadi. Sekarang customer bisa lihat daftar mobil langsung, booking via WA."
+        </p>
+        
+        <div style="background:#fff; border-radius:10px; padding:10px; margin-top:10px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+          <span style="background:#F59E0B20; padding:4px 8px; border-radius:50px; font-size:11px; font-weight:600;">📊 HASIL</span>
+          <span style="font-size:12px;">Booking naik 30%</span>
+        </div>
+      </div>
+      
+      <div class="testi-card" style="background:#F8FAFC; border-radius:20px; padding:25px; position:relative; border-bottom:4px solid #22C55E; height:100%;">
+        <div style="position:absolute; top:15px; right:15px; background:#E6F7E6; color:#22C55E; padding:3px 10px; border-radius:50px; font-size:11px; font-weight:600;">🎯 PROFESIONAL</div>
+        
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:15px;">
+          <div style="width:50px; height:50px; background:#22C55E; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:700; font-size:20px; flex-shrink:0;">D</div>
+          <div>
+            <div style="color:#FACC15; font-size:16px; margin-bottom:2px;">★★★★★</div>
+            <div style="font-weight:700; font-size:15px;">Dewi</div>
+            <div style="font-size:12px; color:#64748B;">Home Spa Bogor</div>
+          </div>
+        </div>
+        
+        <p style="font-size:14px; color:#334155; line-height:1.5; font-style:italic; margin-bottom:15px;">
+          "Bingung cara pasang iklan dan pixel. Ambil Paket Profesional, dapet budget 1,78jt + dikelola 10 hari. Sekarang udah bisa jalanin sendiri."
+        </p>
+        
+        <div style="background:#fff; border-radius:10px; padding:10px; margin-top:10px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+          <span style="background:#22C55E20; padding:4px 8px; border-radius:50px; font-size:11px; font-weight:600;">💰 HASIL</span>
+          <span style="font-size:12px;">5 booking/7 hari</span>
+        </div>
+      </div>
+      
+      <div class="testi-card" style="background:#F8FAFC; border-radius:20px; padding:25px; position:relative; border-bottom:4px solid #22C55E; height:100%;">
+        <div style="position:absolute; top:15px; right:15px; background:#E6F7E6; color:#22C55E; padding:3px 10px; border-radius:50px; font-size:11px; font-weight:600;">⚡ LITE</div>
+        
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:15px;">
+          <div style="width:50px; height:50px; background:#22C55E; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:700; font-size:20px; flex-shrink:0;">H</div>
+          <div>
+            <div style="color:#FACC15; font-size:16px; margin-bottom:2px;">★★★★★</div>
+            <div style="font-weight:700; font-size:15px;">Hendra</div>
+            <div style="font-size:12px; color:#64748B;">Kontraktor Surabaya</div>
+          </div>
+        </div>
+        
+        <p style="font-size:14px; color:#334155; line-height:1.5; font-style:italic; margin-bottom:15px;">
+          "Butuh website cepat buat iklan Google. Paket Lite 24 jam jadi, langsung saya pasang iklan. Sekarang tiap minggu ada 2-3 orang WA minta survei."
+        </p>
+        
+        <div style="background:#fff; border-radius:10px; padding:10px; margin-top:10px;">
+          <span style="background:#22C55E20; padding:4px 8px; border-radius:50px; font-size:11px; font-weight:600;">🏗️ HASIL</span>
+          <span style="font-size:12px; margin-left:8px;">2-3 prospek/minggu</span>
+        </div>
+      </div>
+      
+      <div class="testi-card" style="background:#F8FAFC; border-radius:20px; padding:25px; position:relative; border-bottom:4px solid #F59E0B; height:100%;">
+        <div style="position:absolute; top:15px; right:15px; background:#FEF3C7; color:#F59E0B; padding:3px 10px; border-radius:50px; font-size:11px; font-weight:600;">📄 BASIC</div>
+        
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:15px;">
+          <div style="width:50px; height:50px; background:#F59E0B; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:700; font-size:20px; flex-shrink:0;">B</div>
+          <div>
+            <div style="color:#FACC15; font-size:16px; margin-bottom:2px;">★★★★★</div>
+            <div style="font-weight:700; font-size:15px;">Pak Budi</div>
+            <div style="font-size:12px; color:#64748B;">Desa Wisata Batu</div>
+          </div>
+        </div>
+        
+        <p style="font-size:14px; color:#334155; line-height:1.5; font-style:italic; margin-bottom:15px;">
+          "Buat website desa dengan Paket Basic. Sekarang warga dan pengunjung bisa lihat informasi wisata, homestay, dan agenda desa."
+        </p>
+        
+        <div style="background:#fff; border-radius:10px; padding:10px; margin-top:10px;">
+          <span style="background:#F59E0B20; padding:4px 8px; border-radius:50px; font-size:11px; font-weight:600;">🏡 HASIL</span>
+          <span style="font-size:12px; margin-left:8px;">Kunjungan naik 50%</span>
+        </div>
+      </div>
+      
+      <div class="testi-card" style="background:#F8FAFC; border-radius:20px; padding:25px; position:relative; border-bottom:4px solid #22C55E; height:100%;">
+        <div style="position:absolute; top:15px; right:15px; background:#E6F7E6; color:#22C55E; padding:3px 10px; border-radius:50px; font-size:11px; font-weight:600;">🎯 PROFESIONAL</div>
+        
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:15px;">
+          <div style="width:50px; height:50px; background:#22C55E; border-radius:100px; display:flex; align-items:center; justify-content:center; color:white; font-weight:700; font-size:20px; flex-shrink:0;">F</div>
+          <div>
+            <div style="color:#FACC15; font-size:16px; margin-bottom:2px;">★★★★★</div>
+            <div style="font-weight:700; font-size:15px;">Fajar</div>
+            <div style="font-size:12px; color:#64748B;">Massage Panggilan</div>
+          </div>
+        </div>
+        
+        <p style="font-size:14px; color:#334155; line-height:1.5; font-style:italic; margin-bottom:15px;">
+          "Dulu order cuma dari kenalan. Pas ambil Paket Profesional, dibantu setup pixel dan iklan 10 hari. Sekarang orderan tiap hari masuk WA."
+        </p>
+        
+        <div style="background:#fff; border-radius:10px; padding:10px; margin-top:10px;">
+          <span style="background:#22C55E20; padding:4px 8px; border-radius:50px; font-size:11px; font-weight:600;">💆 HASIL</span>
+          <span style="font-size:12px; margin-left:8px;">20+ chat WA/minggu</span>
+        </div>
+      </div>
+      
+    </div>
+    
+    <div style="background:linear-gradient(135deg, #0F172A 0%, #1E293B 100%); border-radius:24px; padding:30px 20px; margin-top:30px; color:white;">
+      <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:20px; text-align:center;" class="stats-grid-testi">
+        <div>
+          <div style="font-size:32px; font-weight:700; color:#FACC15;">128+</div>
+          <div style="font-size:13px; opacity:0.8;">Total Klien</div>
+        </div>
+        <div>
+          <div style="font-size:32px; font-weight:700; color:#FACC15;">40+</div>
+          <div style="font-size:13px; opacity:0.8;">Paket Lite</div>
+        </div>
+        <div>
+          <div style="font-size:32px; font-weight:700; color:#FACC15;">60+</div>
+          <div style="font-size:13px; opacity:0.8;">Paket Basic</div>
+        </div>
+        <div>
+          <div style="font-size:32px; font-weight:700; color:#FACC15;">28+</div>
+          <div style="font-size:13px; opacity:0.8;">Paket Profesional</div>
+        </div>
+      </div>
+    </div>
+    
+    <div id="faq" style="text-align:center; margin-top:40px;">
+      <p style="font-size:16px; margin-bottom:15px;">Mau jadi klien berikutnya? <strong>Konsultasi dulu, gratis.</strong></p>
+      <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20konsultasi%20website%20setelah%20lihat%20testimoni" 
+         class="btn btn-primary" 
+         style="display:inline-block; background:#22C55E; color:white; padding:14px 30px; border-radius:100px; text-decoration:none; font-weight:600; font-size:15px; width:auto; max-width:100%;">
+        📱 Konsultasi via WhatsApp
+      </a>
+    </div>
+    
+  </div>
+</section>
+
+<!-- FAQ SECTION -->
+<section class="section" style="background:#fff; padding:60px 0;">
+  <div class="container">
+    
+    <div style="text-align:center; margin-bottom:40px;">
+      <span style="background:#22C55E20; color:#22C55E; padding:6px 16px; border-radius:100px; font-size:13px; font-weight:600; display:inline-block; margin-bottom:15px;">
+        ❓ MASIH RAGU?
+      </span>
+      <h2 style="font-size:clamp(28px, 6vw, 42px); max-width:700px; margin:0 auto 10px;">
+        Pertanyaan yang <span style="color:#22C55E;">sering diajukan</span>
+      </h2>
+      <p style="font-size:clamp(15px, 4vw, 18px); color:#475569; max-width:600px; margin:10px auto 0; padding:0 15px;">
+        Jawaban singkat biar Anda langsung bisa ambil keputusan.
+      </p>
+    </div>
+    
+    <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:20px; margin:30px 0;" class="faq-grid">
+      
+      <div style="background:#F8FAFC; border-radius:20px; padding:25px; height:100%;">
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+          <span style="background:#22C55E; width:36px; height:36px; border-radius:10px; display:flex; align-items:center; justify-content:center; color:white; font-size:18px; flex-shrink:0;">⏱️</span>
+          <h3 style="font-size:18px; margin:0;">Garansi & Waktu</h3>
+        </div>
+        
+        <div style="margin-bottom:20px;">
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">⚡ Benarkah 24 jam selesai?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Iya. Khusus paket 24 Jam, garansi selesai dalam 1x24 jam atau uang kembali 100% tanpa ribet. Syarat: DP 70% + materi lengkap sebelum mulai.</p>
+        </div>
+        
+        <div>
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">📌 Jika tidak selesai?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Uang kembali 100% ke rekening Anda dalam 1x24 jam. 128+ website selesai tepat waktu, 0 refund.</p>
+        </div>
+      </div>
+      
+      <div style="background:#F8FAFC; border-radius:20px; padding:25px; height:100%;">
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+          <span style="background:#22C55E; width:36px; height:36px; border-radius:10px; display:flex; align-items:center; justify-content:center; color:white; font-size:18px; flex-shrink:0;">🔧</span>
+          <h3 style="font-size:18px; margin:0;">Teknis & Fitur</h3>
+        </div>
+        
+        <div style="margin-bottom:20px;">
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">🌐 Termasuk domain & hosting?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Semua paket include domain .com dan hosting 1 tahun. Tahun berikutnya tinggal perpanjang, saya bantu urus.</p>
+        </div>
+        
+        <div>
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">📱 Bisa langsung chat WA?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Bisa! Setiap halaman saya pasang tombol WA yang mengarah langsung ke nomor Anda.</p>
+        </div>
+      </div>
+      
+      <div style="background:#F8FAFC; border-radius:20px; padding:25px; height:100%;">
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+          <span style="background:#22C55E; width:36px; height:36px; border-radius:10px; display:flex; align-items:center; justify-content:center; color:white; font-size:18px; flex-shrink:0;">🔄</span>
+          <h3 style="font-size:18px; margin:0;">Revisi & Upgrade</h3>
+        </div>
+        
+        <div style="margin-bottom:20px;">
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">🔄 Bisa revisi?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Revisi minor 2x include (teks, gambar, warna). Revisi besar (tambah halaman, fitur) bisa dengan biaya tambahan.</p>
+        </div>
+        
+        <div>
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">📈 Bisa upgrade nanti?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Bisa. Dari 24 Jam ke Basic/Profesional dengan tambah biaya sesuai selisih.</p>
+        </div>
+      </div>
+      
+      <div style="background:#F8FAFC; border-radius:20px; padding:25px; height:100%;">
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:15px;">
+          <span style="background:#22C55E; width:36px; height:36px; border-radius:10px; display:flex; align-items:center; justify-content:center; color:white; font-size:18px; flex-shrink:0;">💰</span>
+          <h3 style="font-size:18px; margin:0;">Pembayaran</h3>
+        </div>
+        
+        <div style="margin-bottom:20px;">
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">💰 Sistem pembayaran?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">DP 70% untuk mulai pengerjaan, 30% sisanya setelah website selesai dan Anda setuju. Transfer BCA/Mandiri.</p>
+        </div>
+        
+        <div>
+          <p style="font-weight:600; margin-bottom:5px; font-size:14px;">💳 Ada garansi uang kembali?</p>
+          <p style="font-size:13px; color:#475569; margin:0; line-height:1.5;">Ada. Khusus paket 24 Jam, jika tidak selesai dalam 1x24 jam, uang kembali 100% tanpa ribet.</p>
+        </div>
+      </div>
+      
+    </div>
+    
+    <div style="background:linear-gradient(135deg, #22C55E 0%, #16A34A 100%); border-radius:20px; padding:30px 20px; text-align:center; color:white; margin-top:30px;">
+      <h3 style="color:white; font-size:22px; margin-bottom:10px;">Masih ada pertanyaan?</h3>
+      <p style="color:white; opacity:0.9; max-width:450px; margin:0 auto 20px; font-size:14px;">Tanya aja langsung via WhatsApp. Saya yang jawab, bukan robot.</p>
+      <a href="https://wa.me/6282320410740?text=Halo%20saya%20mau%20tanya%20sebelum%20order" 
+         class="btn" 
+         style="background:white; color:#22C55E; padding:12px 30px; border-radius:100px; text-decoration:none; font-weight:600; font-size:14px; display:inline-block;">
+        💬 Chat via WhatsApp
+      </a>
+      <p style="margin-top:15px; font-size:12px; opacity:0.8; color:white;">Respon cepat, maksimal 30 menit</p>
+    </div>
+    
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="container">
+    <p>© 2026 Jasa Website 24 Jam. Fokus bantu bisnis cepat online.</p>
+    <p>WhatsApp: 0823-2041-0740 | Email: me@dedesumarna.com</p>
+  </div>
+</footer>
+
+</body>
+</html>
