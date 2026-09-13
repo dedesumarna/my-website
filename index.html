@@ -4498,6 +4498,49 @@ window.onload = generateCalendar;
     <p style="margin-top:8px;">WhatsApp: 0823-2041-0740 | Email: me@dedesumarna.com | Website: <a href="https://dedesumarna.com" target="_blank" rel="noopener" style="color:#22C55E; text-decoration:none;">dedesumarna.com</a></p>
   </div>
 </footer>
+  <script>
+      // ============================================================
+// MODAL KEBIJAKAN PRIVASI & SYARAT KETENTUAN
+// ============================================================
 
+function openModal(modalId) {
+  const modal = document.getElementById(modalId);
+  if (!modal) return;
+  
+  modal.classList.add('active');
+  document.body.style.overflow = 'hidden';
+  
+  setTimeout(() => {
+    const closeBtn = modal.querySelector('.modal-close');
+    if (closeBtn) closeBtn.focus();
+  }, 100);
+}
+
+function closeModal(modalId) {
+  const modal = document.getElementById(modalId);
+  if (!modal) return;
+  
+  modal.classList.remove('active');
+  document.body.style.overflow = '';
+}
+
+// Tutup modal saat klik overlay
+document.querySelectorAll('.modal-overlay').forEach(overlay => {
+  overlay.addEventListener('click', function(e) {
+    if (e.target === this) {
+      closeModal(this.id);
+    }
+  });
+});
+
+// Tutup modal saat tekan ESC
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    document.querySelectorAll('.modal-overlay.active').forEach(modal => {
+      closeModal(modal.id);
+    });
+  }
+});
+  </script>
 </body>
 </html>
