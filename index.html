@@ -1175,16 +1175,18 @@ footer.kaki button:hover {
   }
 }
 /* ============================================================
-   MODAL - HANYA MOBILE (≤ 768px)
+   MODAL KEBIJAKAN PRIVASI & SYARAT KETENTUAN
+   HANYA TAMPIL DI MOBILE (≤768px)
+   TABLET & DESKTOP: MODAL HILANG TOTAL
    ============================================================ */
 
-/* Default: semua modal HILANG */
+/* ---------- DEFAULT: MODAL HILANG DI SEMUA DEVICE ---------- */
 .modal-overlay {
   display: none;
 }
 
-/* Hanya tampilkan di mobile */
-@media (max-width: 768px) {
+/* ---------- MOBILE (≤768px): MODAL TAMPIL NORMAL ---------- */
+@media screen and (max-width: 768px) {
   .modal-overlay {
     position: fixed;
     inset: 0;
@@ -1279,7 +1281,6 @@ footer.kaki button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.2s ease;
     padding: 0;
     line-height: 1;
     flex-shrink: 0;
@@ -1477,7 +1478,6 @@ footer.kaki button:hover {
     background: #F5C542;
     color: #0A1628;
     box-shadow: 0 4px 12px rgba(245, 197, 66, 0.3);
-    transition: all 0.2s ease;
   }
 
   .modal-btn:hover {
@@ -1485,192 +1485,40 @@ footer.kaki button:hover {
   }
 }
 
-/* Desktop (> 768px): SEMBUNYIKAN SEMUA MODAL */
-@media (min-width: 769px) {
+/* ---------- TABLET & DESKTOP (>768px): MODAL HILANG TOTAL ---------- */
+@media screen and (min-width: 769px) {
   .modal-overlay,
   #modalPrivasi,
-  #modalSyarat {
+  #modalSyarat,
+  .modal-container,
+  .modal-header,
+  .modal-title-wrapper,
+  .modal-title,
+  .modal-subtitle,
+  .modal-close,
+  .modal-body,
+  .modal-footer,
+  .modal-footer-note,
+  .modal-btn,
+  .modal-icon,
+  .modal-badge,
+  .modal-highlight {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
     pointer-events: none !important;
     height: 0 !important;
     width: 0 !important;
+    max-height: 0 !important;
     overflow: hidden !important;
     position: absolute !important;
-    top: -9999px !important;
-    left: -9999px !important;
-  }
-}
-    /* ============================================================
-   FORCE HIDE MODAL - PRIORITAS TERTINGGI
-   ============================================================ */
-html body div.modal-overlay#modalPrivasi:not(.active),
-html body div.modal-overlay#modalSyarat:not(.active) {
-  opacity: 0 !important;
-  visibility: hidden !important;
-  pointer-events: none !important;
-  display: flex !important;
-  position: fixed !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 100vw !important;
-  height: 100vh !important;
-}
-
-html body div.modal-overlay#modalPrivasi.active,
-html body div.modal-overlay#modalSyarat.active {
-  opacity: 1 !important;
-  visibility: visible !important;
-  pointer-events: auto !important;
-}
-    /* ============================================================
-   FORCE HIDE MODAL - PRIORITAS TERTINGGI (DESKTOP + MOBILE)
-   ============================================================ */
-
-/* MODAL TERSEMBUNYI (default state) */
-#modalPrivasi:not(.active),
-#modalSyarat:not(.active) {
-  opacity: 0 !important;
-  visibility: hidden !important;
-  pointer-events: none !important;
-  position: fixed !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 100% !important;
-  height: 100% !important;
-  z-index: 9999 !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  padding: 20px !important;
-  background: rgba(10, 22, 40, 0.85) !important;
-  backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
-  overflow: hidden !important;
-  transition: opacity 0.3s ease, visibility 0.3s ease !important;
-}
-
-/* MODAL TAMPIL (saat di-klik) */
-#modalPrivasi.active,
-#modalSyarat.active {
-  opacity: 1 !important;
-  visibility: visible !important;
-  pointer-events: auto !important;
-}
-
-/* Container modal (kotak putih) */
-#modalPrivasi .modal-container,
-#modalSyarat .modal-container {
-  background: #FFFFFF !important;
-  border-radius: 24px !important;
-  width: 100% !important;
-  max-width: 800px !important;
-  max-height: 90vh !important;
-  display: flex !important;
-  flex-direction: column !important;
-  box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.5) !important;
-  overflow: hidden !important;
-  border: 1px solid rgba(245, 197, 66, 0.2) !important;
-  transform: scale(0.95) translateY(20px) !important;
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
-}
-
-#modalPrivasi.active .modal-container,
-#modalSyarat.active .modal-container {
-  transform: scale(1) translateY(0) !important;
-}
-
-/* Mobile: bottom sheet */
-@media (max-width: 768px) {
-  #modalPrivasi:not(.active),
-  #modalSyarat:not(.active) {
-    align-items: flex-end !important;
-    padding: 0 !important;
-  }
-
-  #modalPrivasi .modal-container,
-  #modalSyarat .modal-container {
-    max-width: 100% !important;
-    max-height: 94vh !important;
-    border-radius: 24px 24px 0 0 !important;
-  }
-}
-    /* ============================================================
-   MODAL HANYA AKTIF DI MOBILE
-   ============================================================ */
-
-/* Desktop & Tablet (>768px): sembunyikan modal sepenuhnya */
-@media (min-width: 769px) {
-  #modalPrivasi,
-  #modalSyarat,
-  .modal-overlay {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    pointer-events: none !important;
-  }
-}
-
-/* Mobile (≤768px): modal normal */
-@media (max-width: 768px) {
-  .modal-overlay {
-    position: fixed;
-    inset: 0;
-    background: rgba(10, 22, 40, 0.85);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    z-index: 9999;
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-    padding: 0;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.3s ease, visibility 0.3s ease;
-  }
-
-  .modal-overlay.active {
-    opacity: 1;
-    visibility: visible;
-  }
-
-  .modal-container {
-    background: #FFFFFF;
-    border-radius: 24px 24px 0 0;
-    width: 100%;
-    max-width: 100%;
-    max-height: 94vh;
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.5);
-    transform: translateY(100%);
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    overflow: hidden;
-    border: 1px solid rgba(245, 197, 66, 0.2);
-  }
-
-  .modal-overlay.active .modal-container {
-    transform: translateY(0);
-  }
-}
-  </style>
-</head>
-    <style>
-/* EMERGENCY OVERRIDE - HANYA MOBILE */
-@media (min-width: 769px) {
-  html body #modalPrivasi,
-  html body #modalSyarat,
-  html body .modal-overlay {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    height: 0 !important;
-    overflow: hidden !important;
-    pointer-events: none !important;
+    top: -99999px !important;
+    left: -99999px !important;
+    z-index: -1 !important;
   }
 }
 </style>
+</head>
 <body>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPB9265C"
