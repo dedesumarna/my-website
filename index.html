@@ -959,8 +959,9 @@ button.footer-link-privacy:hover {
   text-decoration: underline !important;
 }
 /* ============================================================
-   FOOTER - VERSI BARU (PROFESIONAL, MODERN, KONTRAS TINGGI)
+   FOOTER - FINAL VERSION (KONTRAS TINGGI, NO LINK DEFAULT)
    ============================================================ */
+footer.kaki,
 .kaki {
   position: relative;
   background: #0A1628;
@@ -969,6 +970,8 @@ button.footer-link-privacy:hover {
   text-align: center;
   overflow: hidden;
   border-top: 3px solid #F5C542;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 /* Aksen dekoratif di atas footer */
@@ -1022,6 +1025,9 @@ button.footer-link-privacy:hover {
   border-radius: 100px;
 }
 
+/* TOMBOL NAV - PAKSA WARNA */
+.kaki .kaki-nav-btn,
+button.kaki-nav-btn,
 .kaki-nav-btn {
   display: inline-flex;
   align-items: center;
@@ -1038,8 +1044,15 @@ button.footer-link-privacy:hover {
   transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
   letter-spacing: 0.3px;
   line-height: 1.4;
+  text-decoration: none;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+  box-shadow: none;
 }
 
+.kaki .kaki-nav-btn:hover,
+button.kaki-nav-btn:hover,
 .kaki-nav-btn:hover {
   background: #F5C542;
   color: #0A1628;
@@ -1047,13 +1060,10 @@ button.footer-link-privacy:hover {
   box-shadow: 0 8px 20px rgba(245, 197, 66, 0.35);
 }
 
-.kaki-nav-btn:active {
-  transform: translateY(0);
-}
-
 .kaki-nav-icon {
   font-size: 14px;
   line-height: 1;
+  color: inherit;
 }
 
 .kaki-nav-divider {
@@ -1062,7 +1072,7 @@ button.footer-link-privacy:hover {
   font-weight: 700;
 }
 
-/* ----- BARIS 3: KONTAK ----- */
+/* ----- BARIS 3: KONTAK (PAKSA SEMUA LINK) ----- */
 .kaki-contact {
   display: flex;
   justify-content: center;
@@ -1072,30 +1082,62 @@ button.footer-link-privacy:hover {
   font-size: 13px;
 }
 
-.kaki-contact-item {
+/* PAKSA LINK FOOTER KONTAK */
+footer.kaki .kaki-contact-item,
+.kaki .kaki-contact-item,
+a.kaki-contact-item {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  color: #CBD5E1;
+  color: #F5C542;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
   transition: color 0.25s ease;
   padding: 4px 0;
   letter-spacing: 0.2px;
+  border-bottom: 1px dashed transparent;
 }
 
-.kaki-contact-item:hover {
-  color: #F5C542;
+footer.kaki .kaki-contact-item:hover,
+.kaki .kaki-contact-item:hover,
+a.kaki-contact-item:hover {
+  color: #FFFFFF;
+  border-bottom-color: #FFFFFF;
 }
 
 .kaki-contact-icon {
   font-size: 14px;
   line-height: 1;
+  color: inherit;
 }
 
 .kaki-contact-divider {
   color: rgba(203, 213, 225, 0.3);
   font-size: 14px;
+}
+
+/* ============================================================
+   PAKSA OVERRIDE LINK BAWAAN BROWSER (BIRU/UNGU)
+   ============================================================ */
+footer.kaki a,
+footer.kaki a:link,
+footer.kaki a:visited,
+footer.kaki a:active {
+  color: #F5C542;
+  text-decoration: none;
+}
+
+footer.kaki a:hover {
+  color: #FFFFFF;
+}
+
+/* Paksa tombol juga */
+footer.kaki button {
+  color: #F5C542;
+}
+
+footer.kaki button:hover {
+  color: #0A1628;
 }
 
 /* ============================================================
