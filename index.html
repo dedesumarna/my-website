@@ -3504,10 +3504,23 @@ window.onload = generateCalendar;
 </section>
 </main>
 
-<footer>
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
+<footer class="main-footer">
   <div class="container">
     <p>© 2026 Jasa Website 24 Jam. Fokus bantu bisnis cepat online.</p>
-    <p>WhatsApp: 0823-2041-0740 | Email: me@dedesumarna.com</p>
+    
+    <p class="footer-links">
+      <button type="button" class="footer-link-privacy" onclick="openModal('modalPrivacy')">Kebijakan Privasi</button>
+      <span class="footer-separator">|</span>
+      <button type="button" class="footer-link-privacy" onclick="openModal('modalTerms')">Syarat &amp; Ketentuan</button>
+    </p>
+    
+    <p class="footer-contact">
+      WhatsApp: 0823-2041-0740 | Email: me@dedesumarna.com | 
+      Website: <a href="https://dedesumarna.com" target="_blank" rel="noopener">dedesumarna.com</a>
+    </p>
   </div>
 </footer>
 
