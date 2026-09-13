@@ -959,887 +959,221 @@ button.footer-link-privacy:hover {
   text-decoration: underline !important;
 }
 /* ============================================================
-   MODAL (POP-UP) - KUNCI UTAMA
-   ============================================================ */
-.modal-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(15, 23, 42, 0.75);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  z-index: 9999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 20px;
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
-}
-
-.modal-overlay.active {
-  opacity: 1;
-  visibility: visible;
-}
-
-.modal-container {
-  background: #FFFFFF;
-  border-radius: 24px;
-  width: 100%;
-  max-width: 800px;
-  max-height: 90vh;
-  display: flex;
-  flex-direction: column;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
-  transform: scale(0.95) translateY(20px);
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  overflow: hidden;
-  border: 1px solid rgba(34, 197, 94, 0.2);
-}
-
-.modal-overlay.active .modal-container {
-  transform: scale(1) translateY(0);
-}
-
-.modal-header {
-  background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
-  padding: 24px 28px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border-bottom: 3px solid #22C55E;
-  flex-shrink: 0;
-}
-
-.modal-title-wrapper {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.modal-icon {
-  width: 44px;
-  height: 44px;
-  background: rgba(34, 197, 94, 0.15);
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 22px;
-  flex-shrink: 0;
-  border: 1px solid rgba(34, 197, 94, 0.3);
-}
-
-.modal-title {
-  color: #FFFFFF;
-  font-size: 20px;
-  font-weight: 700;
-  margin: 0;
-  line-height: 1.2;
-}
-
-.modal-subtitle {
-  color: #94A3B8;
-  font-size: 12px;
-  margin: 2px 0 0 0;
-}
-
-.modal-close {
-  width: 40px;
-  height: 40px;
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: 10px;
-  color: #FFFFFF;
-  font-size: 20px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.2s ease;
-  padding: 0;
-  line-height: 1;
-}
-
-.modal-close:hover {
-  background: #22C55E;
-  border-color: #22C55E;
-  transform: rotate(90deg);
-}
-
-.modal-body {
-  padding: 28px 32px;
-  overflow-y: auto;
-  flex: 1;
-  color: #1E293B;
-  font-size: 15px;
-  line-height: 1.7;
-}
-
-.modal-body h3 {
-  color: #0F172A;
-  font-size: 18px;
-  font-weight: 700;
-  margin: 24px 0 12px 0;
-  padding-bottom: 8px;
-  border-bottom: 2px solid #E2E8F0;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.modal-body h3:first-child {
-  margin-top: 0;
-}
-
-.modal-body h3::before {
-  content: '';
-  width: 4px;
-  height: 20px;
-  background: #22C55E;
-  border-radius: 2px;
-  flex-shrink: 0;
-}
-
-.modal-body h4 {
-  color: #0F172A;
-  font-size: 15px;
-  font-weight: 600;
-  margin: 18px 0 8px 0;
-}
-
-.modal-body p {
-  color: #334155;
-  font-size: 15px;
-  line-height: 1.7;
-  margin: 0 0 12px 0;
-}
-
-.modal-body ul {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 16px 0;
-}
-
-.modal-body ul li {
-  position: relative;
-  padding: 6px 0 6px 28px;
-  color: #334155;
-  font-size: 15px;
-  line-height: 1.6;
-}
-
-.modal-body ul li::before {
-  content: '✓';
-  position: absolute;
-  left: 0;
-  top: 6px;
-  color: #22C55E;
-  font-weight: 700;
-  font-size: 14px;
-  background: rgba(34, 197, 94, 0.1);
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
-}
-
-.modal-body ul.cross-list li::before {
-  content: '✕';
-  color: #EF4444;
-  background: rgba(239, 68, 68, 0.1);
-}
-
-.modal-body ul.warning-list li::before {
-  content: '⚠';
-  color: #F59E0B;
-  background: rgba(245, 158, 11, 0.1);
-}
-
-.modal-body strong {
-  color: #0F172A;
-  font-weight: 700;
-}
-
-.modal-body a {
-  color: #15803D;
-  text-decoration: none;
-  font-weight: 600;
-  border-bottom: 1px dashed #15803D;
-}
-
-.modal-body a:hover {
-  color: #22C55E;
-  border-bottom-style: solid;
-}
-
-.modal-body hr {
-  border: none;
-  height: 1px;
-  background: linear-gradient(to right, transparent, #E2E8F0, transparent);
-  margin: 24px 0;
-}
-
-.modal-highlight {
-  background: #F0FDF4;
-  border-left: 4px solid #22C55E;
-  border-radius: 12px;
-  padding: 16px 20px;
-  margin: 16px 0;
-}
-
-.modal-highlight p {
-  margin: 0;
-  color: #166534;
-  font-size: 14px;
-}
-
-.modal-highlight.warning {
-  background: #FEF3C7;
-  border-left-color: #F59E0B;
-}
-
-.modal-highlight.warning p {
-  color: #92400E;
-}
-
-.modal-highlight.danger {
-  background: #FEF2F2;
-  border-left-color: #EF4444;
-}
-
-.modal-highlight.danger p {
-  color: #991B1B;
-}
-
-.modal-badge {
-  display: inline-block;
-  background: #22C55E;
-  color: #FFFFFF;
-  font-size: 11px;
-  font-weight: 700;
-  padding: 3px 10px;
-  border-radius: 50px;
-  margin-left: 8px;
-  vertical-align: middle;
-}
-
-.modal-footer {
-  padding: 20px 28px;
-  background: #F8FAFC;
-  border-top: 1px solid #E2E8F0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 12px;
-  flex-shrink: 0;
-  flex-wrap: wrap;
-}
-
-.modal-footer-note {
-  font-size: 12px;
-  color: #64748B;
-  margin: 0;
-  flex: 1;
-  min-width: 150px;
-}
-
-.modal-btn {
-  padding: 12px 28px;
-  border-radius: 100px;
-  font-size: 14px;
-  font-weight: 600;
-  cursor: pointer;
-  border: none;
-  font-family: inherit;
-  background: #22C55E;
-  color: #FFFFFF;
-  box-shadow: 0 4px 10px rgba(34, 197, 94, 0.3);
-  transition: all 0.2s ease;
-}
-
-.modal-btn:hover {
-  background: #15803D;
-  transform: translateY(-2px);
-}
-
-/* Responsive Modal */
-@media (max-width: 768px) {
-  .modal-overlay {
-    padding: 0;
-    align-items: flex-end;
-  }
-
-  .modal-container {
-    max-width: 100%;
-    max-height: 94vh;
-    border-radius: 24px 24px 0 0;
-    transform: translateY(100%);
-  }
-
-  .modal-overlay.active .modal-container {
-    transform: translateY(0);
-  }
-
-  .modal-header {
-    padding: 18px 20px;
-    border-radius: 24px 24px 0 0;
-  }
-
-  .modal-icon {
-    width: 38px;
-    height: 38px;
-    font-size: 18px;
-  }
-
-  .modal-title {
-    font-size: 16px;
-  }
-
-  .modal-body {
-    padding: 20px;
-    font-size: 14px;
-  }
-
-  .modal-body h3 {
-    font-size: 16px;
-  }
-
-  .modal-footer {
-    padding: 16px 20px;
-    flex-direction: column-reverse;
-    align-items: stretch;
-  }
-
-  .modal-footer-note {
-    text-align: center;
-    font-size: 11px;
-    order: 2;
-    margin-top: 8px;
-  }
-
-  .modal-btn {
-    width: 100%;
-    padding: 14px 20px;
-    order: 1;
-  }
-}
-    /* ============================================================
-   FOOTER (.kaki) - UNIK, TANPA !IMPORTANT
+   FOOTER - VERSI BARU (PROFESIONAL, MODERN, KONTRAS TINGGI)
    ============================================================ */
 .kaki {
-  background: #0F172A;
+  position: relative;
+  background: #0A1628;
   color: #FFFFFF;
-  padding: 40px 0;
+  padding: 48px 24px 40px;
   text-align: center;
-  width: 100%;
+  overflow: hidden;
+  border-top: 3px solid #F5C542;
 }
 
-.kaki-container {
-  max-width: 1200px;
+/* Aksen dekoratif di atas footer */
+.kaki::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 3px;
+  background: #F5C542;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 0 20px rgba(245, 197, 66, 0.5);
+}
+
+.kaki-inner {
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
 }
 
+/* ----- BARIS 1: COPYRIGHT ----- */
 .kaki-copy {
-  color: #CBD5E1;
+  color: #E2E8F0;
   font-size: 14px;
-  margin: 0 0 10px 0;
   line-height: 1.6;
+  margin: 0;
+  font-weight: 400;
+  letter-spacing: 0.2px;
 }
 
-.kaki-link-wrap {
+.kaki-copy strong {
+  color: #F5C542;
+  font-weight: 700;
+}
+
+/* ----- BARIS 2: NAVIGASI (TOMBOL) ----- */
+.kaki-nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   flex-wrap: wrap;
-  margin: 0 0 10px 0;
+  padding: 14px 24px;
+  background: rgba(245, 197, 66, 0.06);
+  border: 1px solid rgba(245, 197, 66, 0.15);
+  border-radius: 100px;
 }
 
-.kaki-link {
+.kaki-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 18px;
   background: transparent;
   border: none;
   color: #F5C542;
-  font-size: 14px;
   font-family: inherit;
+  font-size: 14px;
   font-weight: 600;
   cursor: pointer;
-  padding: 4px 10px;
-  border-radius: 6px;
-  border-bottom: 2px dashed #F5C542;
-  transition: all 0.2s ease;
-  line-height: 1.4;
-  outline: none;
-  -webkit-appearance: none;
-  appearance: none;
-}
-
-.kaki-link:hover {
-  color: #FFFFFF;
-  border-bottom-color: #FFFFFF;
-  background: rgba(245, 197, 66, 0.15);
-}
-
-.kaki-pemisah {
-  color: #475569;
-  font-weight: 300;
-}
-
-.kaki-kontak {
-  color: #CBD5E1;
-  font-size: 14px;
-  margin: 0;
-  line-height: 1.6;
-}
-
-.kaki-link-web {
-  color: #F5C542;
-  text-decoration: none;
-  font-weight: 600;
-  transition: color 0.2s ease;
-}
-
-.kaki-link-web:hover {
-  color: #FFFFFF;
-  text-decoration: underline;
-}
-
-/* ============================================================
-   MODAL (.modal-*)
-   ============================================================ */
-.modal-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(15, 23, 42, 0.75);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  z-index: 9999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 20px;
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
-}
-
-.modal-overlay.active {
-  opacity: 1;
-  visibility: visible;
-}
-
-.modal-container {
-  background: #FFFFFF;
-  border-radius: 24px;
-  width: 100%;
-  max-width: 800px;
-  max-height: 90vh;
-  display: flex;
-  flex-direction: column;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
-  transform: scale(0.95) translateY(20px);
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  overflow: hidden;
-  border: 1px solid rgba(34, 197, 94, 0.2);
-}
-
-.modal-overlay.active .modal-container {
-  transform: scale(1) translateY(0);
-}
-
-.modal-header {
-  background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
-  padding: 24px 28px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border-bottom: 3px solid #22C55E;
-  flex-shrink: 0;
-}
-
-.modal-title-wrapper {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.modal-icon {
-  width: 44px;
-  height: 44px;
-  background: rgba(34, 197, 94, 0.15);
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 22px;
-  flex-shrink: 0;
-  border: 1px solid rgba(34, 197, 94, 0.3);
-}
-
-.modal-title {
-  color: #FFFFFF;
-  font-size: 20px;
-  font-weight: 700;
-  margin: 0;
-  line-height: 1.2;
-}
-
-.modal-subtitle {
-  color: #94A3B8;
-  font-size: 12px;
-  margin: 2px 0 0 0;
-}
-
-.modal-close {
-  width: 40px;
-  height: 40px;
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: 10px;
-  color: #FFFFFF;
-  font-size: 20px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.2s ease;
-  padding: 0;
-  line-height: 1;
-}
-
-.modal-close:hover {
-  background: #22C55E;
-  border-color: #22C55E;
-  transform: rotate(90deg);
-}
-
-.modal-body {
-  padding: 28px 32px;
-  overflow-y: auto;
-  flex: 1;
-  color: #1E293B;
-  font-size: 15px;
-  line-height: 1.7;
-}
-
-.modal-body::-webkit-scrollbar {
-  width: 8px;
-}
-
-.modal-body::-webkit-scrollbar-track {
-  background: #F1F5F9;
-  border-radius: 10px;
-}
-
-.modal-body::-webkit-scrollbar-thumb {
-  background: #22C55E;
-  border-radius: 10px;
-}
-
-.modal-body h3 {
-  color: #0F172A;
-  font-size: 18px;
-  font-weight: 700;
-  margin: 24px 0 12px 0;
-  padding-bottom: 8px;
-  border-bottom: 2px solid #E2E8F0;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.modal-body h3:first-child {
-  margin-top: 0;
-}
-
-.modal-body h3::before {
-  content: '';
-  width: 4px;
-  height: 20px;
-  background: #22C55E;
-  border-radius: 2px;
-  flex-shrink: 0;
-}
-
-.modal-body h4 {
-  color: #0F172A;
-  font-size: 15px;
-  font-weight: 600;
-  margin: 18px 0 8px 0;
-}
-
-.modal-body p {
-  color: #334155;
-  font-size: 15px;
-  line-height: 1.7;
-  margin: 0 0 12px 0;
-}
-
-.modal-body ul {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 16px 0;
-}
-
-.modal-body ul li {
-  position: relative;
-  padding: 6px 0 6px 28px;
-  color: #334155;
-  font-size: 15px;
-  line-height: 1.6;
-}
-
-.modal-body ul li::before {
-  content: '✓';
-  position: absolute;
-  left: 0;
-  top: 6px;
-  color: #22C55E;
-  font-weight: 700;
-  font-size: 14px;
-  background: rgba(34, 197, 94, 0.1);
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
-}
-
-.modal-body ul.cross-list li::before {
-  content: '✕';
-  color: #EF4444;
-  background: rgba(239, 68, 68, 0.1);
-}
-
-.modal-body ul.warning-list li::before {
-  content: '⚠';
-  color: #F59E0B;
-  background: rgba(245, 158, 11, 0.1);
-}
-
-.modal-body strong {
-  color: #0F172A;
-  font-weight: 700;
-}
-
-.modal-body a {
-  color: #15803D;
-  text-decoration: none;
-  font-weight: 600;
-  border-bottom: 1px dashed #15803D;
-}
-
-.modal-body a:hover {
-  color: #22C55E;
-  border-bottom-style: solid;
-}
-
-.modal-body hr {
-  border: none;
-  height: 1px;
-  background: linear-gradient(to right, transparent, #E2E8F0, transparent);
-  margin: 24px 0;
-}
-
-.modal-highlight {
-  background: #F0FDF4;
-  border-left: 4px solid #22C55E;
-  border-radius: 12px;
-  padding: 16px 20px;
-  margin: 16px 0;
-}
-
-.modal-highlight p {
-  margin: 0;
-  color: #166534;
-  font-size: 14px;
-}
-
-.modal-highlight.warning {
-  background: #FEF3C7;
-  border-left-color: #F59E0B;
-}
-
-.modal-highlight.warning p {
-  color: #92400E;
-}
-
-.modal-highlight.danger {
-  background: #FEF2F2;
-  border-left-color: #EF4444;
-}
-
-.modal-highlight.danger p {
-  color: #991B1B;
-}
-
-.modal-badge {
-  display: inline-block;
-  background: #22C55E;
-  color: #FFFFFF;
-  font-size: 11px;
-  font-weight: 700;
-  padding: 3px 10px;
   border-radius: 50px;
-  margin-left: 8px;
-  vertical-align: middle;
-  letter-spacing: 0.5px;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  letter-spacing: 0.3px;
+  line-height: 1.4;
 }
 
-.modal-footer {
-  padding: 20px 28px;
-  background: #F8FAFC;
-  border-top: 1px solid #E2E8F0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 12px;
-  flex-shrink: 0;
-  flex-wrap: wrap;
-}
-
-.modal-footer-note {
-  font-size: 12px;
-  color: #64748B;
-  margin: 0;
-  flex: 1;
-  min-width: 150px;
-}
-
-.modal-btn {
-  padding: 12px 28px;
-  border-radius: 100px;
-  font-size: 14px;
-  font-weight: 600;
-  cursor: pointer;
-  border: none;
-  font-family: inherit;
-  background: #22C55E;
-  color: #FFFFFF;
-  box-shadow: 0 4px 10px rgba(34, 197, 94, 0.3);
-  transition: all 0.2s ease;
-}
-
-.modal-btn:hover {
-  background: #15803D;
+.kaki-nav-btn:hover {
+  background: #F5C542;
+  color: #0A1628;
   transform: translateY(-2px);
-  box-shadow: 0 6px 15px rgba(34, 197, 94, 0.4);
+  box-shadow: 0 8px 20px rgba(245, 197, 66, 0.35);
+}
+
+.kaki-nav-btn:active {
+  transform: translateY(0);
+}
+
+.kaki-nav-icon {
+  font-size: 14px;
+  line-height: 1;
+}
+
+.kaki-nav-divider {
+  color: rgba(245, 197, 66, 0.4);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* ----- BARIS 3: KONTAK ----- */
+.kaki-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-size: 13px;
+}
+
+.kaki-contact-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #CBD5E1;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.25s ease;
+  padding: 4px 0;
+  letter-spacing: 0.2px;
+}
+
+.kaki-contact-item:hover {
+  color: #F5C542;
+}
+
+.kaki-contact-icon {
+  font-size: 14px;
+  line-height: 1;
+}
+
+.kaki-contact-divider {
+  color: rgba(203, 213, 225, 0.3);
+  font-size: 14px;
 }
 
 /* ============================================================
-   MODAL RESPONSIVE (MOBILE)
+   RESPONSIVE FOOTER (MOBILE FRIENDLY)
    ============================================================ */
 @media (max-width: 768px) {
-  .modal-overlay {
-    padding: 0;
-    align-items: flex-end;
+  .kaki {
+    padding: 36px 18px 32px;
   }
 
-  .modal-container {
-    max-width: 100%;
-    max-height: 94vh;
-    border-radius: 24px 24px 0 0;
-    transform: translateY(100%);
+  .kaki-inner {
+    gap: 16px;
   }
 
-  .modal-overlay.active .modal-container {
-    transform: translateY(0);
+  .kaki-copy {
+    font-size: 13px;
+    line-height: 1.5;
   }
 
-  .modal-header {
-    padding: 18px 20px;
-    border-radius: 24px 24px 0 0;
-  }
-
-  .modal-icon {
-    width: 38px;
-    height: 38px;
-    font-size: 18px;
-  }
-
-  .modal-title {
-    font-size: 16px;
-  }
-
-  .modal-subtitle {
-    font-size: 11px;
-  }
-
-  .modal-close {
-    width: 36px;
-    height: 36px;
-    font-size: 18px;
-  }
-
-  .modal-body {
-    padding: 20px;
-    font-size: 14px;
-  }
-
-  .modal-body h3 {
-    font-size: 16px;
-    margin: 22px 0 10px 0;
-  }
-
-  .modal-body h4 {
-    font-size: 14px;
-  }
-
-  .modal-body p,
-  .modal-body ul li {
-    font-size: 14px;
-  }
-
-  .modal-footer {
-    padding: 16px 20px;
-    flex-direction: column-reverse;
-    align-items: stretch;
-  }
-
-  .modal-footer-note {
-    text-align: center;
-    font-size: 11px;
-    order: 2;
-    margin-top: 8px;
-  }
-
-  .modal-btn {
+  .kaki-nav {
+    flex-direction: column;
+    gap: 6px;
+    padding: 12px 20px;
+    border-radius: 20px;
     width: 100%;
-    padding: 14px 20px;
-    order: 1;
+    max-width: 320px;
+  }
+
+  .kaki-nav-btn {
+    width: 100%;
+    justify-content: center;
+    padding: 12px 20px;
+    font-size: 14px;
+  }
+
+  .kaki-nav-divider {
+    display: none;
+  }
+
+  .kaki-contact {
+    flex-direction: column;
+    gap: 8px;
+    font-size: 13px;
+    width: 100%;
+  }
+
+  .kaki-contact-item {
+    justify-content: center;
+    width: 100%;
+    padding: 6px 0;
+  }
+
+  .kaki-contact-divider {
+    display: none;
   }
 }
 
 @media (max-width: 480px) {
-  .modal-body {
-    padding: 16px;
+  .kaki {
+    padding: 32px 16px 28px;
   }
 
-  .modal-title {
-    font-size: 15px;
+  .kaki-copy {
+    font-size: 12px;
   }
 
-  .modal-body h3 {
-    font-size: 15px;
+  .kaki-nav {
+    padding: 10px 16px;
+    border-radius: 16px;
   }
 
-  .modal-body p,
-  .modal-body ul li {
+  .kaki-nav-btn {
+    padding: 10px 16px;
     font-size: 13px;
   }
 
-  .modal-highlight {
-    padding: 12px 14px;
-  }
-
-  .modal-highlight p {
-    font-size: 13px;
+  .kaki-contact {
+    font-size: 12px;
   }
 }
   </style>
@@ -4460,22 +3794,47 @@ window.onload = generateCalendar;
 </main>
 
 <!-- ============================================================
-     FOOTER
+     FOOTER - VERSI BARU (PROFESIONAL & MODERN)
      ============================================================ -->
 <footer class="kaki" id="kaki">
-  <div class="kaki-container">
-    <p class="kaki-copy">© 2026 Jasa Website 24 Jam. Fokus bantu bisnis cepat online.</p>
+  <div class="kaki-inner">
     
-    <div class="kaki-link-wrap">
-      <button type="button" class="kaki-link" onclick="bukaModal('modalPrivasi')">Kebijakan Privasi</button>
-      <span class="kaki-pemisah">|</span>
-      <button type="button" class="kaki-link" onclick="bukaModal('modalSyarat')">Syarat &amp; Ketentuan</button>
+    <!-- Baris 1: Copyright -->
+    <p class="kaki-copy">
+      © 2026 <strong>Jasa Website 24 Jam</strong>. Fokus bantu bisnis cepat online.
+    </p>
+    
+    <!-- Baris 2: Navigasi (Kebijakan & Syarat) -->
+    <nav class="kaki-nav">
+      <button type="button" class="kaki-nav-btn" onclick="bukaModal('modalPrivasi')">
+        <span class="kaki-nav-icon">🔒</span>
+        <span>Kebijakan Privasi</span>
+      </button>
+      <span class="kaki-nav-divider">•</span>
+      <button type="button" class="kaki-nav-btn" onclick="bukaModal('modalSyarat')">
+        <span class="kaki-nav-icon">📋</span>
+        <span>Syarat &amp; Ketentuan</span>
+      </button>
+    </nav>
+    
+    <!-- Baris 3: Kontak & Website -->
+    <div class="kaki-contact">
+      <a href="https://wa.me/6282320410740" target="_blank" rel="noopener" class="kaki-contact-item">
+        <span class="kaki-contact-icon">📱</span>
+        <span>0823-2041-0740</span>
+      </a>
+      <span class="kaki-contact-divider">•</span>
+      <a href="mailto:me@dedesumarna.com" class="kaki-contact-item">
+        <span class="kaki-contact-icon">✉️</span>
+        <span>me@dedesumarna.com</span>
+      </a>
+      <span class="kaki-contact-divider">•</span>
+      <a href="https://dedesumarna.com" target="_blank" rel="noopener" class="kaki-contact-item">
+        <span class="kaki-contact-icon">🌐</span>
+        <span>dedesumarna.com</span>
+      </a>
     </div>
     
-    <p class="kaki-kontak">
-      WhatsApp: 0823-2041-0740 | Email: me@dedesumarna.com | 
-      Website: <a href="https://dedesumarna.com" target="_blank" rel="noopener" class="kaki-link-web">dedesumarna.com</a>
-    </p>
   </div>
 </footer>
 
