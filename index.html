@@ -1640,6 +1640,78 @@ html body div.modal-overlay#modalSyarat.active {
   visibility: visible !important;
   pointer-events: auto !important;
 }
+    /* ============================================================
+   FORCE HIDE MODAL - PRIORITAS TERTINGGI (DESKTOP + MOBILE)
+   ============================================================ */
+
+/* MODAL TERSEMBUNYI (default state) */
+#modalPrivasi:not(.active),
+#modalSyarat:not(.active) {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  z-index: 9999 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 20px !important;
+  background: rgba(10, 22, 40, 0.85) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  overflow: hidden !important;
+  transition: opacity 0.3s ease, visibility 0.3s ease !important;
+}
+
+/* MODAL TAMPIL (saat di-klik) */
+#modalPrivasi.active,
+#modalSyarat.active {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
+
+/* Container modal (kotak putih) */
+#modalPrivasi .modal-container,
+#modalSyarat .modal-container {
+  background: #FFFFFF !important;
+  border-radius: 24px !important;
+  width: 100% !important;
+  max-width: 800px !important;
+  max-height: 90vh !important;
+  display: flex !important;
+  flex-direction: column !important;
+  box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.5) !important;
+  overflow: hidden !important;
+  border: 1px solid rgba(245, 197, 66, 0.2) !important;
+  transform: scale(0.95) translateY(20px) !important;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+#modalPrivasi.active .modal-container,
+#modalSyarat.active .modal-container {
+  transform: scale(1) translateY(0) !important;
+}
+
+/* Mobile: bottom sheet */
+@media (max-width: 768px) {
+  #modalPrivasi:not(.active),
+  #modalSyarat:not(.active) {
+    align-items: flex-end !important;
+    padding: 0 !important;
+  }
+
+  #modalPrivasi .modal-container,
+  #modalSyarat .modal-container {
+    max-width: 100% !important;
+    max-height: 94vh !important;
+    border-radius: 24px 24px 0 0 !important;
+  }
+}
   </style>
 </head>
 <body>
