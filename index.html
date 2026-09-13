@@ -959,7 +959,7 @@ button.footer-link-privacy:hover {
   text-decoration: underline !important;
 }
 /* ============================================================
-   MODAL (POP-UP) KEBIJAKAN PRIVASI & SYARAT KETENTUAN
+   MODAL (POP-UP) - KUNCI UTAMA
    ============================================================ */
 .modal-overlay {
   position: fixed;
@@ -1001,7 +1001,6 @@ button.footer-link-privacy:hover {
   transform: scale(1) translateY(0);
 }
 
-/* --- MODAL HEADER --- */
 .modal-header {
   background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
   padding: 24px 28px;
@@ -1068,7 +1067,6 @@ button.footer-link-privacy:hover {
   transform: rotate(90deg);
 }
 
-/* --- MODAL BODY --- */
 .modal-body {
   padding: 28px 32px;
   overflow-y: auto;
@@ -1076,20 +1074,6 @@ button.footer-link-privacy:hover {
   color: #1E293B;
   font-size: 15px;
   line-height: 1.7;
-}
-
-.modal-body::-webkit-scrollbar {
-  width: 8px;
-}
-
-.modal-body::-webkit-scrollbar-track {
-  background: #F1F5F9;
-  border-radius: 10px;
-}
-
-.modal-body::-webkit-scrollbar-thumb {
-  background: #22C55E;
-  border-radius: 10px;
 }
 
 .modal-body h3 {
@@ -1241,10 +1225,8 @@ button.footer-link-privacy:hover {
   border-radius: 50px;
   margin-left: 8px;
   vertical-align: middle;
-  letter-spacing: 0.5px;
 }
 
-/* --- MODAL FOOTER --- */
 .modal-footer {
   padding: 20px 28px;
   background: #F8FAFC;
@@ -1282,12 +1264,9 @@ button.footer-link-privacy:hover {
 .modal-btn:hover {
   background: #15803D;
   transform: translateY(-2px);
-  box-shadow: 0 6px 15px rgba(34, 197, 94, 0.4);
 }
 
-/* ============================================================
-   MODAL RESPONSIVE (MOBILE)
-   ============================================================ */
+/* Responsive Modal */
 @media (max-width: 768px) {
   .modal-overlay {
     padding: 0;
@@ -1320,16 +1299,6 @@ button.footer-link-privacy:hover {
     font-size: 16px;
   }
 
-  .modal-subtitle {
-    font-size: 11px;
-  }
-
-  .modal-close {
-    width: 36px;
-    height: 36px;
-    font-size: 18px;
-  }
-
   .modal-body {
     padding: 20px;
     font-size: 14px;
@@ -1337,16 +1306,6 @@ button.footer-link-privacy:hover {
 
   .modal-body h3 {
     font-size: 16px;
-    margin: 22px 0 10px 0;
-  }
-
-  .modal-body h4 {
-    font-size: 14px;
-  }
-
-  .modal-body p,
-  .modal-body ul li {
-    font-size: 14px;
   }
 
   .modal-footer {
@@ -1366,33 +1325,6 @@ button.footer-link-privacy:hover {
     width: 100%;
     padding: 14px 20px;
     order: 1;
-  }
-}
-
-@media (max-width: 480px) {
-  .modal-body {
-    padding: 16px;
-  }
-
-  .modal-title {
-    font-size: 15px;
-  }
-
-  .modal-body h3 {
-    font-size: 15px;
-  }
-
-  .modal-body p,
-  .modal-body ul li {
-    font-size: 13px;
-  }
-
-  .modal-highlight {
-    padding: 12px 14px;
-  }
-
-  .modal-highlight p {
-    font-size: 13px;
   }
 }
     /* ============================================================
