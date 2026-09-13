@@ -887,66 +887,77 @@ span[style*="border-radius:50px;"] {
 #antrian-container span[style*="font-size:11px;"] span {
   color: #0F172A !important;
 }
-    /* ============================================================
-   FOOTER STYLING
+/* ============================================================
+   FOOTER FINAL FIX - FORCE OVERRIDE
    ============================================================ */
+footer.main-footer,
 .main-footer {
-  background: #0F172A;
-  color: #fff;
-  padding: 40px 0;
-  text-align: center;
+  background: #0F172A !important;
+  color: #FFFFFF !important;
+  padding: 40px 0 !important;
+  text-align: center !important;
 }
 
-.main-footer p {
-  color: #94A3B8;
-  font-size: 14px;
-  margin: 0 0 8px 0;
-  line-height: 1.6;
+.main-footer p,
+.main-footer .footer-links,
+.main-footer .footer-contact {
+  color: #CBD5E1 !important;
+  font-size: 14px !important;
+  margin: 0 0 8px 0 !important;
+  line-height: 1.6 !important;
 }
 
-.main-footer p:last-child {
-  margin-bottom: 0;
+.main-footer .footer-links {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 10px !important;
+  flex-wrap: wrap !important;
 }
 
-.footer-links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-  flex-wrap: wrap;
+/* Tombol Kebijakan Privasi & Syarat Ketentuan */
+button.footer-link-privacy {
+  background: transparent !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  color: #F5C542 !important;
+  font-size: 14px !important;
+  font-family: inherit !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  padding: 4px 8px !important;
+  border-bottom: 2px dashed #F5C542 !important;
+  transition: all 0.2s ease !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+  text-decoration: none !important;
+  line-height: 1.4 !important;
 }
 
-.footer-link-privacy {
-  background: none;
-  border: none;
-  color: #CBD5E1;
-  font-size: 14px;
-  font-family: inherit;
-  font-weight: 500;
-  cursor: pointer;
-  padding: 0;
-  border-bottom: 1px dashed transparent;
-  transition: all 0.2s ease;
+button.footer-link-privacy:hover {
+  color: #FFFFFF !important;
+  border-bottom-color: #FFFFFF !important;
+  background: rgba(245, 197, 66, 0.1) !important;
+  border-radius: 6px !important;
 }
 
-.footer-link-privacy:hover {
-  color: #22C55E;
-  border-bottom-color: #22C55E;
+.main-footer .footer-separator {
+  color: #475569 !important;
+  font-weight: 300 !important;
 }
 
-.footer-separator {
-  color: #475569;
+/* Link Website */
+.main-footer a {
+  color: #F5C542 !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
 }
 
-.footer-contact a {
-  color: #22C55E;
-  text-decoration: none;
+.main-footer a:hover {
+  color: #FFFFFF !important;
+  text-decoration: underline !important;
 }
-
-.footer-contact a:hover {
-  text-decoration: underline;
-}
-
 /* ============================================================
    MODAL (POP-UP) KEBIJAKAN PRIVASI & SYARAT KETENTUAN
    ============================================================ */
