@@ -1618,6 +1618,28 @@ footer.kaki button:hover {
     font-size: 13px;
   }
 }
+    /* ============================================================
+   FORCE HIDE MODAL - PRIORITAS TERTINGGI
+   ============================================================ */
+html body div.modal-overlay#modalPrivasi:not(.active),
+html body div.modal-overlay#modalSyarat:not(.active) {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  display: flex !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+html body div.modal-overlay#modalPrivasi.active,
+html body div.modal-overlay#modalSyarat.active {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
   </style>
 </head>
 <body>
@@ -4797,6 +4819,57 @@ document.addEventListener('keydown', function(e) {
     });
   }
 });
+    // ============================================================
+// MODAL CONTROL - VERSI AMAN
+// ============================================================
+(function() {
+  'use strict';
+
+  // Fungsi buka modal
+  window.bukaModal = function(idModal) {
+    var modal = document.getElementById(idModal);
+    if (!modal) {
+      console.warn('Modal tidak ditemukan:', idModal);
+      return;
+    }
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  };
+
+  // Fungsi tutup modal
+  window.tutupModal = function(idModal) {
+    var modal = document.getElementById(idModal);
+    if (!modal) return;
+    modal.classList.remove('active');
+    document.body.style.overflow = '';
+  };
+
+  // Tunggu DOM siap
+  document.addEventListener('DOMContentLoaded', function() {
+    
+    // Tutup modal saat klik area overlay
+    var overlays = document.querySelectorAll('.modal-overlay');
+    overlays.forEach(function(overlay) {
+      overlay.addEventListener('click', function(e) {
+        if (e.target === this) {
+          tutupModal(this.id);
+        }
+      });
+    });
+
+    // Tutup modal saat tekan ESC
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        var activeModals = document.querySelectorAll('.modal-overlay.active');
+        activeModals.forEach(function(modal) {
+          tutupModal(modal.id);
+        });
+      }
+    });
+
+    console.log('Modal system siap. Total modal:', overlays.length);
+  });
+})();
 </script>
 </body>
 </html>
