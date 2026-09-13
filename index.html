@@ -1772,6 +1772,21 @@ html body div.modal-overlay#modalSyarat.active {
 }
   </style>
 </head>
+    <style>
+/* EMERGENCY OVERRIDE - HANYA MOBILE */
+@media (min-width: 769px) {
+  html body #modalPrivasi,
+  html body #modalSyarat,
+  html body .modal-overlay {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    pointer-events: none !important;
+  }
+}
+</style>
 <body>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPB9265C"
