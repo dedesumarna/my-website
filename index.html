@@ -888,7 +888,7 @@ span[style*="border-radius:50px;"] {
   color: #0F172A !important;
 }
 /* ============================================================
-   FOOTER - FINAL v3 (DESKTOP & MOBILE KONTRAS TINGGI)
+   FOOTER - FINAL v5 (KONTRAS TINGGI, LAYOUT HORIZONTAL)
    ============================================================ */
 footer.kaki,
 footer#kaki,
@@ -896,7 +896,7 @@ footer#kaki,
   position: relative;
   background: #0A1628;
   color: #E2E8F0;
-  padding: 56px 24px 48px;
+  padding: 48px 24px 40px;
   text-align: center;
   overflow: hidden;
   border-top: 3px solid #F5C542;
@@ -915,7 +915,7 @@ footer.kaki::before {
   height: 3px;
   background: #F5C542;
   border-radius: 0 0 4px 4px;
-  box-shadow: 0 0 20px rgba(245, 197, 66, 0.6);
+  box-shadow: 0 0 20px rgba(245, 197, 66, 0.5);
 }
 
 .kaki-inner {
@@ -923,19 +923,19 @@ footer.kaki::before {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 18px;
   align-items: center;
 }
 
 /* ----- BARIS 1: COPYRIGHT ----- */
 footer.kaki .kaki-copy,
 .kaki .kaki-copy {
-  color: #F1F5F9;
+  color: #E2E8F0;
   font-size: 14px;
   line-height: 1.6;
   margin: 0;
   font-weight: 400;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.2px;
 }
 
 footer.kaki .kaki-copy strong,
@@ -944,23 +944,23 @@ footer.kaki .kaki-copy strong,
   font-weight: 700;
 }
 
-/* ----- BARIS 2: NAVIGASI ----- */
+/* ============================================================
+   BARIS 2: NAVIGASI - HORIZONTAL (SEJAJAR)
+   ============================================================ */
 footer.kaki .kaki-nav,
 .kaki .kaki-nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 0;
+  gap: 12px;
   flex-wrap: wrap;
-  padding: 6px;
-  background: rgba(245, 197, 66, 0.08);
-  border: 1px solid rgba(245, 197, 66, 0.2);
+  padding: 12px 20px;
+  background: rgba(245, 197, 66, 0.06);
+  border: 1px solid rgba(245, 197, 66, 0.15);
   border-radius: 100px;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
 }
 
-/* TOMBOL NAV - SPESIFIK TINGGI */
+/* Tombol navigasi - KONTRAS TINGGI */
 footer.kaki .kaki-nav .kaki-nav-btn,
 footer.kaki .kaki-nav button.kaki-nav-btn,
 footer.kaki button.kaki-nav-btn,
@@ -968,17 +968,17 @@ footer.kaki button.kaki-nav-btn,
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 10px 22px;
+  padding: 8px 18px;
   background: transparent;
   border: none;
   color: #F5C542;
   font-family: inherit;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   cursor: pointer;
-  border-radius: 100px;
+  border-radius: 50px;
   transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-  letter-spacing: 0.4px;
+  letter-spacing: 0.3px;
   line-height: 1.4;
   text-decoration: none;
   outline: none;
@@ -993,25 +993,25 @@ footer.kaki button.kaki-nav-btn:hover,
 .kaki .kaki-nav-btn:hover {
   background: #F5C542;
   color: #0A1628;
-  transform: translateY(-1px);
-  box-shadow: 0 6px 16px rgba(245, 197, 66, 0.4);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(245, 197, 66, 0.35);
 }
 
 .kaki-nav-icon {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1;
   color: inherit;
 }
 
 .kaki-nav-divider {
-  color: rgba(245, 197, 66, 0.3);
-  font-size: 16px;
+  color: rgba(245, 197, 66, 0.4);
+  font-size: 12px;
   font-weight: 700;
-  padding: 0 4px;
-  user-select: none;
 }
 
-/* ----- BARIS 3: KONTAK ----- */
+/* ============================================================
+   BARIS 3: KONTAK - HORIZONTAL (SEJAJAR) - KONTRAS TINGGI
+   ============================================================ */
 footer.kaki .kaki-contact,
 .kaki .kaki-contact {
   display: flex;
@@ -1022,7 +1022,7 @@ footer.kaki .kaki-contact,
   font-size: 14px;
 }
 
-/* PAKSA LINK FOOTER - SPESIFIK TINGGI */
+/* Link kontak - pill emas dengan border */
 footer.kaki .kaki-contact a.kaki-contact-item,
 footer.kaki a.kaki-contact-item,
 footer.kaki a.kaki-contact-item:link,
@@ -1035,13 +1035,14 @@ footer.kaki a.kaki-contact-item:active,
   color: #F5C542;
   text-decoration: none;
   font-weight: 600;
-  padding: 8px 14px;
+  padding: 8px 16px;
   border-radius: 50px;
   background: rgba(245, 197, 66, 0.06);
-  border: 1px solid rgba(245, 197, 66, 0.12);
+  border: 1px solid rgba(245, 197, 66, 0.15);
   transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
   letter-spacing: 0.2px;
   line-height: 1.4;
+  font-size: 14px;
 }
 
 footer.kaki .kaki-contact a.kaki-contact-item:hover,
@@ -1055,13 +1056,15 @@ footer.kaki a.kaki-contact-item:hover,
 }
 
 .kaki-contact-icon {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1;
   color: inherit;
 }
 
 .kaki-contact-divider {
-  display: none;
+  color: rgba(245, 197, 66, 0.4);
+  font-size: 12px;
+  font-weight: 700;
 }
 
 /* ============================================================
@@ -1099,7 +1102,7 @@ footer.kaki button:hover {
   }
 
   .kaki-inner {
-    gap: 18px;
+    gap: 16px;
   }
 
   footer.kaki .kaki-copy {
@@ -1132,7 +1135,6 @@ footer.kaki button:hover {
   .kaki .kaki-contact {
     flex-direction: column;
     gap: 8px;
-    font-size: 13px;
     width: 100%;
   }
 
@@ -1140,6 +1142,10 @@ footer.kaki button:hover {
     justify-content: center;
     width: 100%;
     padding: 10px 16px;
+  }
+
+  .kaki-contact-divider {
+    display: none;
   }
 }
 
@@ -1165,7 +1171,7 @@ footer.kaki button:hover {
 
   footer.kaki .kaki-contact a.kaki-contact-item {
     padding: 9px 14px;
-    font-size: 12px;
+    font-size: 13px;
   }
 }
   </style>
